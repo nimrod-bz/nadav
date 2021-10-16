@@ -1,0 +1,659 @@
+0000.000 (0) Opened log file at time: Sat, 16 Oct 2021 19:31:25 +0000 on http://localhost/nadav
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.62 WP: 5.8.1 PHP: 7.4.21 (apache2handler, Darwin jimiwhos-MacBook-Pro.local 20.2.0 Darwin Kernel Version 20.2.0: Wed Dec  2 20:39:59 PST 2020; root:xnu-7195.60.75~1/RELEASE_X86_64 x86_64) MySQL: 5.7.34 (max packet size=4194304) WPLANG: he_IL Server: Apache/2.4.46 (Unix) OpenSSL/1.0.2u PHP/7.4.21 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 37.5M | 2M) multisite: N openssl: OpenSSL 1.0.2u  20 Dec 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 54352 MB
+0000.006 (0) Deleting old temporary file: backup_2021-10-16-0024_localhost_nadav_4eab04ebf7a0-uploads.zip.list.tmp
+0000.008 (0) Deleting old temporary file: backup_2021-10-16-0024_localhost_nadav_4eab04ebf7a0-others.zip.list.tmp
+0000.008 (0) Deleting old temporary file: backup_2021-10-16-0024_localhost_nadav_4eab04ebf7a0-themes.zip.list.tmp
+0000.008 (0) Deleting old temporary file: backup_2021-10-16-0024_localhost_nadav_4eab04ebf7a0-plugins.zip.list.tmp
+0000.009 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.012 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.018 (0) Set semaphore last lock (fd) time to 2021-10-16 19:31:25
+0000.019 (0) Semaphore lock (fd) complete
+0000.025 (0) Backup run: resumption=0, nonce=7783dfea472f, file_nonce=7783dfea472f begun at=1634412685 (0s ago), job type=backup
+0000.026 (0) Scheduling a resumption (1) after 300 seconds (1634412985) in case this run gets aborted
+0000.067 (0) Checking if we have a zip executable available
+0000.068 (0) Testing: /usr/bin/zip
+0000.074 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.075 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.076 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.077 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.077 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.088 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.089 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.090 (0) Working binary zip found: /usr/bin/zip
+0000.092 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.093 (0) Creation of backups of directories: beginning
+0000.095 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.344 (0) Total entities for the zip file: 3657 directories, 14093 files (0 skipped as non-modified), 193.8 MB
+0001.352 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.356 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.360 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.364 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.369 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.374 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0001.377 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0001.381 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0001.386 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0001.391 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0001.391 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (11.7 MB, 14093 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0002.036 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: size is now: 5.60 MB
+0002.042 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 1100 files added (on-disk size: 5709.2 KB)
+0002.046 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 1200 files added (on-disk size: 5709.2 KB)
+0002.050 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 1300 files added (on-disk size: 5709.2 KB)
+0002.055 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 1400 files added (on-disk size: 5709.2 KB)
+0002.059 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 1500 files added (on-disk size: 5709.2 KB)
+0002.064 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 1600 files added (on-disk size: 5709.2 KB)
+0002.068 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 1700 files added (on-disk size: 5709.2 KB)
+0002.073 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 1800 files added (on-disk size: 5709.2 KB)
+0002.077 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 1900 files added (on-disk size: 5709.2 KB)
+0002.082 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 2000 files added (on-disk size: 5709.2 KB)
+0002.083 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (9.4 MB, 14093 files batched, 1001 (2002) added so far); re-opening (prior size: 5709.2 KB)
+0002.631 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: size is now: 8.30 MB
+0002.638 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 2100 files added (on-disk size: 8527.4 KB)
+0002.642 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 2200 files added (on-disk size: 8527.4 KB)
+0002.647 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 2300 files added (on-disk size: 8527.4 KB)
+0002.651 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 2400 files added (on-disk size: 8527.4 KB)
+0002.678 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 2500 files added (on-disk size: 8527.4 KB)
+0002.683 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 2600 files added (on-disk size: 8527.4 KB)
+0002.687 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 2700 files added (on-disk size: 8527.4 KB)
+0002.692 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 2800 files added (on-disk size: 8527.4 KB)
+0002.696 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 2900 files added (on-disk size: 8527.4 KB)
+0002.700 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 3000 files added (on-disk size: 8527.4 KB)
+0002.701 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (6.8 MB, 14093 files batched, 1001 (3003) added so far); re-opening (prior size: 8527.4 KB)
+0003.126 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: size is now: 10.70 MB
+0003.132 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 3100 files added (on-disk size: 10959.4 KB)
+0003.138 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 3200 files added (on-disk size: 10959.4 KB)
+0003.141 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 3300 files added (on-disk size: 10959.4 KB)
+0003.147 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 3400 files added (on-disk size: 10959.4 KB)
+0003.152 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 3500 files added (on-disk size: 10959.4 KB)
+0003.156 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 3600 files added (on-disk size: 10959.4 KB)
+0003.161 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 3700 files added (on-disk size: 10959.4 KB)
+0003.165 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 3800 files added (on-disk size: 10959.4 KB)
+0003.169 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 3900 files added (on-disk size: 10959.4 KB)
+0003.173 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 4000 files added (on-disk size: 10959.4 KB)
+0003.174 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (7.1 MB, 14093 files batched, 1001 (4004) added so far); re-opening (prior size: 10959.4 KB)
+0003.576 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: size is now: 13.40 MB
+0003.581 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 4100 files added (on-disk size: 13682.5 KB)
+0003.585 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 4200 files added (on-disk size: 13682.5 KB)
+0003.588 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 4300 files added (on-disk size: 13682.5 KB)
+0003.593 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 4400 files added (on-disk size: 13682.5 KB)
+0003.597 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 4500 files added (on-disk size: 13682.5 KB)
+0003.606 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 4600 files added (on-disk size: 13682.5 KB)
+0003.611 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 4700 files added (on-disk size: 13682.5 KB)
+0003.615 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 4800 files added (on-disk size: 13682.5 KB)
+0003.620 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 4900 files added (on-disk size: 13682.5 KB)
+0003.624 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 5000 files added (on-disk size: 13682.5 KB)
+0003.625 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (11.5 MB, 14093 files batched, 1001 (5005) added so far); re-opening (prior size: 13682.5 KB)
+0004.186 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 5100 files added (on-disk size: 16386 KB)
+0004.213 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 5200 files added (on-disk size: 16386 KB)
+0004.217 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 5300 files added (on-disk size: 16386 KB)
+0004.221 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 5400 files added (on-disk size: 16386 KB)
+0004.225 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 5500 files added (on-disk size: 16386 KB)
+0004.229 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 5600 files added (on-disk size: 16386 KB)
+0004.234 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 5700 files added (on-disk size: 16386 KB)
+0004.237 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 5800 files added (on-disk size: 16386 KB)
+0004.244 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 5900 files added (on-disk size: 16386 KB)
+0004.249 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 6000 files added (on-disk size: 16386 KB)
+0004.250 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (12.7 MB, 14093 files batched, 1001 (6006) added so far); re-opening (prior size: 16386 KB)
+0005.034 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: size is now: 22.40 MB
+0005.042 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 6100 files added (on-disk size: 22961.5 KB)
+0005.046 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 6200 files added (on-disk size: 22961.5 KB)
+0005.050 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 6300 files added (on-disk size: 22961.5 KB)
+0005.055 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 6400 files added (on-disk size: 22961.5 KB)
+0005.059 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 6500 files added (on-disk size: 22961.5 KB)
+0005.063 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 6600 files added (on-disk size: 22961.5 KB)
+0005.067 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 6700 files added (on-disk size: 22961.5 KB)
+0005.071 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 6800 files added (on-disk size: 22961.5 KB)
+0005.075 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 6900 files added (on-disk size: 22961.5 KB)
+0005.078 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 7000 files added (on-disk size: 22961.5 KB)
+0005.079 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (7.5 MB, 14093 files batched, 1001 (7007) added so far); re-opening (prior size: 22961.5 KB)
+0005.721 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 7100 files added (on-disk size: 25369.1 KB)
+0005.726 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 7200 files added (on-disk size: 25369.1 KB)
+0005.730 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 7300 files added (on-disk size: 25369.1 KB)
+0005.735 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 7400 files added (on-disk size: 25369.1 KB)
+0005.739 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 7500 files added (on-disk size: 25369.1 KB)
+0005.744 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 7600 files added (on-disk size: 25369.1 KB)
+0005.749 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 7700 files added (on-disk size: 25369.1 KB)
+0005.754 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 7800 files added (on-disk size: 25369.1 KB)
+0005.761 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 7900 files added (on-disk size: 25369.1 KB)
+0005.765 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 8000 files added (on-disk size: 25369.1 KB)
+0005.767 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (7.3 MB, 14093 files batched, 1001 (8008) added so far); re-opening (prior size: 25369.1 KB)
+0006.428 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 8100 files added (on-disk size: 27441.1 KB)
+0006.433 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 8200 files added (on-disk size: 27441.1 KB)
+0006.437 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 8300 files added (on-disk size: 27441.1 KB)
+0006.442 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 8400 files added (on-disk size: 27441.1 KB)
+0006.446 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 8500 files added (on-disk size: 27441.1 KB)
+0006.450 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 8600 files added (on-disk size: 27441.1 KB)
+0006.455 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 8700 files added (on-disk size: 27441.1 KB)
+0006.459 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 8800 files added (on-disk size: 27441.1 KB)
+0006.464 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 8900 files added (on-disk size: 27441.1 KB)
+0006.468 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 9000 files added (on-disk size: 27441.1 KB)
+0006.469 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (23.6 MB, 14093 files batched, 1001 (9009) added so far); re-opening (prior size: 27441.1 KB)
+0007.465 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 9100 files added (on-disk size: 32316 KB)
+0007.469 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 9200 files added (on-disk size: 32316 KB)
+0007.473 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 9300 files added (on-disk size: 32316 KB)
+0007.478 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 9400 files added (on-disk size: 32316 KB)
+0007.482 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 9500 files added (on-disk size: 32316 KB)
+0007.486 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 9600 files added (on-disk size: 32316 KB)
+0007.492 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 9700 files added (on-disk size: 32316 KB)
+0007.495 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25 MB, 14093 files batched, 774 (9783) added so far); re-opening (prior size: 32316 KB)
+0008.818 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: size is now: 40.90 MB
+0008.820 (0) A useful amount of data was added after this amount of zip processing: 1.7 s (normalised: 1.7 s, rate: 14691.7 KB/s)
+0008.822 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.7450230121613, normalised_time=1.7424793926651, max_time=8.821338891983, data points known=1, old_max_bytes=26214400, new_max_bytes=90265859)
+0008.825 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 9800 files added (on-disk size: 41872 KB)
+0008.829 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 9900 files added (on-disk size: 41872 KB)
+0008.833 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 10000 files added (on-disk size: 41872 KB)
+0008.838 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 10100 files added (on-disk size: 41872 KB)
+0008.842 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 10200 files added (on-disk size: 41872 KB)
+0008.847 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 10300 files added (on-disk size: 41872 KB)
+0008.851 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 10400 files added (on-disk size: 41872 KB)
+0008.855 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 10500 files added (on-disk size: 41872 KB)
+0008.863 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 10600 files added (on-disk size: 41872 KB)
+0008.867 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 10700 files added (on-disk size: 41872 KB)
+0008.873 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (13.4 MB, 14093 files batched, 1001 (10784) added so far); re-opening (prior size: 41872 KB)
+0009.814 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 10800 files added (on-disk size: 45874.9 KB)
+0009.819 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 10900 files added (on-disk size: 45874.9 KB)
+0009.824 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 11000 files added (on-disk size: 45874.9 KB)
+0009.828 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 11100 files added (on-disk size: 45874.9 KB)
+0009.833 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 11200 files added (on-disk size: 45874.9 KB)
+0009.838 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 11300 files added (on-disk size: 45874.9 KB)
+0009.842 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 11400 files added (on-disk size: 45874.9 KB)
+0009.847 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 11500 files added (on-disk size: 45874.9 KB)
+0009.851 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 11600 files added (on-disk size: 45874.9 KB)
+0009.856 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 11700 files added (on-disk size: 45874.9 KB)
+0009.860 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (18 MB, 14093 files batched, 1001 (11785) added so far); re-opening (prior size: 45874.9 KB)
+0010.998 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 11800 files added (on-disk size: 53333 KB)
+0011.003 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 11900 files added (on-disk size: 53333 KB)
+0011.008 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 12000 files added (on-disk size: 53333 KB)
+0011.012 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 12100 files added (on-disk size: 53333 KB)
+0011.016 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 12200 files added (on-disk size: 53333 KB)
+0011.021 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 12300 files added (on-disk size: 53333 KB)
+0011.025 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 12400 files added (on-disk size: 53333 KB)
+0011.029 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 12500 files added (on-disk size: 53333 KB)
+0011.034 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 12600 files added (on-disk size: 53333 KB)
+0011.038 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 12700 files added (on-disk size: 53333 KB)
+0011.043 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (32.7 MB, 14093 files batched, 1001 (12786) added so far); re-opening (prior size: 53333 KB)
+0012.966 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: size is now: 66.40 MB
+0012.970 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 12800 files added (on-disk size: 68018.9 KB)
+0012.974 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 12900 files added (on-disk size: 68018.9 KB)
+0012.979 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 13000 files added (on-disk size: 68018.9 KB)
+0012.983 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 13100 files added (on-disk size: 68018.9 KB)
+0012.989 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 13200 files added (on-disk size: 68018.9 KB)
+0012.995 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 13300 files added (on-disk size: 68018.9 KB)
+0013.001 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 13400 files added (on-disk size: 68018.9 KB)
+0013.008 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 13500 files added (on-disk size: 68018.9 KB)
+0013.012 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 13600 files added (on-disk size: 68018.9 KB)
+0013.017 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 13700 files added (on-disk size: 68018.9 KB)
+0013.023 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (5.6 MB, 14093 files batched, 1001 (13787) added so far); re-opening (prior size: 68018.9 KB)
+0013.840 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 13800 files added (on-disk size: 70675.9 KB)
+0013.844 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 13900 files added (on-disk size: 70675.9 KB)
+0013.851 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.tmp: 14000 files added (on-disk size: 70675.9 KB)
+0014.702 (0) Creating zip file manifest (/Users/jimiwho/Sites/nadav/wp-content/updraft/backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip.list-temp.tmp)
+0014.793 (0) Successfully created zip file manifest (size: 1263555)
+0016.150 (0) Created plugins zip (0) - 71251.1 KB in 16.1 s (4438.5 KB/s) (sha1: c024b7aa866fdbe6197a0ab14daf81bff31c5634, sha256: 88e2c35a526ea15290f74739ce8f9f2c5808ef79b1c09191ab4e6e02f1ca496c)
+0016.152 (0) Beginning creation of dump of themes (split every: 400 MB)
+0016.158 (0) Total entities for the zip file: 10 directories, 48 files (0 skipped as non-modified), 0.9 MB
+0016.186 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-themes.zip.tmp: size is now: 0.80 MB
+0016.190 (0) Creating zip file manifest (/Users/jimiwho/Sites/nadav/wp-content/updraft/backup_2021-10-16-1931_localhost_nadav_7783dfea472f-themes.zip.list-temp.tmp)
+0016.191 (0) Successfully created zip file manifest (size: 2702)
+0016.210 (0) Created themes zip (0) - 775.4 KB in 0.1 s (13990.9 KB/s) (sha1: f5a4ac12a01c4a25104948000b3f0ab347bab489, sha256: 13cd231dc7fe1227725b867bd734f9baed71a7e543ebced4a9074bf7b8d77760)
+0016.213 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0016.214 (0) Looking for candidates to backup in: /Users/jimiwho/Sites/nadav/wp-content/uploads
+0016.215 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (1)
+0016.215 (0) finding files: .DS_Store: adding to list (2)
+0016.216 (0) finding files: woocommerce-placeholder-600x600.png: adding to list (3)
+0016.216 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (4)
+0016.217 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (5)
+0016.218 (0) finding files: elementor: adding to list (6)
+0016.218 (0) finding files: woocommerce-placeholder.png: adding to list (7)
+0016.219 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (8)
+0016.219 (0) finding files: 2021: adding to list (9)
+0016.220 (0) finding files: jet-menu: adding to list (10)
+0016.220 (0) finding files: wc-logs: adding to list (11)
+0016.221 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (12)
+0016.222 (0) finding files: woocommerce_uploads: adding to list (13)
+0016.223 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0016.238 (0) Total entities for the zip file: 8 directories, 212 files (0 skipped as non-modified), 3.4 MB
+0016.243 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0016.248 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0016.343 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-uploads.zip.tmp: size is now: 3.40 MB
+0016.350 (0) Creating zip file manifest (/Users/jimiwho/Sites/nadav/wp-content/updraft/backup_2021-10-16-1931_localhost_nadav_7783dfea472f-uploads.zip.list-temp.tmp)
+0016.352 (0) Successfully created zip file manifest (size: 12041)
+0016.423 (0) Created uploads zip (0) - 3510.3 KB in 0.2 s (17625.1 KB/s) (sha1: 367515f6d76586cde53601c33af790053b07d2c5, sha256: 0c3327c9398181eb7b1b2139fa8a255c18959716252c324ed7b6e46daa2e20b6)
+0016.425 (0) Beginning backup of other directories found in the content directory (index: 0)
+0016.427 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0016.427 (0) Looking for candidates to backup in: /Users/jimiwho/Sites/nadav/wp-content
+0016.428 (0) finding files: upgrade: skipping: excluded by options
+0016.429 (0) finding files: .DS_Store: adding to list (1)
+0016.429 (0) finding files: index.php: adding to list (2)
+0016.430 (0) finding files: plugins: skipping: this is the plugins directory
+0016.431 (0) finding files: uploads: skipping: this is the uploads directory
+0016.431 (0) finding files: updraft: skipping: this is the updraft directory
+0016.432 (0) finding files: languages: adding to list (3)
+0016.432 (0) finding files: themes: skipping: this is the themes directory
+0016.454 (0) Total entities for the zip file: 3 directories, 403 files (0 skipped as non-modified), 6.1 MB
+0016.458 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0016.463 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0016.467 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-others.zip.tmp: 300 files added (on-disk size: 0 KB)
+0016.471 (0) Zip: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-others.zip.tmp: 400 files added (on-disk size: 0 KB)
+0016.819 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-others.zip.tmp: size is now: 1.70 MB
+0016.829 (0) Creating zip file manifest (/Users/jimiwho/Sites/nadav/wp-content/updraft/backup_2021-10-16-1931_localhost_nadav_7783dfea472f-others.zip.list-temp.tmp)
+0016.832 (0) Successfully created zip file manifest (size: 32025)
+0016.868 (0) Created others zip (0) - 1696.5 KB in 0.4 s (3909.3 KB/s) (sha1: 6adc84790cffd1f2cb0f7bff4488aea2e92ef8f5, sha256: 37bfe1d9425f23343a1bd7f52a792d7d5a6d7e271e66607536ed557a9daa3795)
+0016.872 (0) Saving backup status to database (elements: 8)
+0016.875 (0) Beginning creation of database dump (WordPress DB)
+0016.876 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0016.942 (0) Table wp_options: Total expected rows (via COUNT): 536
+0016.997 (0) Table wp_options: Rows added in this batch (next record: 2046): 527 (uncompressed bytes in this segment=1109287) in 0.07 seconds
+0017.001 (0) Table wp_options: finishing file(s) (2, 123.9 KB)
+0017.003 (0) Table wp_users: Total expected rows (via COUNT): 1
+0017.004 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.006 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1459) in 0.00 seconds
+0017.009 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0017.012 (0) Table wp_usermeta: Total expected rows (via COUNT): 44
+0017.013 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.015 (0) Table wp_usermeta: Rows added in this batch (next record: 46): 44 (uncompressed bytes in this segment=5302) in 0.00 seconds
+0017.018 (0) Table wp_usermeta: finishing file(s) (2, 2.2 KB)
+0017.027 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 19
+0017.027 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.029 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 27): 19 (uncompressed bytes in this segment=6982) in 0.01 seconds
+0017.033 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 1.2 KB)
+0017.035 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0017.037 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.00 seconds
+0017.039 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0017.045 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 3
+0017.046 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.047 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=751) in 0.00 seconds
+0017.050 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0017.055 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 57
+0017.056 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.059 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 57): 57 (uncompressed bytes in this segment=6318) in 0.01 seconds
+0017.063 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 1.2 KB)
+0017.071 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0017.073 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=685) in 0.00 seconds
+0017.076 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0017.083 (0) Table wp_comments: Total expected rows (via COUNT): 2
+0017.084 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.085 (0) Table wp_comments: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=2452) in 0.00 seconds
+0017.088 (0) Table wp_comments: finishing file(s) (2, 0.9 KB)
+0017.092 (0) Table wp_links: Total expected rows (via COUNT): 0
+0017.094 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1310) in 0.00 seconds
+0017.096 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0017.613 (0) Table wp_postmeta: Total expected rows (approximate): 4041
+0018.370 (0) Table wp_postmeta: Rows added in this batch (next record: 4980): 4316 (uncompressed bytes in this segment=21963458) in 1.27 seconds
+0018.375 (0) Table wp_postmeta: finishing file(s) (2, 1740.7 KB)
+0018.532 (0) Table wp_posts: Total expected rows (via COUNT): 581
+0018.682 (0) Table wp_posts: Rows added in this batch (next record: 606): 581 (uncompressed bytes in this segment=5751477) in 0.30 seconds
+0018.687 (0) Table wp_posts: finishing file(s) (2, 93.3 KB)
+0018.690 (0) Table wp_term_relationships: Total expected rows (approximate): 29
+0018.694 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 29 (uncompressed bytes in this segment=1116) in 0.00 seconds
+0018.698 (0) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0018.704 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 22
+0018.705 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.707 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 23): 22 (uncompressed bytes in this segment=1830) in 0.01 seconds
+0018.711 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.6 KB)
+0018.714 (0) Table wp_termmeta: Total expected rows (via COUNT): 1
+0018.715 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.716 (0) Table wp_termmeta: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=752) in 0.00 seconds
+0018.721 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0018.724 (0) Table wp_terms: Total expected rows (via COUNT): 22
+0018.725 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.727 (0) Table wp_terms: Rows added in this batch (next record: 23): 22 (uncompressed bytes in this segment=1472) in 0.00 seconds
+0018.729 (0) Table wp_terms: finishing file(s) (2, 0.7 KB)
+0018.733 (0) Table wp_wc_category_lookup: Total expected rows (approximate): 2
+0018.735 (0) Table wp_wc_category_lookup: Rows added in this batch (next record: 1000): 2 (uncompressed bytes in this segment=600) in 0.00 seconds
+0018.738 (0) Table wp_wc_category_lookup: finishing file(s) (2, 0.3 KB)
+0018.746 (0) Table wp_wc_product_meta_lookup: Total expected rows (via COUNT): 4
+0018.747 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.749 (0) Table wp_wc_product_meta_lookup: Rows added in this batch (next record: 352): 4 (uncompressed bytes in this segment=1768) in 0.01 seconds
+0018.752 (0) Table wp_wc_product_meta_lookup: finishing file(s) (2, 0.6 KB)
+0018.755 (0) Table wp_wc_reserved_stock: Total expected rows (approximate): 0
+0018.757 (0) Table wp_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=665) in 0.00 seconds
+0018.760 (0) Table wp_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0018.763 (0) Table wp_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0018.763 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.765 (0) Table wp_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=812) in 0.00 seconds
+0018.767 (0) Table wp_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0018.774 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (via COUNT): 15
+0018.776 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.777 (0) Table wp_woocommerce_order_itemmeta: Rows added in this batch (next record: 15): 15 (uncompressed bytes in this segment=1361) in 0.01 seconds
+0018.780 (0) Table wp_woocommerce_order_itemmeta: finishing file(s) (2, 0.6 KB)
+0018.785 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0018.786 (0) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=798) in 0.00 seconds
+0018.790 (0) Table wp_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0018.794 (0) Table wp_e_submissions: Total expected rows (via COUNT): 0
+0018.796 (0) Table wp_e_submissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=2282) in 0.00 seconds
+0018.799 (0) Table wp_e_submissions: finishing file(s) (2, 0.7 KB)
+0018.804 (0) Table wp_e_submissions_actions_log: Total expected rows (via COUNT): 0
+0018.805 (0) Table wp_e_submissions_actions_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1251) in 0.00 seconds
+0018.810 (0) Table wp_e_submissions_actions_log: finishing file(s) (2, 0.5 KB)
+0018.815 (0) Table wp_e_submissions_values: Total expected rows (via COUNT): 0
+0018.815 (0) Table wp_e_submissions_values: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=724) in 0.00 seconds
+0018.825 (0) Table wp_e_submissions_values: finishing file(s) (2, 0.4 KB)
+0018.831 (0) Table wp_give_commentmeta: Total expected rows (via COUNT): 0
+0018.833 (0) Table wp_give_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=700) in 0.00 seconds
+0018.836 (0) Table wp_give_commentmeta: finishing file(s) (2, 0.4 KB)
+0018.842 (0) Table wp_give_comments: Total expected rows (via COUNT): 4
+0018.842 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.844 (0) Table wp_give_comments: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1325) in 0.00 seconds
+0018.848 (0) Table wp_give_comments: finishing file(s) (2, 0.5 KB)
+0018.855 (0) Table wp_give_donationmeta: Total expected rows (via COUNT): 106
+0018.855 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.858 (0) Table wp_give_donationmeta: Rows added in this batch (next record: 106): 106 (uncompressed bytes in this segment=6575) in 0.01 seconds
+0018.861 (0) Table wp_give_donationmeta: finishing file(s) (2, 1.5 KB)
+0018.864 (0) Table wp_give_donormeta: Total expected rows (via COUNT): 3
+0018.865 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.866 (0) Table wp_give_donormeta: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=850) in 0.00 seconds
+0018.871 (0) Table wp_give_donormeta: finishing file(s) (2, 0.5 KB)
+0018.875 (0) Table wp_give_donors: Total expected rows (via COUNT): 1
+0018.876 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.877 (0) Table wp_give_donors: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1004) in 0.00 seconds
+0018.882 (0) Table wp_give_donors: finishing file(s) (2, 0.5 KB)
+0018.887 (0) Table wp_give_formmeta: Total expected rows (via COUNT): 220
+0018.888 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.893 (0) Table wp_give_formmeta: Rows added in this batch (next record: 220): 220 (uncompressed bytes in this segment=27918) in 0.01 seconds
+0018.896 (0) Table wp_give_formmeta: finishing file(s) (2, 5.9 KB)
+0018.903 (0) Table wp_give_log: Total expected rows (via COUNT): 4
+0018.906 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.908 (0) Table wp_give_log: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1916) in 0.01 seconds
+0018.911 (0) Table wp_give_log: finishing file(s) (2, 0.6 KB)
+0018.914 (0) Table wp_give_migrations: Total expected rows (approximate): 9
+0018.916 (0) Table wp_give_migrations: Rows added in this batch (next record: 1000): 9 (uncompressed bytes in this segment=1306) in 0.00 seconds
+0018.919 (0) Table wp_give_migrations: finishing file(s) (2, 0.5 KB)
+0018.924 (0) Table wp_give_revenue: Total expected rows (via COUNT): 6
+0018.924 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.926 (0) Table wp_give_revenue: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=744) in 0.00 seconds
+0018.929 (0) Table wp_give_revenue: finishing file(s) (2, 0.4 KB)
+0018.932 (0) Table wp_give_sequential_ordering: Total expected rows (via COUNT): 6
+0018.933 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.934 (0) Table wp_give_sequential_ordering: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=657) in 0.00 seconds
+0018.936 (0) Table wp_give_sequential_ordering: finishing file(s) (2, 0.4 KB)
+0018.939 (0) Table wp_give_sessions: Total expected rows (approximate): 1
+0018.941 (0) Table wp_give_sessions: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=2211) in 0.00 seconds
+0018.944 (0) Table wp_give_sessions: finishing file(s) (2, 1 KB)
+0018.947 (0) Table wp_jet_post_types: Total expected rows (via COUNT): 0
+0018.948 (0) Table wp_jet_post_types: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=682) in 0.00 seconds
+0018.951 (0) Table wp_jet_post_types: finishing file(s) (2, 0.3 KB)
+0018.955 (0) Table wp_jet_review_comments: Total expected rows (via COUNT): 0
+0018.958 (0) Table wp_jet_review_comments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=993) in 0.01 seconds
+0018.961 (0) Table wp_jet_review_comments: finishing file(s) (2, 0.4 KB)
+0018.968 (0) Table wp_jet_review_guests: Total expected rows (via COUNT): 0
+0018.969 (0) Table wp_jet_review_guests: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=784) in 0.00 seconds
+0018.973 (0) Table wp_jet_review_guests: finishing file(s) (2, 0.4 KB)
+0018.977 (0) Table wp_jet_review_meta: Total expected rows (via COUNT): 0
+0018.979 (0) Table wp_jet_review_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=601) in 0.00 seconds
+0018.982 (0) Table wp_jet_review_meta: finishing file(s) (2, 0.4 KB)
+0018.988 (0) Table wp_jet_review_types: Total expected rows (via COUNT): 1
+0018.989 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.990 (0) Table wp_jet_review_types: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1007) in 0.01 seconds
+0018.995 (0) Table wp_jet_review_types: finishing file(s) (2, 0.5 KB)
+0018.999 (0) Table wp_jet_reviews: Total expected rows (via COUNT): 0
+0019.001 (0) Table wp_jet_reviews: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1190) in 0.00 seconds
+0019.005 (0) Table wp_jet_reviews: finishing file(s) (2, 0.5 KB)
+0019.010 (0) Table wp_jet_smart_filters_indexer: Total expected rows (via COUNT): 0
+0019.013 (0) Table wp_jet_smart_filters_indexer: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=605) in 0.00 seconds
+0019.018 (0) Table wp_jet_smart_filters_indexer: finishing file(s) (2, 0.3 KB)
+0019.021 (0) Table wp_jet_taxonomies: Total expected rows (via COUNT): 0
+0019.022 (0) Table wp_jet_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=735) in 0.00 seconds
+0019.026 (0) Table wp_jet_taxonomies: finishing file(s) (2, 0.4 KB)
+0019.033 (0) Table wp_wc_admin_note_actions: Total expected rows (via COUNT): 10
+0019.033 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0019.035 (0) Table wp_wc_admin_note_actions: Rows added in this batch (next record: 10): 10 (uncompressed bytes in this segment=2732) in 0.01 seconds
+0019.039 (0) Table wp_wc_admin_note_actions: finishing file(s) (2, 0.9 KB)
+0019.042 (0) Table wp_wc_admin_notes: Total expected rows (via COUNT): 9
+0019.042 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0019.043 (0) Table wp_wc_admin_notes: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=5288) in 0.00 seconds
+0019.047 (0) Table wp_wc_admin_notes: finishing file(s) (2, 1.8 KB)
+0019.051 (0) Table wp_wc_customer_lookup: Total expected rows (via COUNT): 1
+0019.052 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0019.053 (0) Table wp_wc_customer_lookup: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1465) in 0.00 seconds
+0019.056 (0) Table wp_wc_customer_lookup: finishing file(s) (2, 0.6 KB)
+0019.060 (0) Table wp_wc_download_log: Total expected rows (via COUNT): 0
+0019.063 (0) Table wp_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=926) in 0.00 seconds
+0019.067 (0) Table wp_wc_download_log: finishing file(s) (2, 0.5 KB)
+0019.071 (0) Table wp_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0019.073 (0) Table wp_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=717) in 0.00 seconds
+0019.076 (0) Table wp_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0019.081 (0) Table wp_wc_order_product_lookup: Total expected rows (via COUNT): 1
+0019.082 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0019.084 (0) Table wp_wc_order_product_lookup: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1359) in 0.00 seconds
+0019.088 (0) Table wp_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0019.095 (0) Table wp_wc_order_stats: Total expected rows (via COUNT): 1
+0019.096 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0019.097 (0) Table wp_wc_order_stats: Rows added in this batch (next record: 386): 1 (uncompressed bytes in this segment=1267) in 0.00 seconds
+0019.100 (0) Table wp_wc_order_stats: finishing file(s) (2, 0.6 KB)
+0019.104 (0) Table wp_wc_order_tax_lookup: Total expected rows (approximate): 0
+0019.106 (0) Table wp_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=799) in 0.00 seconds
+0019.109 (0) Table wp_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0019.113 (0) Table wp_wc_webhooks: Total expected rows (via COUNT): 0
+0019.114 (0) Table wp_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1230) in 0.00 seconds
+0019.118 (0) Table wp_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0019.126 (0) Table wp_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0019.127 (0) Table wp_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1046) in 0.01 seconds
+0019.131 (0) Table wp_woocommerce_api_keys: finishing file(s) (2, 0.5 KB)
+0019.135 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 0
+0019.136 (0) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=961) in 0.00 seconds
+0019.139 (0) Table wp_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0019.143 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0019.143 (0) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1538) in 0.00 seconds
+0019.146 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0019.152 (0) Table wp_woocommerce_log: Total expected rows (via COUNT): 0
+0019.153 (0) Table wp_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=722) in 0.00 seconds
+0019.156 (0) Table wp_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0019.160 (0) Table wp_woocommerce_order_items: Total expected rows (via COUNT): 1
+0019.160 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0019.162 (0) Table wp_woocommerce_order_items: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=847) in 0.00 seconds
+0019.167 (0) Table wp_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0019.172 (0) Table wp_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0019.173 (0) Table wp_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=841) in 0.00 seconds
+0019.176 (0) Table wp_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0019.179 (0) Table wp_woocommerce_sessions: Total expected rows (via COUNT): 1
+0019.181 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0019.183 (0) Table wp_woocommerce_sessions: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=3810) in 0.00 seconds
+0019.188 (0) Table wp_woocommerce_sessions: finishing file(s) (2, 1.3 KB)
+0019.193 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 0
+0019.194 (0) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=874) in 0.00 seconds
+0019.197 (0) Table wp_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0019.200 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 0
+0019.201 (0) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=775) in 0.00 seconds
+0019.204 (0) Table wp_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0019.208 (0) Table wp_woocommerce_shipping_zones: Total expected rows (via COUNT): 0
+0019.209 (0) Table wp_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=633) in 0.00 seconds
+0019.211 (0) Table wp_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0019.217 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 1
+0019.217 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0019.219 (0) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=952) in 0.00 seconds
+0019.222 (0) Table wp_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0019.226 (0) Table wp_woocommerce_tax_rates: Total expected rows (via COUNT): 3
+0019.228 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0019.229 (0) Table wp_woocommerce_tax_rates: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=1528) in 0.00 seconds
+0019.231 (0) Table wp_woocommerce_tax_rates: finishing file(s) (2, 0.5 KB)
+0019.234 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_options.table.tmpr2047.gz (1/65/fopen): adding to final database dump
+0019.237 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_options.table.gz (2/65/fopen): adding to final database dump
+0019.238 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_users.table.tmpr2.gz (3/65/fopen): adding to final database dump
+0019.238 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_users.table.gz (4/65/fopen): adding to final database dump
+0019.239 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_usermeta.table.tmpr47.gz (5/65/fopen): adding to final database dump
+0019.240 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_usermeta.table.gz (6/65/fopen): adding to final database dump
+0019.240 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_actionscheduler_actions.table.tmpr28.gz (7/65/fopen): adding to final database dump
+0019.241 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_actionscheduler_actions.table.gz (8/65/fopen): adding to final database dump
+0019.242 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/65/fopen): adding to final database dump
+0019.242 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_actionscheduler_claims.table.gz (10/65/fopen): adding to final database dump
+0019.243 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_actionscheduler_groups.table.tmpr4.gz (11/65/fopen): adding to final database dump
+0019.243 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_actionscheduler_groups.table.gz (12/65/fopen): adding to final database dump
+0019.244 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_actionscheduler_logs.table.tmpr58.gz (13/65/fopen): adding to final database dump
+0019.244 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_actionscheduler_logs.table.gz (14/65/fopen): adding to final database dump
+0019.245 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_commentmeta.table.tmpr0.gz (15/65/fopen): adding to final database dump
+0019.246 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_commentmeta.table.gz (16/65/fopen): adding to final database dump
+0019.246 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_comments.table.tmpr3.gz (17/65/fopen): adding to final database dump
+0019.247 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_comments.table.gz (18/65/fopen): adding to final database dump
+0019.247 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_links.table.tmpr0.gz (19/65/fopen): adding to final database dump
+0019.249 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_links.table.gz (20/65/fopen): adding to final database dump
+0019.249 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_postmeta.table.tmpr4981.gz (21/65/fopen): adding to final database dump
+0019.288 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_postmeta.table.gz (22/65/fopen): adding to final database dump
+0019.289 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_posts.table.tmpr607.gz (23/65/fopen): adding to final database dump
+0019.291 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_posts.table.gz (24/65/fopen): adding to final database dump
+0019.292 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_term_relationships.table.tmpr100001.gz (25/65/fopen): adding to final database dump
+0019.293 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_term_relationships.table.gz (26/65/fopen): adding to final database dump
+0019.293 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_term_taxonomy.table.tmpr24.gz (27/65/fopen): adding to final database dump
+0019.294 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_term_taxonomy.table.gz (28/65/fopen): adding to final database dump
+0019.295 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_termmeta.table.tmpr2.gz (29/65/fopen): adding to final database dump
+0019.296 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_termmeta.table.gz (30/65/fopen): adding to final database dump
+0019.297 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_terms.table.tmpr24.gz (31/65/fopen): adding to final database dump
+0019.297 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_terms.table.gz (32/65/fopen): adding to final database dump
+0019.298 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_category_lookup.table.tmpr1001.gz (33/65/fopen): adding to final database dump
+0019.299 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_category_lookup.table.gz (34/65/fopen): adding to final database dump
+0019.299 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_product_meta_lookup.table.tmpr353.gz (35/65/fopen): adding to final database dump
+0019.300 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_product_meta_lookup.table.gz (36/65/fopen): adding to final database dump
+0019.301 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_reserved_stock.table.tmpr1.gz (37/65/fopen): adding to final database dump
+0019.302 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_reserved_stock.table.gz (38/65/fopen): adding to final database dump
+0019.302 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_tax_rate_classes.table.tmpr3.gz (39/65/fopen): adding to final database dump
+0019.303 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_tax_rate_classes.table.gz (40/65/fopen): adding to final database dump
+0019.304 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_order_itemmeta.table.tmpr16.gz (41/65/fopen): adding to final database dump
+0019.305 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_order_itemmeta.table.gz (42/65/fopen): adding to final database dump
+0019.306 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_payment_tokenmeta.table.tmpr0.gz (43/65/fopen): adding to final database dump
+0019.306 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_payment_tokenmeta.table.gz (44/65/fopen): adding to final database dump
+0019.307 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_e_submissions.table.tmpr0.gz (45/65/fopen): adding to final database dump
+0019.308 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_e_submissions.table.gz (46/65/fopen): adding to final database dump
+0019.308 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_e_submissions_actions_log.table.tmpr0.gz (47/65/fopen): adding to final database dump
+0019.309 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_e_submissions_actions_log.table.gz (48/65/fopen): adding to final database dump
+0019.309 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_e_submissions_values.table.tmpr0.gz (49/65/fopen): adding to final database dump
+0019.310 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_e_submissions_values.table.gz (50/65/fopen): adding to final database dump
+0019.311 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_give_commentmeta.table.tmpr0.gz (51/65/fopen): adding to final database dump
+0019.311 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_give_commentmeta.table.gz (52/65/fopen): adding to final database dump
+0019.312 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_give_comments.table.tmpr5.gz (53/65/fopen): adding to final database dump
+0019.312 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_give_comments.table.gz (54/65/fopen): adding to final database dump
+0019.313 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_give_donationmeta.table.tmpr107.gz (55/65/fopen): adding to final database dump
+0019.314 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_give_donationmeta.table.gz (56/65/fopen): adding to final database dump
+0019.314 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_give_donormeta.table.tmpr4.gz (57/65/fopen): adding to final database dump
+0019.315 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_give_donormeta.table.gz (58/65/fopen): adding to final database dump
+0019.315 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_give_donors.table.tmpr2.gz (59/65/fopen): adding to final database dump
+0019.316 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_give_donors.table.gz (60/65/fopen): adding to final database dump
+0019.317 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_give_formmeta.table.tmpr221.gz (61/65/fopen): adding to final database dump
+0019.317 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_give_formmeta.table.gz (62/65/fopen): adding to final database dump
+0019.318 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_give_log.table.tmpr5.gz (63/65/fopen): adding to final database dump
+0019.319 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_give_log.table.gz (64/65/fopen): adding to final database dump
+0019.320 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_give_migrations.table.tmpr1001.gz (65/65/fopen): adding to final database dump
+0019.320 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_give_migrations.table.gz (66/65/fopen): adding to final database dump
+0019.321 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_give_revenue.table.tmpr7.gz (67/65/fopen): adding to final database dump
+0019.322 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_give_revenue.table.gz (68/65/fopen): adding to final database dump
+0019.325 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_give_sequential_ordering.table.tmpr7.gz (69/65/fopen): adding to final database dump
+0019.326 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_give_sequential_ordering.table.gz (70/65/fopen): adding to final database dump
+0019.327 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_give_sessions.table.tmpr1001.gz (71/65/fopen): adding to final database dump
+0019.327 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_give_sessions.table.gz (72/65/fopen): adding to final database dump
+0019.328 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_jet_post_types.table.tmpr0.gz (73/65/fopen): adding to final database dump
+0019.329 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_jet_post_types.table.gz (74/65/fopen): adding to final database dump
+0019.329 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_jet_review_comments.table.tmpr0.gz (75/65/fopen): adding to final database dump
+0019.330 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_jet_review_comments.table.gz (76/65/fopen): adding to final database dump
+0019.330 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_jet_review_guests.table.tmpr0.gz (77/65/fopen): adding to final database dump
+0019.331 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_jet_review_guests.table.gz (78/65/fopen): adding to final database dump
+0019.332 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_jet_review_meta.table.tmpr0.gz (79/65/fopen): adding to final database dump
+0019.332 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_jet_review_meta.table.gz (80/65/fopen): adding to final database dump
+0019.333 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_jet_review_types.table.tmpr2.gz (81/65/fopen): adding to final database dump
+0019.334 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_jet_review_types.table.gz (82/65/fopen): adding to final database dump
+0019.334 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_jet_reviews.table.tmpr0.gz (83/65/fopen): adding to final database dump
+0019.335 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_jet_reviews.table.gz (84/65/fopen): adding to final database dump
+0019.335 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_jet_smart_filters_indexer.table.tmpr0.gz (85/65/fopen): adding to final database dump
+0019.336 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_jet_smart_filters_indexer.table.gz (86/65/fopen): adding to final database dump
+0019.337 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_jet_taxonomies.table.tmpr0.gz (87/65/fopen): adding to final database dump
+0019.337 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_jet_taxonomies.table.gz (88/65/fopen): adding to final database dump
+0019.338 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_admin_note_actions.table.tmpr11.gz (89/65/fopen): adding to final database dump
+0019.338 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_admin_note_actions.table.gz (90/65/fopen): adding to final database dump
+0019.339 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_admin_notes.table.tmpr10.gz (91/65/fopen): adding to final database dump
+0019.340 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_admin_notes.table.gz (92/65/fopen): adding to final database dump
+0019.340 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_customer_lookup.table.tmpr2.gz (93/65/fopen): adding to final database dump
+0019.341 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_customer_lookup.table.gz (94/65/fopen): adding to final database dump
+0019.342 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_download_log.table.tmpr0.gz (95/65/fopen): adding to final database dump
+0019.343 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_download_log.table.gz (96/65/fopen): adding to final database dump
+0019.343 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_order_coupon_lookup.table.tmpr1.gz (97/65/fopen): adding to final database dump
+0019.344 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_order_coupon_lookup.table.gz (98/65/fopen): adding to final database dump
+0019.345 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_order_product_lookup.table.tmpr2.gz (99/65/fopen): adding to final database dump
+0019.346 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_order_product_lookup.table.gz (100/65/fopen): adding to final database dump
+0019.347 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_order_stats.table.tmpr387.gz (101/65/fopen): adding to final database dump
+0019.347 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_order_stats.table.gz (102/65/fopen): adding to final database dump
+0019.348 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_order_tax_lookup.table.tmpr1.gz (103/65/fopen): adding to final database dump
+0019.348 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_order_tax_lookup.table.gz (104/65/fopen): adding to final database dump
+0019.349 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_webhooks.table.tmpr0.gz (105/65/fopen): adding to final database dump
+0019.350 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_wc_webhooks.table.gz (106/65/fopen): adding to final database dump
+0019.351 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_api_keys.table.tmpr0.gz (107/65/fopen): adding to final database dump
+0019.351 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_api_keys.table.gz (108/65/fopen): adding to final database dump
+0019.352 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_attribute_taxonomies.table.tmpr0.gz (109/65/fopen): adding to final database dump
+0019.352 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_attribute_taxonomies.table.gz (110/65/fopen): adding to final database dump
+0019.353 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_downloadable_product_permissions.table.tmpr0.gz (111/65/fopen): adding to final database dump
+0019.354 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (112/65/fopen): adding to final database dump
+0019.354 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_log.table.tmpr0.gz (113/65/fopen): adding to final database dump
+0019.355 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_log.table.gz (114/65/fopen): adding to final database dump
+0019.356 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_order_items.table.tmpr2.gz (115/65/fopen): adding to final database dump
+0019.356 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_order_items.table.gz (116/65/fopen): adding to final database dump
+0019.357 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_payment_tokens.table.tmpr0.gz (117/65/fopen): adding to final database dump
+0019.357 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_payment_tokens.table.gz (118/65/fopen): adding to final database dump
+0019.358 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_sessions.table.tmpr2.gz (119/65/fopen): adding to final database dump
+0019.359 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_sessions.table.gz (120/65/fopen): adding to final database dump
+0019.359 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_shipping_zone_locations.table.tmpr0.gz (121/65/fopen): adding to final database dump
+0019.360 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_shipping_zone_locations.table.gz (122/65/fopen): adding to final database dump
+0019.361 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_shipping_zone_methods.table.tmpr0.gz (123/65/fopen): adding to final database dump
+0019.361 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_shipping_zone_methods.table.gz (124/65/fopen): adding to final database dump
+0019.362 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_shipping_zones.table.tmpr0.gz (125/65/fopen): adding to final database dump
+0019.363 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_shipping_zones.table.gz (126/65/fopen): adding to final database dump
+0019.364 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_tax_rate_locations.table.tmpr2.gz (127/65/fopen): adding to final database dump
+0019.364 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_tax_rate_locations.table.gz (128/65/fopen): adding to final database dump
+0019.365 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_tax_rates.table.tmpr4.gz (129/65/fopen): adding to final database dump
+0019.365 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db-table-wp_woocommerce_tax_rates.table.gz (130/65/fopen): adding to final database dump
+0019.393 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db.gz: finished writing out complete database file (2000.4 KB)
+0019.445 (0) Total database tables backed up: 65 (backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db.gz, size: 2048529, sha1: e1ea0ecdb4ad2972bbf74f7063b43386f173195c, sha256: e83e1a4caf66454c8fc673514c5c2df7c34aff58748d5b4222d705ea59e6e7c8)
+0019.449 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0019.450 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0019.450 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0019.451 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-others.zip: others: This file has not yet been successfully uploaded: will queue
+0019.452 (0) backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db.gz: db: This file has not yet been successfully uploaded: will queue
+0019.453 (0) Saving backup history. Total backup size: 77.4 MB
+0019.454 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0019.456 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0019.457 (0) No remote despatch: user chose no remote backup service
+0019.457 (0) Recording as successfully uploaded: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-plugins.zip
+0019.460 (0) Recording as successfully uploaded: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-themes.zip
+0019.461 (0) Recording as successfully uploaded: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-uploads.zip
+0019.462 (0) Recording as successfully uploaded: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-others.zip
+0019.464 (0) Recording as successfully uploaded: backup_2021-10-16-1931_localhost_nadav_7783dfea472f-db.gz
+0019.466 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0019.467 (0) Number of backup sets in history: 3; groups (db): 1
+0019.468 (0) Examining (for databases) backup set with group_id=0, nonce=7783dfea472f, datestamp=1634412685 (Oct 16 2021 19:31:25)
+0019.469 (0) This backup set is the backup set just made, so will not be deleted.
+0019.469 (0) Examining (for databases) backup set with group_id=0, nonce=4eab04ebf7a0, datestamp=1634343867 (Oct 16 2021 00:24:27)
+0019.469 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0019.469 (0) Examining (for databases) backup set with group_id=0, nonce=6b06d2061023, datestamp=1634294049 (Oct 15 2021 10:34:09)
+0019.469 (0) 1634294049: db: this set includes a database (backup_2021-10-15-1034_localhost_nadav_6b06d2061023-db.gz); db count is now 2
+0019.469 (0) 1634294049: db: over retain limit (2); will delete this database
+0019.469 (0) Delete file: backup_2021-10-15-1034_localhost_nadav_6b06d2061023-db.gz, service=none
+0019.470 (0) Deleting local copy (backup_2021-10-15-1034_localhost_nadav_6b06d2061023-db.gz)
+0019.472 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0019.472 (0) Number of backup sets in history: 3; groups (files): 1
+0019.473 (0) Examining (for files) backup set with nonce=7783dfea472f, datestamp=1634412685 (Oct 16 2021 19:31:25)
+0019.473 (0) This backup set is the backup set just made, so will not be deleted.
+0019.473 (0) This backup set is the backup set just made, so will not be deleted.
+0019.474 (0) This backup set is the backup set just made, so will not be deleted.
+0019.474 (0) This backup set is the backup set just made, so will not be deleted.
+0019.474 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0019.474 (0) Examining (for files) backup set with nonce=4eab04ebf7a0, datestamp=1634343867 (Oct 16 2021 00:24:27)
+0019.474 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0019.474 (0) Examining (for files) backup set with nonce=6b06d2061023, datestamp=1634294049 (Oct 15 2021 10:34:09)
+0019.474 (0) plugins: over retain limit (2); will delete this file entity
+0019.474 (0) themes: over retain limit (2); will delete this file entity
+0019.474 (0) uploads: over retain limit (2); will delete this file entity
+0019.474 (0) others: over retain limit (2); will delete this file entity
+0019.475 (0) Delete file: backup_2021-10-15-1034_localhost_nadav_6b06d2061023-plugins.zip, service=none
+0019.476 (0) Deleting local copy (backup_2021-10-15-1034_localhost_nadav_6b06d2061023-plugins.zip)
+0019.476 (0) Delete file: backup_2021-10-15-1034_localhost_nadav_6b06d2061023-themes.zip, service=none
+0019.478 (0) Deleting local copy (backup_2021-10-15-1034_localhost_nadav_6b06d2061023-themes.zip)
+0019.478 (0) Delete file: backup_2021-10-15-1034_localhost_nadav_6b06d2061023-uploads.zip, service=none
+0019.479 (0) Deleting local copy (backup_2021-10-15-1034_localhost_nadav_6b06d2061023-uploads.zip)
+0019.480 (0) Delete file: backup_2021-10-15-1034_localhost_nadav_6b06d2061023-others.zip, service=none
+0019.480 (0) Deleting local copy (backup_2021-10-15-1034_localhost_nadav_6b06d2061023-others.zip)
+0019.481 (0) This backup set is now empty; will remove from history
+0019.482 (0) Deleting log file (log.6b06d2061023.txt)
+0019.483 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0019.485 (0) Resume backup (7783dfea472f, 0): finish run
+0019.487 (0) Decremented the semaphore (fd) by 1
+0019.487 (0) Semaphore (fd) unlocked
+0019.488 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0019.491 (0) No email will/can be sent - the user has not configured an email address.
+0019.491 (0) The backup apparently succeeded and is now complete

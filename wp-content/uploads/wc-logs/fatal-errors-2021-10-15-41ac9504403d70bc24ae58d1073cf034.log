@@ -1,0 +1,2 @@
+2021-10-15T09:32:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 16600696 bytes) בקובץ /Users/jimiwho/Sites/nadav/wp-content/plugins/elementor/core/common/modules/ajax/module.php בשורה 265
+

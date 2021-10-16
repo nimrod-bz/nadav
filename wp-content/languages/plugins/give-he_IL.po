@@ -1,0 +1,5835 @@
+# Translation of Plugins - GiveWP &#8211; Donation Plugin and Fundraising Platform - Stable (latest release) in Hebrew
+# This file is distributed under the same license as the Plugins - GiveWP &#8211; Donation Plugin and Fundraising Platform - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-04 23:12:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: he_IL\n"
+"Project-Id-Version: Plugins - GiveWP &#8211; Donation Plugin and Fundraising Platform - Stable (latest release)\n"
+
+#: includes/admin/forms/class-metabox-form-data.php:382
+#: includes/admin/settings/class-settings-display.php:113
+msgid "Donor Comments"
+msgstr "הערות התורם"
+
+#: includes/process-donation.php:604
+msgid "Please enter your title."
+msgstr "הזן את הכותרת שלך"
+
+#: includes/admin/import-functions.php:414
+msgid "Total"
+msgstr "סך הכל"
+
+#: includes/forms/functions.php:1504 assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/tabs/edit-profile/content.js:40
+msgid "Ms."
+msgstr "גברת"
+
+#: includes/forms/functions.php:1503 assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/tabs/edit-profile/content.js:44
+msgid "Mrs."
+msgstr "גב'"
+
+#: includes/forms/functions.php:1502 assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/tabs/edit-profile/content.js:36
+msgid "Mr."
+msgstr "אדון"
+
+#: includes/admin/import-functions.php:444
+msgid "Last"
+msgstr "אחרון"
+
+#: includes/admin/import-functions.php:439
+msgid "First"
+msgstr "ראשון"
+
+#: includes/admin/import-functions.php:421
+msgid "Code"
+msgstr "קוד"
+
+#: includes/admin/import-functions.php:433
+#: includes/admin/import-functions.php:545
+#: assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/tabs/edit-profile/content.js:144
+msgid "Prefix"
+msgstr "קידומת"
+
+#: includes/forms/template.php:939
+msgid "Would you like to add a comment to this donation?"
+msgstr "האם תרצה להוסיף הערה עבור תרומה זו?"
+
+#: includes/emails/class-give-email-tags.php:505
+msgid "The website URL."
+msgstr "כתובת האתר"
+
+#: includes/class-give-scripts.php:241
+msgid "Submit and Deactivate"
+msgstr "שלח וסגור"
+
+#: includes/class-give-scripts.php:240
+msgid "Error: Please select at least one option."
+msgstr "שגיאה: יש לבחור אפשרות אחת מינימום"
+
+#: blocks/donor-wall/class-give-donor-wall.php:160
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:106
+#: includes/donors/class-give-donor-wall.php:197
+#: blocks/donor-wall/data/attributes.js:81
+msgid "Load more"
+msgstr "טען עוד"
+
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:104
+msgid "Load More Text:"
+msgstr "טען טקסט נוסף"
+
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:27
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:28
+#: blocks/donor-wall/index.js:19
+msgid "Donor Wall"
+msgstr "קיר התורם"
+
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:83
+msgid "Donors Per Page:"
+msgstr "תורמים לדף"
+
+#: includes/admin/plugins.php:553 src/Onboarding/Config/CauseTypes.php:10
+msgid "Other"
+msgstr "אחר"
+
+#: includes/admin/plugins.php:521 includes/admin/plugins.php:542
+msgid "Can you describe the issue?"
+msgstr "האם תוכל לתאר את הבעיה?"
+
+#: includes/admin/plugins.php:492
+msgid "I found a better plugin"
+msgstr "מצאתי תוסף יותר טוב"
+
+#: includes/admin/plugins.php:478
+msgid "I'm only deactivating temporarily"
+msgstr "אני משבית את התוסף זמני"
+
+#: includes/admin/plugins.php:473
+msgid "If you have a moment, please let us know why you are deactivating Give. All submissions are anonymous and we only use this feedback to improve this plugin."
+msgstr "אם יש לך רגע, נשמח לדעת מדוע הנך מבטל את לתת. המשוב הוא אנונימי ואנו משתמשים בו רק בכדי לשפר את התוסף."
+
+#: includes/admin/payments/view-payment-details.php:936
+msgid "Add a comment"
+msgstr "הוסף תגובה"
+
+#: includes/admin/payments/view-payment-details.php:480
+msgid "Anonymous Donation:"
+msgstr "תרומה אנונימית"
+
+#: includes/admin/plugins.php:485
+msgid "I no longer need the plugin"
+msgstr "אני כבר לא צריך את התוסף"
+
+#: includes/admin/plugins.php:496
+msgid "What is the name of the plugin?"
+msgstr "מהו שם התוסף?"
+
+#: includes/admin/plugins.php:519 includes/admin/plugins.php:540
+msgid "We're sorry to hear that, check"
+msgstr "אנחנו מצטערים לשמוע. נבדוק."
+
+#: includes/admin/plugins.php:532
+msgid "The plugin suddenly stopped working"
+msgstr "התוסף הפסיק לפעול באופן פתאומי"
+
+#: includes/forms/template.php:935
+msgid "Comment"
+msgstr "תגובה"
+
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:124
+msgid "Anonymous:"
+msgstr "בעילום שם"
+
+#: includes/admin/forms/class-give-form-duplicator.php:57
+msgid "Duplicate"
+msgstr "לשכפל"
+
+#: includes/admin/emails/class-email-setting-field.php:230
+msgid "Email Header"
+msgstr "כותרת דוא\"ל"
+
+#: includes/admin/import-functions.php:468
+msgid "zipcode"
+msgstr "מיקוד"
+
+#: includes/admin/import-functions.php:450
+#: assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/tabs/edit-profile/content.js:165
+msgid "Company"
+msgstr "חברה"
+
+#: includes/admin/import-functions.php:418
+msgid "Currencies"
+msgstr "מטבעות"
+
+#: includes/admin/tools/views/html-admin-page-data.php:117
+#: includes/admin/tools/views/html-admin-page-data.php:118
+#: includes/admin/tools/views/html-admin-page-data.php:119
+msgid "Deletes"
+msgstr "נמחק"
+
+#: includes/admin/tools/import/class-give-import-donations.php:844
+msgid "Begin Import"
+msgstr "התחל ייבוא"
+
+#: includes/admin/tools/export/give-export-donations-functions.php:455
+msgid "Donor's Email"
+msgstr "כתובת דוא\"ל של התורם"
+
+#: includes/admin/tools/export/give-export-donations-functions.php:471
+msgid "Donor's Billing Address"
+msgstr "כתובת החיוב של התורם"
+
+#: includes/admin/tools/export/give-export-donations-functions.php:447
+msgid "Donor's Last Name"
+msgstr "שם משפחה של התורם"
+
+#: includes/admin/tools/export/give-export-donations-functions.php:439
+msgid "Donor's First Name"
+msgstr "שם פרטי של התורם"
+
+#: includes/admin/tools/export/give-export-donations-functions.php:423
+msgid "Donor Fields"
+msgstr "שדות התורמים"
+
+#: includes/admin/import-functions.php:484
+#: includes/admin/tools/export/give-export-donations-exporter.php:218
+#: includes/admin/tools/export/give-export-donations-functions.php:326
+msgid "Payment Gateway"
+msgstr "שער תשלום"
+
+#: includes/admin/import-functions.php:447
+#: includes/admin/tools/export/give-export-donations-exporter.php:192
+#: includes/admin/tools/export/give-export-donations-functions.php:463
+#: includes/forms/template.php:848 includes/forms/template.php:858
+#: templates/shortcode-profile-editor.php:67 templates/shortcode-receipt.php:56
+msgid "Company Name"
+msgstr "שם החברה"
+
+#: includes/admin/tools/export/give-export-donations-exporter.php:177
+#: includes/admin/tools/export/give-export-donations-functions.php:267
+msgid "Donation Number"
+msgstr "מספר תרומה"
+
+#: includes/admin/tools/export/class-give-export-donations.php:322
+msgid "Export Donations"
+msgstr "יצוא תרומות"
+
+#: includes/admin/tools/export/class-give-export-donations.php:264
+msgid "Filter by Status:"
+msgstr "סנן לפי סטטוס:"
+
+#: includes/admin/tools/export/class-give-export-donations.php:235
+msgid "Filter by Date:"
+msgstr "סנן לפי תאריך:"
+
+#: includes/admin/tools/export/class-give-export-donations.php:223
+msgid "No donation forms found"
+msgstr "לא נמצאו טפסים של תרומות"
+
+#: includes/admin/tools/export/class-give-export-donations.php:212
+msgid "Filter by Donation Form:"
+msgstr "סנן לפי טופס תרומה:"
+
+#: includes/admin/tools/export/class-give-export-donations.php:181
+msgid "Filter by Tags:"
+msgstr "סינון לפי תגיות"
+
+#: includes/admin/import-functions.php:413
+#: includes/admin/tools/export/give-export-donations-exporter.php:206
+#: includes/admin/tools/export/give-export-donations-functions.php:278
+#: src/Receipt/DonationReceipt.php:236
+msgid "Donation Total"
+msgstr "סה\"כ תרומה"
+
+#: includes/admin/import-functions.php:493
+#: includes/admin/tools/export/give-export-donations-exporter.php:248
+#: includes/admin/tools/export/give-export-donations-functions.php:503
+msgid "Donor IP Address"
+msgstr "כתובת IP של התורם"
+
+#: includes/admin/tools/export/class-give-export-donations.php:148
+msgid "Filter by Categories:"
+msgstr "סינון לפי קטגוריות"
+
+#: includes/admin/shortcodes/shortcode-give-totals.php:121
+msgid "Donate!"
+msgstr "לתרום!"
+
+#: includes/admin/shortcodes/shortcode-give-totals.php:113
+msgid "Link:"
+msgstr "קישור"
+
+#: includes/admin/shortcodes/shortcode-give-totals.php:119
+msgid "Link Text:"
+msgstr "קישור טקסט:"
+
+#: includes/admin/shortcodes/shortcode-give-totals.php:103
+msgid "Message:"
+msgstr "הודעה:"
+
+#: includes/admin/shortcodes/shortcode-give-totals.php:95
+msgid "Enter the total goal amount that you would like to display."
+msgstr "הזן סכום כולל של היעד אותו תרצה להציג."
+
+#: includes/admin/shortcodes/shortcode-give-totals.php:94
+msgid "Total Goal:"
+msgstr "סה\"כ יעד:"
+
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:132
+#: blocks/donation-form-grid/data/options.js:39
+msgid "Redirect"
+msgstr "הפניה מחודשת"
+
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:139
+msgid "Forms Per Page:"
+msgstr "טפסים לעמוד:"
+
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:92
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:117
+msgid "4"
+msgstr "4"
+
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:91
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:116
+msgid "3"
+msgstr "3"
+
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:90
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:115
+msgid "2"
+msgstr "2"
+
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:89
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:114
+msgid "1"
+msgstr "1"
+
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:110
+msgid "Do you want to display the excerpt?"
+msgstr "האם תרצה להציג את הקטע?"
+
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:109
+msgid "Show Excerpt:"
+msgstr "הצג קטע:"
+
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:99
+msgid "Show Goal:"
+msgstr "הצג יעד:"
+
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:87
+msgid "Sets the number of forms per row."
+msgstr "קובע את מספר הטפסים בכל שורה."
+
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:86
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:111
+msgid "Columns:"
+msgstr "עמודות:"
+
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:47
+msgid "Form IDs:"
+msgstr "מזהה טופס:"
+
+#: includes/admin/settings/class-settings-general.php:584
+msgid "Unlock all settings"
+msgstr "בטל נעילה של כלל ההגדרות"
+
+#. translators: %s: user first name
+#: includes/process-donation.php:314
+msgid "Welcome %s! You have successfully logged into your account."
+msgstr "ברוך הבא %s! הכניסה לחשבונך בוצעה בהצלחה."
+
+#: includes/class-give-scripts.php:364
+msgid "Choose Image"
+msgstr "בחר תמונה"
+
+#: includes/admin/emails/class-donor-register-email.php:49
+#: includes/admin/emails/class-new-donor-register-email.php:37
+#: includes/admin/emails/class-new-donor-register-email.php:50
+msgid "New User Registration"
+msgstr "רישום משתמש חדש"
+
+#: includes/user-functions.php:431
+msgid "Passwords should have at least 6 characters."
+msgstr "הסיסמה חייבת לכלול לפחות 6 תווים."
+
+#: includes/class-give-scripts.php:356
+msgid "Are you sure you want to set status of {payment_count} donations to {status}?"
+msgstr "האם אתה בטוח כי ברצונך לקבוע {payment_count} כתרומה ל{status}?"
+
+#: includes/class-give-scripts.php:355
+msgid "Are you sure you want to set status of this donation to {status}?"
+msgstr "האם אתה בטוח כי ברצונך לקבוע את הסטטוס של התרומה הזאת ל{status}?"
+
+#: includes/class-give-scripts.php:354
+msgid "You must choose at least one or more donations to set status to {status}."
+msgstr "חייב לבחור לפחות תרומה אחת או יותר כדי לשנות את הסטטוס ל{status}."
+
+#: includes/class-notices.php:515
+#: src/PaymentGateways/Stripe/Admin/AccountManagerSettingField.php:403
+msgid "Click here"
+msgstr "לחץ כאן"
+
+#: includes/admin/payments/class-payments-table.php:778
+msgid "Set To Preapproval"
+msgstr "הגדר לאישור מראש"
+
+#: includes/admin/payments/class-payments-table.php:772
+msgid "Set To Processing"
+msgstr "הגדר לעיבוד"
+
+#: give.php:353
+msgid "If you cannot upgrade your PHP version yourself, you can send an email to your host. If they don't want to upgrade your PHP version, we would suggest you switch hosts. Have a look at one of the recommended %1$sWordPress hosting partners%2$s."
+msgstr "אם אינך יכול לשדרג את גרסת הPHP שלך בעצמך, אתה יכול לשלוח אימייל למארח שלך (Host). במידה והם לא יהיו מעוניינים ללשדרג את גרסת הPHP שלך, אנו מציעים להחליף מארח. תוכל לעיין בין המארחים המומלצים כאן %1$sWordPress hosting partners%2$s."
+
+#: give.php:351
+msgid "Can't update? Ask your host!"
+msgstr "לא יכול לעדכן? שאל את המארח שלך (Host)!"
+
+#: give.php:347
+msgid "You should update your PHP version to either 5.6 or to 7.0 or 7.1. On a normal WordPress site, switching to PHP 5.6 should never cause issues. We would however actually recommend you switch to PHP7. There are some plugins that are not ready for PHP7 though, so do some testing first. PHP7 is much faster than PHP 5.6. It's also the only PHP version still in active development and therefore the better option for your site in the long run."
+msgstr "אתה צריך לעדכן את גרסת הPHP שלך לאחת מהגרסאות הבאות 5.6, 7.0 או 7.1. באתר וורדפסר רגיל, השינוי לPHP 5.6 לא אמורה לגרום בעיות. על כל אופן אנו ממליצים לך להחליף לPHP7. אמנם, ישנם תוספים שעדיין לא מותאמים לPHP7, לכן כדאי לבצע מספר בדיקות תחילה. PHP7 מהיר בהרבה מPHP 5.6, כמו גם PHP7 הוא הגרסת PHP היחידה שנמצאת עדיין תחת פיתוח אקטיבי ולכן מהווה אופציה טובה יותר לאתר שלך בתווח הרחוק."
+
+#: give.php:346
+msgid "To which version should I update?"
+msgstr "לאיזו גרסה כדאי לי לעדכן?"
+
+#: give.php:342
+msgid "Hosts have the ability to update your PHP version, but sometimes they don't dare to do that because they're afraid they'll break your site."
+msgstr "למארחים (Hosts) יש את היכולת לעדכן לך את גרסת הPHP, אמנם, לעיתים הם לא מעיזים לעשות זאת מחשש לשבור לך את האתר."
+
+#: give.php:334
+msgid "Your site could be faster and more secure with a newer PHP version."
+msgstr "האתר יכול להיות מהיר ובטוח יותר עם גרסת PHP חדשה יותר."
+
+#: includes/admin/class-give-html-elements.php:759
+msgid "Select a user"
+msgstr "בחר משתמש"
+
+#: includes/class-give-scripts.php:372
+msgid "Searching results for match {search_term}"
+msgstr "מחפש תוצאות עבור {search_term}"
+
+#: includes/class-give-scripts.php:371
+msgid "No results match {search_term}"
+msgstr "אין תוצאות עבור {search_term}"
+
+#: includes/class-give-scripts.php:321
+msgid "Type to search all states/provinces"
+msgstr "הקלד לחיפוש בכל המדינות / מחוזות"
+
+#: includes/class-give-scripts.php:320
+msgid "Type to search all countries"
+msgstr "הקלד לחיפוש בכל הארצות"
+
+#: includes/class-give-scripts.php:319
+msgid "Type to search all donors"
+msgstr "הקלד לחיפוש בין כל התורמים"
+
+#: includes/class-give-scripts.php:282
+msgid "Are you sure you want to disconnect the user from this donor?"
+msgstr "האם אתה בטוח שברצונך לנתק את המשתמש מתורם זה?"
+
+#: includes/admin/payments/class-payments-table.php:502
+msgid "via"
+msgstr "באמצעות"
+
+#: includes/admin/donors/donor-actions.php:412
+msgid "Donor ID is required."
+msgstr "נדרש זיהוי תורם."
+
+#. translators: 1. Donor Email, 2. Submitted Email
+#: includes/process-donation.php:267
+msgid "You are logged in as %1$s, and are submitting a donation as %2$s, which is an existing donor. To ensure that the email address is tied to the correct donor, please submit this donation from a logged-out browser, or choose another email address."
+msgstr "הינך מחובר בתור %1$s, ומבצע תרומה בתור %2$s, שהוא תורם קיים. כדי לוודא שכתובת האימייל קשורה לתורם הנכון, אנא שלח את התרומה מדפדפן לא מחובר, או בחר כתובת מייל אחרת."
+
+#: includes/admin/emails/class-new-offline-donation-email.php:44
+#: includes/gateways/offline-donations.php:236
+msgid "New Offline Donation"
+msgstr "תרומה לא מקוונת חדשה"
+
+#: includes/post-types.php:398
+msgctxt "Processing payment status"
+msgid "Processing"
+msgstr "מעבד"
+
+#: includes/admin/payments/class-payments-table.php:321
+#: includes/payments/functions.php:546
+msgid "Processing"
+msgstr "מעבד"
+
+#: includes/gateways/offline-donations.php:225
+msgid "View Donation Details &raquo;"
+msgstr "ראה פרטי תרומה"
+
+#: includes/post-types.php:403
+msgid "Processing <span class=\"count\">(%s)</span>"
+msgid_plural "Processing <span class=\"count\">(%s)</span>"
+msgstr[0] "יחיד: מעבד <span class=\"count\">(%s)</span>"
+msgstr[1] "רבים: מעבד <span class=\"count\">(%s)</span>"
+
+#: includes/class-give-cache.php:223 includes/class-give-cache.php:264
+#: includes/class-give-cache.php:313
+msgid "Cache key format should be give_cache_*"
+msgstr "פורמט מפתח המטמון צריך להיות give_cache_*"
+
+#: templates/shortcode-receipt.php:190
+msgid "Payment Cancelled: Your donation has been cancelled."
+msgstr "התשלום בוטל: התרומה שלך בוטלה."
+
+#: templates/shortcode-receipt.php:182
+msgid "Payment Preapproved: Thank you for your donation."
+msgstr "התשלום אושר מראש: תודה על תרומתך."
+
+#: templates/shortcode-receipt.php:178
+msgid "Payment Refunded: Your donation has been refunded."
+msgstr "תשלום הוחזר: התרומה שלך הוחזרה."
+
+#: templates/shortcode-receipt.php:174
+msgid "Payment Pending: Your donation is currently processing."
+msgstr "התשלום בהמתנה: התרומה שלך נמצאת כרגע בעיבוד."
+
+#: templates/shortcode-receipt.php:194
+msgid "Payment Abandoned: This donation has not been completed."
+msgstr "התשלום ננטש: תרומה זו לא הושלמה."
+
+#: includes/forms/widget.php:237 includes/forms/widget.php:289
+msgid "Button Text:"
+msgstr "טקסט על הלחצן:"
+
+#: includes/admin/shortcodes/shortcode-give-form.php:113
+msgid "Button Text"
+msgstr "טקסט על הלחצן"
+
+#: includes/admin/add-ons/actions.php:602
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now%6$s."
+msgstr "גרסה חדשה של %1$s זמינה כעת.  %2$sראה גרסה %3$sפרטים %4$s או %5$sעדכן עכשיו%6$s."
+
+#: includes/admin/add-ons/actions.php:594
+#: includes/admin/add-ons/actions.php:668
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr "גרסה חדשה של %1$s זמינה כעת. %2$sראה גרסה %3$sפרטים %4$s."
+
+#: includes/admin/forms/class-metabox-form-data.php:523
+msgid "Do you want to display a custom message when the goal is closed?"
+msgstr "האם ברצונך להציג הודעה מותאמת אישית כשהמטרה סגורה?"
+
+#: templates/history-donations.php:212
+msgid "View"
+msgstr "הצג"
+
+#: templates/history-donations.php:226
+msgid "View Receipt &raquo;"
+msgstr "ראה קבלה"
+
+#: includes/admin/donors/donor-actions.php:457
+#: includes/admin/donors/donor-actions.php:563
+msgid "Email address %1$s set as primary by %2$s"
+msgstr "כתובת מייל %1$s כפי שנקבע על ידי %2$s"
+
+#: includes/forms/widget.php:264 blocks/donation-form/data/options.js:23
+msgid "Below"
+msgstr "מתחת"
+
+#: includes/forms/widget.php:263 blocks/donation-form/data/options.js:22
+msgid "Above"
+msgstr "מעל"
+
+#: includes/forms/widget.php:261
+msgid "Display Content (optional):"
+msgstr "הצג תוכן (אופציונאלי):"
+
+#: includes/user-functions.php:323
+msgid "Enter a username."
+msgstr "הכנס שם משתמש."
+
+#: includes/admin/emails/class-email-setting-field.php:210
+msgid "Email Subject"
+msgstr "נושא האימייל"
+
+#: includes/gateways/offline-donations.php:304
+msgid "Donation Instructions"
+msgstr "הוראות התרומה"
+
+#: includes/gateways/offline-donations.php:291
+msgid "Billing Fields"
+msgstr "שדות חיוב"
+
+#: includes/class-give-scripts.php:351
+msgid "Are you sure you want to resend the emails receipt to {payment_count} recipients?"
+msgstr "האם אתה בטוח שברצונך לשלוח שוב את הקבלה של האימייל ל {payment_count} נמענים?"
+
+#: includes/class-give-scripts.php:350
+msgid "Are you sure you want to resend the email receipt to this recipient?"
+msgstr "האם אתה בטוח שברצונך לשלוח שוב את הקבלה של האימייל לנמען הזה?"
+
+#: includes/class-give-scripts.php:349
+msgid "You must choose at least one or more recipients to resend the email receipt."
+msgstr "אתה חייב לבחור נמען אחד לפחות כדי לשלוח שוב את הקבלה של האימייל."
+
+#: includes/class-give-scripts.php:346
+msgid "Are you sure you want to permanently delete the selected {payment_count} donations?"
+msgstr "האם אתה בטוח שברצונך למחוק לצמיתות את התרומות {payment_count} שנבחרו? "
+
+#: includes/class-give-scripts.php:345
+msgid "Are you sure you want to permanently delete this donation?"
+msgstr "האם אתה בטוח שברצונך למחוק לצמיתות את התרומה הזאת?"
+
+#: includes/class-give-scripts.php:344
+msgid "You must choose at least one or more donations to delete."
+msgstr "אתה חייב לבחור לפחות תשלום אחד או יותר לביצוע מחיקה. "
+
+#: includes/class-give-scripts.php:317 assets/dist/js/admin.js:70
+#: assets/dist/js/give.js:45
+msgid "Dismiss this notice."
+msgstr "בטל הודעה זו."
+
+#: includes/gateways/offline-donations.php:277
+msgid "Do you want to customize the donation instructions for this form?"
+msgstr "האם ברצונך להתאים אישית את הוראות התרומה בשביל טופס זה?"
+
+#: includes/admin/tools/views/html-admin-page-system-info.php:986
+#: includes/class-give-license-handler.php:887
+msgid "Version"
+msgstr "גרסה"
+
+#: includes/admin/tools/views/html-admin-page-system-info.php:972
+msgid "Theme"
+msgstr "תבנית"
+
+#: includes/admin/tools/views/html-admin-page-system-info.php:805
+#: includes/admin/tools/views/html-admin-page-system-info.php:862
+#: includes/admin/tools/views/html-admin-page-system-info.php:909
+#: includes/admin/tools/views/html-admin-page-system-info.php:959
+#: includes/admin/upgrades/views/plugins-update-section.php:51
+msgctxt "by author"
+msgid "by %s"
+msgstr "מאת %s"
+
+#: includes/admin/tools/views/html-admin-page-system-info.php:621
+msgid "After"
+msgstr "אחרי"
+
+#: includes/admin/tools/views/html-admin-page-system-info.php:621
+msgid "Before"
+msgstr "לפני"
+
+#: includes/admin/tools/views/html-admin-page-system-info.php:639
+msgid "Failure Page"
+msgstr "עמוד כישלון"
+
+#: includes/admin/import-functions.php:420
+#: includes/admin/tools/export/give-export-donations-exporter.php:209
+#: includes/admin/tools/export/give-export-donations-functions.php:286
+#: includes/admin/tools/views/html-admin-page-system-info.php:614
+msgid "Currency Code"
+msgstr "קוד מטבע"
+
+#: includes/admin/tools/views/html-admin-page-system-info.php:425
+#: includes/admin/tools/views/html-admin-page-system-info.php:443
+msgid "Error: %s"
+msgstr "שגיאה: %s"
+
+#: includes/admin/tools/views/html-admin-page-system-info.php:427
+#: includes/admin/tools/views/html-admin-page-system-info.php:445
+msgid "Status code: %s"
+msgstr "קוד סטטוס: %s"
+
+#: includes/admin/tools/views/html-admin-page-system-info.php:311
+msgid "MySQL Version"
+msgstr "גרסת MySQL"
+
+#: includes/admin/views/html-admin-settings.php:135
+msgid "Save changes"
+msgstr "שמירת שינויים"
+
+#: includes/admin/tools/views/html-admin-page-system-info.php:195
+#: src/DonorDashboards/Repositories/Donations.php:347
+msgid "Unknown"
+msgstr "לא ידוע"
+
+#: includes/admin/tools/views/html-admin-page-system-info.php:276
+msgid "cURL Version"
+msgstr "גרסת cURL"
+
+#: includes/admin/tools/views/html-admin-page-system-info.php:174
+msgid "Accessible"
+msgstr "נגיש"
+
+#: includes/admin/tools/views/html-admin-page-system-info.php:174
+msgid "Inaccessible"
+msgstr "לא נגיש"
+
+#: includes/admin/tools/views/html-admin-page-system-info.php:126
+msgid "Language"
+msgstr "שפה"
+
+#: includes/admin/tools/views/html-admin-page-system-info.php:131
+msgid "Permalink Structure"
+msgstr "מבנה קישור"
+
+#: includes/admin/settings/class-settings-display.php:310
+msgid "Terms and Conditions Settings"
+msgstr "הגדרות תנאי שימוש"
+
+#: includes/admin/settings/class-settings-display.php:263
+msgid "Taxonomies Settings"
+msgstr "הגדרות טקסונומיות"
+
+#: includes/admin/settings/class-settings-display.php:249
+msgid "Form Tags"
+msgstr "תגיות טופס"
+
+#: includes/admin/settings/class-settings-display.php:238
+msgid "Form Categories"
+msgstr "קטגוריות טופס"
+
+#: includes/admin/settings/class-settings-display.php:221
+msgid "Post Types Settings"
+msgstr "הגדרות סוגי תוכן"
+
+#: includes/admin/settings/class-settings-display.php:177
+msgid "Form Excerpts"
+msgstr "תיאור טופס"
+
+#: includes/admin/settings/class-settings-display.php:188
+msgid "Form Featured Image"
+msgstr "התמונה הראשית של הטופס"
+
+#: includes/admin/reports/graphing.php:841
+msgid "Refresh Report Data"
+msgstr "רענון נתוני דוח"
+
+#: includes/admin/reports/class-gateways-report.php:87
+#: includes/admin/settings/class-settings-gateways.php:200
+msgid "Gateways"
+msgstr "שיטות תשלום"
+
+#: includes/admin/reports/class-gateways-report.php:37
+#: includes/admin/reports/reports.php:124
+msgid "Donation Methods"
+msgstr "שיטת תרומה"
+
+#: includes/admin/give-metabox-functions.php:1435 src/FormAPI/Form/Group.php:34
+msgid "Group"
+msgstr "קבוצה"
+
+#: includes/admin/forms/class-metabox-form-data.php:548
+msgid "Terms & Conditions"
+msgstr "תנאי שימוש"
+
+#: src/Form/Template/Options.php:204
+msgid "Above fields"
+msgstr "מעל השדות"
+
+#: includes/admin/forms/class-metabox-form-data.php:510
+msgid "Close Form"
+msgstr "סגירת טופס"
+
+#: includes/admin/settings/class-settings-advanced.php:195
+msgid "Advanced Settings"
+msgstr "הגדרות מתקדמות"
+
+#. translators: %s: the_content
+#: includes/admin/settings/class-settings-advanced.php:102
+msgid "%s filter"
+msgstr "פילטר %s"
+
+#: includes/admin/settings/class-settings-advanced.php:88
+msgid "Yes, Remove all data"
+msgstr "כן, הסר את כל המידע"
+
+#: includes/admin/forms/class-metabox-form-data.php:405
+#: includes/admin/forms/class-metabox-form-data.php:411
+msgid "Registration"
+msgstr "הרשמה"
+
+#: includes/admin/forms/class-metabox-form-data.php:413
+msgid "Registration + Login"
+msgstr "הרשמה והתחברות"
+
+#: includes/admin/forms/class-metabox-form-data.php:394
+msgid "Guest Donations"
+msgstr "תרומה אנונימית"
+
+#: src/Form/Template/Options.php:52
+msgid "Submit Button"
+msgstr "כפתור שליחה"
+
+#: src/Form/Template/Options.php:127
+#: src/Views/Form/Templates/Sequoia/optionConfig.php:99
+msgid "Continue Button"
+msgstr "כפתור המשך"
+
+#: includes/admin/shortcodes/shortcode-give-form.php:106
+#: includes/forms/widget.php:231 src/Form/Template/Options.php:106
+msgid "Button"
+msgstr "כפתור"
+
+#: includes/admin/forms/class-metabox-form-data.php:421
+#: src/Views/Form/Templates/Legacy/optionConfig.php:9
+msgid "Form Display"
+msgstr "תצוגת טופס"
+
+#: includes/admin/payments/view-payment-details.php:410
+msgid "Donation Form ID:"
+msgstr "ה-ID של טופס התרומה:"
+
+#: includes/admin/donors/donors.php:778
+#: includes/admin/settings/class-settings-email.php:201
+msgid "Donor Emails"
+msgstr "האימייל של התורם"
+
+#: includes/post-types.php:443 includes/post-types.php:453
+msgid "Form submitted."
+msgstr "הטופס נשלח."
+
+#: includes/post-types.php:442 includes/post-types.php:452
+msgid "Form saved."
+msgstr "הטופס נשמר."
+
+#: includes/post-types.php:441 includes/post-types.php:451
+msgid "Form published."
+msgstr "הטופס פורסם."
+
+#: includes/post-types.php:66
+msgid "No forms found in Trash."
+msgstr "לא נמצאו טפסים בפח."
+
+#: includes/post-types.php:64
+msgid "Search Forms"
+msgstr "חיפוש טפסים"
+
+#: includes/admin/class-give-html-elements.php:150
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:49
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:48
+#: includes/admin/tools/export/class-give-export-donations.php:222
+#: includes/post-types.php:62
+msgid "All Forms"
+msgstr "כל הטפסים"
+
+#: includes/admin/import-functions.php:340 includes/post-types.php:61
+msgid "New Form"
+msgstr "טופס חדש"
+
+#: includes/post-types.php:60 blocks/components/edit-form/index.js:30
+msgid "Edit Donation Form"
+msgstr "עריכת טופס תרומה"
+
+#: includes/post-types.php:58
+msgid "Add Form"
+msgstr "הוספת טופס"
+
+#: includes/payments/functions.php:1452
+msgid "Delete this donation note."
+msgstr "מחק הערת תרומה זו."
+
+#: includes/post-types.php:439 includes/post-types.php:440
+#: includes/post-types.php:449 includes/post-types.php:450
+msgid "Form updated."
+msgstr "טופס עודכן."
+
+#: includes/class-give-scripts.php:283
+msgid "Choose a form"
+msgstr "בחר טופס"
+
+#: includes/class-give-scripts.php:515
+msgid "Please select payment mode."
+msgstr "נא לבחור שיטת תשלום."
+
+#. translators: %s: the template
+#: includes/template-functions.php:58
+msgid "The %s template was not found."
+msgstr "התבנית %s לא נמצאה."
+
+#: templates/shortcode-profile-editor.php:26
+msgid "Your profile has been updated."
+msgstr "הפרופיל עודכן."
+
+#: includes/class-give-scripts.php:522 includes/process-donation.php:570
+msgid "You must agree to the terms and conditions."
+msgstr "יש לאשר את תנאי השימוש."
+
+#: includes/shortcodes.php:210
+msgid "The form does not have Goals enabled."
+msgstr "לטופס לא הוגדר יעד."
+
+#: includes/class-give-scripts.php:318
+msgid "Type to search all forms"
+msgstr "סוג טפסי חיפוש"
+
+#: includes/shortcodes.php:204
+msgid "The shortcode is missing Donation Form ID attribute."
+msgstr "בשורטקוד חסר הפרמטר ID של טופס התרומה."
+
+#: templates/shortcode-receipt.php:170
+msgid "Payment Complete: Thank you for your donation."
+msgstr "התשלום הושלם: תודה על התרומה."
+
+#: templates/shortcode-receipt.php:186
+msgid "Payment Failed: Please contact the site owner for assistance."
+msgstr "התשלום נכשל: יש ליצור קשר עם בעל האתר לקבל עזרה."
+
+#: includes/forms/template.php:1775
+msgid "Terms"
+msgstr "תנאים"
+
+#: includes/emails/template.php:183
+msgid "- Select a donation -"
+msgstr "- בחר תרומה -"
+
+#. translators: %s: filter name
+#. translators: %s: filter name
+#: includes/deprecated/deprecated-filters.php:87
+#: includes/gateways/stripe/includes/deprecated/deprecated-filters.php:60
+msgid "The %s filter"
+msgstr "הפילטר %s"
+
+#. translators: %s: action name.
+#: includes/deprecated/deprecated-actions.php:143
+#: src/Form/LegacyConsumer/Commands/DeprecateOldTemplateHook.php:29
+msgid "The %s action"
+msgstr "האקשן %s"
+
+#: includes/emails/class-give-email-tags.php:484
+msgid "The name of your site."
+msgstr "שם האתר שלך."
+
+#: includes/install.php:473
+msgid "Donation Failed"
+msgstr "התרומה נכשלה"
+
+#: includes/admin/emails/abstract-email-notification.php:907
+#: includes/emails/template.php:86
+msgid "Sample Donation Form Title - Sample Donation Level"
+msgstr "כותרת טופס תרומה - רמת תרומה"
+
+#: includes/country-functions.php:2314
+msgid "Álava"
+msgstr "אלבה"
+
+#: includes/forms/template.php:1760
+msgid "Please enter valid terms and conditions in <a href=\"%s\">this form's settings</a>."
+msgstr "נא להזין תנאי שימוש ב<a href=\"%s\">הגדרות הטופס</a>."
+
+#: includes/class-give-cli-commands.php:715
+msgid "Sales"
+msgstr "מכירות"
+
+#: includes/class-give-cli-commands.php:714
+msgid "Earnings"
+msgstr "רווחים"
+
+#: includes/class-give-cli-commands.php:629
+msgid "%1$s. Donation #%2$s"
+msgstr "%1$s. תרומה #%2$s"
+
+#: includes/class-give-cli-commands.php:134
+msgid "Currency Position: "
+msgstr "מיקום מטבע:"
+
+#: includes/class-give-cli-commands.php:133
+msgid "Currency: "
+msgstr "מטבע:"
+
+#: includes/class-give-cli-commands.php:131
+msgid "Currency Information"
+msgstr "פרטי מטבע"
+
+#: includes/class-give-cli-commands.php:124
+msgid "Country: "
+msgstr "מדינה:"
+
+#: includes/class-give-cli-commands.php:270
+msgid "Not set"
+msgstr "לא הוגדר"
+
+#: includes/class-give-cli-commands.php:259
+msgid "form type"
+msgstr "סוג קובץ"
+
+#: includes/class-give-cli-commands.php:121
+#: includes/class-give-cli-commands.php:122
+#: includes/class-give-cli-commands.php:123
+#: includes/class-give-cli-commands.php:139
+msgid "Not Set"
+msgstr "לא הוגדר"
+
+#: includes/class-give-cli-commands.php:121
+msgid "Success Page: "
+msgstr "עמוד הצלחה:"
+
+#: includes/class-give-cli-commands.php:115
+msgid "General information"
+msgstr "מידע כללי"
+
+#: includes/admin/class-give-html-elements.php:82
+msgid "Select a donation"
+msgstr "בחר תרומה"
+
+#: includes/class-give-cli-commands.php:430
+msgid "%1$d donors created in %2$d seconds"
+msgstr "%1$d תורמים נוצרו ב-%2$d שניות."
+
+#: includes/class-give-cli-commands.php:282
+msgid "%d donation forms found"
+msgstr "לא נמצאו %d טפסי תרומה"
+
+#: includes/class-give-cli-commands.php:136
+msgid "Decimal Separator: "
+msgstr "מפריד עשרוני:"
+
+#: includes/class-give-cli-commands.php:139
+msgid "Default Gateway: "
+msgstr "שיטת תשלום ברירת מחדל:"
+
+#: includes/class-give-cli-commands.php:123
+msgid "Donation History Page: "
+msgstr "עמוד היסטוריית תרומות:"
+
+#: includes/class-give-cli-commands.php:421
+msgid "Donor #%d created successfully"
+msgstr "תורם #%d נוצר בהצלחה"
+
+#: includes/class-give-cli-commands.php:143
+msgid "Enabled Gateways: "
+msgstr "שיטות תשלום פעילות:"
+
+#: includes/class-give-cli-commands.php:811
+msgid "Error while deleting this transient"
+msgstr "שגיאה במחיקת transient."
+
+#: includes/class-give-cli-commands.php:122
+msgid "Failed Donation Page: "
+msgstr "עמוד של תרומה שנכשלה:"
+
+#: includes/class-give-cli-commands.php:423
+msgid "Failed to create donor"
+msgstr "שגיאה ביצירת תורם."
+
+#: includes/class-give-cli-commands.php:137
+msgid "Number of Decimals: "
+msgstr "מספר ערכים עשרוניים:"
+
+#: includes/class-give-cli-commands.php:138
+msgid "Test Mode: "
+msgstr "מצב ניסיון"
+
+#: includes/class-give-cli-commands.php:135
+msgid "Thousand Separator: "
+msgstr "מפריד אלפים:"
+
+#: includes/class-give-cli-commands.php:152
+msgid "Not any payment gateways found"
+msgstr "לא נמצאה שיטת תשלום"
+
+#: includes/class-give-cli-commands.php:480
+msgid "s_no"
+msgstr "s_no"
+
+#: includes/class-give-cli-commands.php:747
+msgid "Type wp give cache --action=delete to delete all stat transients"
+msgstr "הקלידו wp give cache --action=delete כדי למחוק את כל ה-transients"
+
+#: blocks/load.php:16 includes/admin/plugins.php:256
+msgid "Give"
+msgstr "לתת"
+
+#: src/Views/Admin/Form/Metabox-Settings.php:50
+msgid "Learn More"
+msgstr "למד עוד"
+
+#: includes/admin/class-give-html-elements.php:198
+#: includes/admin/shortcodes/shortcode-give-form.php:57
+#: includes/admin/shortcodes/shortcode-give-goal.php:58
+#: includes/admin/tools/export/pdf-reports.php:192
+#: includes/class-give-cli-commands.php:216 includes/post-types.php:65
+msgid "No forms found."
+msgstr "לא נמצאו טפסים."
+
+#: includes/admin/tools/data/class-give-tools-reset-stats.php:236
+msgid "You do not have permission to reset data."
+msgstr "אין לך הרשאות לאפס מידע."
+
+#: includes/admin/payments/view-payment-details.php:642
+msgid "Change Donor:"
+msgstr "שינוי תורם:"
+
+#: includes/admin/payments/view-payment-details.php:602
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:144
+msgid "Donor Name:"
+msgstr "שם התורם:"
+
+#: includes/admin/payments/view-payment-details.php:596
+msgid "Donor Since:"
+msgstr "תורם מאז:"
+
+#: includes/admin/donors/donors.php:412
+#: includes/admin/payments/view-payment-details.php:583
+msgid "Donor ID:"
+msgstr "ה-ID של התורם:"
+
+#: includes/admin/payments/view-payment-details.php:593
+msgid "Create New Donor"
+msgstr "צור תורם חדש"
+
+#: includes/admin/import-functions.php:409
+#: includes/admin/tools/export/give-export-donations-exporter.php:174
+#: includes/admin/tools/export/give-export-donations-functions.php:256
+#: templates/shortcode-receipt.php:94
+msgid "Donation ID"
+msgstr "ה-ID של התרומה"
+
+#: includes/admin/donors/donors.php:661
+#: includes/admin/payments/view-payment-details.php:782
+msgid "Address 2:"
+msgstr "כתובת 2:"
+
+#: includes/admin/donors/donors.php:653
+#: includes/admin/payments/view-payment-details.php:775
+msgid "Address 1:"
+msgstr "כתובת 1:"
+
+#: includes/admin/payments/view-payment-details.php:680
+msgid "New Donor Email:"
+msgstr "אימייל של תורם חדש:"
+
+#: includes/admin/payments/view-payment-details.php:442
+msgid "Donation Level:"
+msgstr "רמת תרומה:"
+
+#: includes/admin/payments/view-payment-details.php:868
+msgid "Donation Notes"
+msgstr "הערות תרומה"
+
+#: includes/admin/tools/data/class-give-tools-recount-donor-stats.php:221
+#: includes/admin/tools/data/class-give-tools-recount-single-donor-stats.php:208
+msgid "Donor stats have been successfully recounted."
+msgstr "הסטטיסטיקות של התורם נספרו מחדש בהצלחה."
+
+#: includes/admin/payments/view-payment-details.php:885
+msgid "No donation notes."
+msgstr "לא נמצאו הערות תרומה."
+
+#: includes/admin/reports/class-gateways-reports-table.php:202
+msgid "Donation Methods Report"
+msgstr "דוח שיטות תשלום"
+
+#: includes/admin/payments/class-payments-table.php:638
+#: includes/admin/payments/view-payment-details.php:150
+msgid "Delete Donation %s"
+msgstr "מחיקת תרומה %s"
+
+#: includes/admin/payments/actions.php:86
+msgid "Error Updating Donation."
+msgstr "שגיאה בעדכון תרומה."
+
+#: includes/admin/payments/class-payments-table.php:619
+msgid "Resend Donation %s Receipt"
+msgstr "שלח שוב קבלה לתרומה %s"
+
+#: includes/admin/payments/view-payment-details.php:250
+msgid "Save Donation"
+msgstr "שמור תרומה"
+
+#: includes/admin/payments/class-payments-table.php:667
+#: includes/admin/payments/view-payment-details.php:76
+msgid "This donation was made in test mode."
+msgstr "תרומה זו בוצעה במצב ניסיון."
+
+#: includes/admin/payments/view-payment-details.php:133
+msgid "Update Donation"
+msgstr "עדכון תרומה"
+
+#: includes/admin/payments/view-payment-details.php:290
+msgid "Donation Meta"
+msgstr "שדות מיוחדים"
+
+#: includes/admin/payments/class-payments-table.php:534
+msgid "View Donation #%s"
+msgstr "הצג תרומה #%s"
+
+#: includes/admin/donors/donors.php:1064
+msgid "No donor notes found."
+msgstr "לא נמצאו הערות תורם."
+
+#: includes/admin/shortcodes/shortcode-give-form.php:92
+msgid "Display content ABOVE the fields"
+msgstr "הצג תוכן מעל השדות"
+
+#: includes/admin/shortcodes/shortcode-give-form.php:93
+msgid "Display content BELOW the fields"
+msgstr "הצג תוכן מתחת לשדות"
+
+#: includes/admin/donors/donors.php:964 includes/post-types.php:63
+#: includes/post-types.php:449 includes/post-types.php:450
+#: includes/post-types.php:451 includes/post-types.php:452
+#: includes/post-types.php:453
+msgid "View Form"
+msgstr "הצג טופס"
+
+#. translators: %s: form name
+#: includes/admin/donors/donors.php:961
+msgid "View Form %s."
+msgstr "הצג טופס %s."
+
+#: includes/admin/donors/donors.php:938
+msgid "Completed Forms"
+msgstr "טפסים שהושלמו"
+
+#: includes/admin/admin-actions.php:368
+msgid "The donation has been updated."
+msgstr "התורם עודכן."
+
+#: includes/admin/admin-actions.php:358
+msgid "The donation note has been added."
+msgstr "הערת תרומה התווספה."
+
+#: includes/admin/settings/class-settings-general.php:284
+msgid "Failed Donation Page"
+msgstr "עמוד של תרומה שנכשלה"
+
+#: includes/admin/admin-actions.php:311
+msgid "API keys have been revoked."
+msgstr "מפתח API נשלל."
+
+#: includes/admin/admin-actions.php:301
+msgid "API keys have been regenerated."
+msgstr "מפתח API נוצר מחדש."
+
+#: includes/admin/admin-actions.php:281
+msgid "API keys have been generated."
+msgstr "מפתח API נוצר."
+
+#: includes/admin/admin-actions.php:225
+msgid "The donation has been deleted."
+msgstr "מפתח API נמחק."
+
+#: includes/admin/donors/class-donor-table.php:339
+msgid "Delete \"%s\""
+msgstr "מחק \"%s\""
+
+#: includes/admin/donors/class-donor-table.php:338
+msgid "View \"%s\""
+msgstr "הצג \"%s\""
+
+#: includes/admin/donors/donor-actions.php:414
+msgid "An error has occurred. Please try again."
+msgstr "אירעה שגיאה. נא לנסות שנית."
+
+#: includes/admin/donors/donor-actions.php:410
+msgid "Email address is required."
+msgstr "כתובת אימייל נדרשת."
+
+#: includes/admin/donors/donor-actions.php:447
+msgid "Email successfully added to donor."
+msgstr "כתובת אימייל נוספה בהצלחה לתורם."
+
+#: includes/admin/donors/donor-actions.php:440
+msgid "Email address is already associated with another donor."
+msgstr "כתובת אימייל כבר משוייכת לתורם אחר."
+
+#: includes/admin/donors/donor-actions.php:435
+msgid "Email already associated with this donor."
+msgstr "כתובת אימייל כבר משוייכת לתורם זה."
+
+#: includes/admin/donors/donor-actions.php:57
+#: includes/admin/donors/donor-actions.php:216
+#: includes/admin/donors/donor-actions.php:307
+#: includes/admin/emails/class-donation-receipt-email.php:274
+#: includes/admin/emails/class-donation-receipt-email.php:313
+#: includes/admin/emails/class-donor-note-email.php:78
+#: includes/admin/emails/class-donor-register-email.php:113
+#: includes/admin/emails/class-email-access-email.php:270
+#: includes/admin/emails/class-new-donation-email.php:247
+#: includes/admin/emails/class-new-donor-register-email.php:109
+#: includes/admin/emails/class-new-offline-donation-email.php:259
+#: includes/admin/emails/class-offline-donation-instruction-email.php:225
+msgid "Cheatin&#8217; uh?"
+msgstr "מרמה אהה?"
+
+#: includes/admin/donors/donors.php:843
+#: includes/admin/emails/class-email-setting-field.php:335
+#: includes/admin/settings/class-settings-advanced.php:238
+#: assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/tabs/edit-profile/email-controls/index.js:67
+msgid "Add Email"
+msgstr "הוספת אימייל"
+
+#: includes/admin/admin-actions.php:461
+msgid "Failed to remove donor email."
+msgstr "שגיאה בהסרת אימייל של התורם."
+
+#: includes/admin/donors/donors.php:824 includes/admin/donors/donors.php:841
+#: assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/tabs/edit-profile/address-controls/index.js:47
+#: src/DonorDashboards/resources/js/app/tabs/edit-profile/email-controls/index.js:46
+msgid "Make Primary"
+msgstr "הפוך לראשי"
+
+#: includes/admin/donors/donors.php:851
+msgid "No Emails Found"
+msgstr "לא נמצאו אימיילים."
+
+#: includes/admin/settings/class-settings-general.php:320
+#: src/PaymentGateways/PayPalCommerce/AdminSettingFields.php:94
+msgid "The country your site operates from."
+msgstr "המדינה ממנה פועל האתר."
+
+#: includes/admin/settings/class-settings-general.php:167
+msgid "The position of the currency symbol."
+msgstr "המיקום של סמל המטבע."
+
+#: includes/admin/donors/donors.php:417
+msgid "User ID:"
+msgstr "מספר משתמש"
+
+#. translators: %s: Donation ID
+#: includes/admin/donors/donors.php:905
+msgid "View Donation %s."
+msgstr "הצג תרומה %s."
+
+#: includes/admin/settings/class-settings-gateways.php:123
+msgid "Enable your payment gateway. Can be ordered by dragging."
+msgstr "הפעל שיטת תשלום. ניתן לשנות סדר על ידי גרירה."
+
+#: includes/admin/settings/class-settings-general.php:200
+msgid "The number of decimal points displayed in amounts."
+msgstr "מספר ערכים המוצגים אחרי הנקודה העשרונית."
+
+#: includes/admin/donors/donor-actions.php:511
+msgid "Email address %1$s removed by %2$s"
+msgstr "כתובת אימייל %1$s הוסרה על ידי %2$s"
+
+#: includes/admin/donors/donor-actions.php:453
+msgid "Email address %1$s added by %2$s"
+msgstr "כתובת אימייל %1$s נוספה על ידי %2$s"
+
+#: includes/admin/admin-actions.php:450
+msgid "Donor email removed."
+msgstr "האימייל של התורם הוסר."
+
+#: includes/admin/admin-actions.php:439
+msgid "Donor email added."
+msgstr "האימייל של התורם התווסף."
+
+#: includes/admin/admin-actions.php:483
+msgid "Failed to set primary email."
+msgstr "שגיאה בהגדרת אימייל ראשי."
+
+#: includes/admin/admin-actions.php:472
+msgid "Primary email updated for donor."
+msgstr "אימייל ראשי של התורם עודכן."
+
+#: includes/emails/class-give-email-tags.php:426
+msgid "The donation form name."
+msgstr "שם טופס התרומה."
+
+#: includes/emails/class-give-email-tags.php:351
+#: includes/emails/class-give-email-tags.php:357
+msgid "The total donation amount with currency sign."
+msgstr "סך כל התרומה עם סמל המטבע."
+
+#: includes/shortcodes.php:457
+msgid "The email you entered is empty."
+msgstr "כתובת האימייל ריקה."
+
+#: includes/shortcodes.php:461
+msgid "The email you entered is not valid. Please use another"
+msgstr "כתובת האימייל לא תקינה. נא להזין כתובת אחרת."
+
+#: includes/admin/forms/class-metabox-form-data.php:325
+#: includes/admin/forms/class-metabox-form-data.php:350
+#: includes/admin/forms/class-metabox-form-data.php:364
+#: includes/admin/forms/class-metabox-form-data.php:376
+#: includes/admin/forms/class-metabox-form-data.php:388
+#: includes/admin/forms/class-metabox-form-data.php:562
+#: includes/forms/widget.php:245 includes/gateways/offline-donations.php:284
+#: src/Form/Template/Options.php:154
+msgid "Global Option"
+msgstr "אפשרויות גלובליות"
+
+#: includes/admin/shortcodes/shortcode-give-form.php:103
+#: includes/forms/widget.php:228 src/Form/Template/Options.php:105
+msgid "All Fields"
+msgstr "כל השדות"
+
+#: includes/admin/class-i18n-module.php:180
+msgid "Register now &raquo;"
+msgstr "הרשם עכשיו"
+
+#: includes/admin/class-i18n-module.php:147
+msgid "complete the translation"
+msgstr "השלימו את התרגום"
+
+#: includes/admin/class-i18n-module.php:146
+msgid "WordPress.org"
+msgstr "WordPress.org"
+
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:129
+#: includes/forms/widget.php:227 includes/forms/widget.php:274
+msgid "Display Style:"
+msgstr "עיצוב תצוגה:"
+
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:134
+#: includes/admin/shortcodes/shortcode-give-form.php:104
+#: includes/forms/widget.php:230
+#: src/Views/Form/Templates/Legacy/optionConfig.php:15
+#: blocks/donation-form-grid/data/options.js:40
+#: blocks/donation-form/data/options.js:15
+msgid "Modal"
+msgstr "חלון נפתח"
+
+#: includes/admin/shortcodes/shortcode-give-form.php:105
+#: includes/forms/widget.php:229
+#: src/Views/Form/Templates/Legacy/optionConfig.php:16
+#: blocks/donation-form/data/options.js:16
+msgid "Reveal"
+msgstr "הצג בלחיצה"
+
+#: includes/admin/class-i18n-module.php:138
+msgid "As you can see, there is a translation of this plugin in %1$s. This translation is currently %3$d%% complete. We need your help to make it complete and to fix any errors. Please register at %4$s to help %5$s to %1$s!"
+msgstr "כפי שניתן לראות, התוסף תורגם ל%1$s. כרגע, הושלם %3$d%% מהתרגום. אנו זקוקים לעזרתך כדי לסיים את התרגום ולתקן את כל השגיאות. אנא הירשמו ב-%4$s כדי לעזור לתרגם את %5$s ל%1$s."
+
+#: includes/admin/class-i18n-module.php:142
+msgid "You're using WordPress in a language we don't support yet. We'd love for %2$s to be translated in that language too, but unfortunately, it isn't right now. You can change that! Register at %4$s to help translate it!"
+msgstr "נעשה שימוש בוורדפרס בשפה שאנחנו לא תומכים בה. נשמח אם %2$s יתורגם גם לשפה זו, אך למרבה הצער, זה לא יקרה עכשיו. אתה יכול לשנות את זה! ניתן להירשם ב-%4$s כדי לתרגם."
+
+#: includes/admin/class-i18n-module.php:140
+msgid "You're using WordPress in %1$s. While %2$s has been %3$d%% translated to %1$s, it has not been shipped with the plugin yet. You can help! Register at %4$s to help complete the translation to %1$s!"
+msgstr "נעשה שימוש בוורדפרס ב%1$s. בעוד %2$s תורגם ל%1$s ב-%3$d%%, התרגום עדיין לא צורף לתוסף. אתה יכול לעזור! ניתן להירשם ב-%4$s כדי לעזור לתרגם ל%1$s."
+
+#: includes/emails/class-give-email-tags.php:345
+msgid "The donation form name, and the donation level (if applicable)."
+msgstr "השם של טופס התרומה, ורמת התרומה (אם זמין)."
+
+#: includes/forms/template.php:1564 includes/process-donation.php:973
+#: templates/shortcode-login.php:52
+msgid "Reset Password"
+msgstr "איפוס סיסמה"
+
+#: includes/class-give-scripts.php:313
+msgid "Please enter amount in monetary decimal ( %1$s ) format without thousand separator ( %2$s ) ."
+msgstr "יש להזין סכום כספים עם ערך עשרוני ( %1$s ) ומפריד אלפים ( %2$s )."
+
+#: includes/payments/functions.php:1679
+msgctxt "custom donation dropdown item"
+msgid "Custom"
+msgstr "מותאם"
+
+#: includes/admin/donors/donor-actions.php:424 includes/login-register.php:267
+#: includes/process-donation.php:836 includes/process-donation.php:1036
+#: includes/user-functions.php:373
+msgid "Invalid email."
+msgstr "אימייל לא תקין."
+
+#: includes/country-functions.php:166
+msgid "Gabon"
+msgstr "גאבון"
+
+#: includes/country-functions.php:167 includes/country-functions.php:2400
+msgid "Gambia"
+msgstr "גמביה"
+
+#: includes/country-functions.php:168
+msgid "Georgia"
+msgstr "גאורגיה"
+
+#: includes/country-functions.php:169
+msgid "Germany"
+msgstr "גרמניה"
+
+#: includes/country-functions.php:170
+msgid "Greece"
+msgstr "יוון"
+
+#: includes/country-functions.php:171 includes/country-functions.php:2401
+msgid "Ghana"
+msgstr "גאנה"
+
+#: includes/country-functions.php:172
+msgid "Gibraltar"
+msgstr "גיברלטר"
+
+#: includes/country-functions.php:173
+msgid "Greenland"
+msgstr "גרינלנד"
+
+#: includes/country-functions.php:174 includes/country-functions.php:2402
+msgid "Grenada"
+msgstr "גרנדה"
+
+#: includes/country-functions.php:175
+msgid "Guadeloupe"
+msgstr "גוואדלופ"
+
+#: includes/country-functions.php:176
+msgid "Guam"
+msgstr "גואם"
+
+#: includes/country-functions.php:177
+msgid "Guatemala"
+msgstr "גואטמלה"
+
+#: includes/country-functions.php:178
+msgid "Guernsey"
+msgstr "גרנזי"
+
+#: includes/country-functions.php:179 includes/country-functions.php:2403
+msgid "Guinea"
+msgstr "גינאה"
+
+#: includes/country-functions.php:180
+msgid "Guinea-Bissau"
+msgstr "גינאה-ביסאו"
+
+#: includes/country-functions.php:181 includes/country-functions.php:2404
+msgid "Guyana"
+msgstr "גיאנה"
+
+#: includes/country-functions.php:185
+msgid "Honduras"
+msgstr "הונדורס"
+
+#: includes/country-functions.php:186 includes/country-functions.php:2405
+msgid "Hong Kong"
+msgstr "הונג-קונג"
+
+#: includes/country-functions.php:187
+msgid "Hungary"
+msgstr "הונגריה"
+
+#: includes/country-functions.php:188
+msgid "Iceland"
+msgstr "איסלנד"
+
+#: includes/country-functions.php:189
+msgid "India"
+msgstr "הודו"
+
+#: includes/country-functions.php:190
+msgid "Indonesia"
+msgstr "אינדונזיה"
+
+#: includes/country-functions.php:191
+msgid "Iran"
+msgstr "איראן"
+
+#: includes/country-functions.php:192
+msgid "Iraq"
+msgstr "עיראק"
+
+#: includes/country-functions.php:193 includes/country-functions.php:2406
+msgid "Ireland"
+msgstr "אירלנד"
+
+#: includes/country-functions.php:194
+msgid "Isle of Man"
+msgstr "האי מאן"
+
+#: includes/country-functions.php:195
+msgid "Israel"
+msgstr "ישראל"
+
+#: includes/country-functions.php:196
+msgid "Italy"
+msgstr "איטליה"
+
+#: includes/country-functions.php:197 includes/country-functions.php:2407
+msgid "Jamaica"
+msgstr "ג'מייקה"
+
+#: includes/country-functions.php:198
+msgid "Japan"
+msgstr "יפן"
+
+#: includes/country-functions.php:199
+msgid "Jersey"
+msgstr "ג'רזי"
+
+#: includes/country-functions.php:200
+msgid "Jordan"
+msgstr "ירדן"
+
+#: includes/country-functions.php:201
+msgid "Kazakhstan"
+msgstr "קזחסטן"
+
+#: includes/country-functions.php:202 includes/country-functions.php:2408
+msgid "Kenya"
+msgstr "קניה"
+
+#: includes/country-functions.php:204
+msgid "Kuwait"
+msgstr "כווית"
+
+#: includes/country-functions.php:205
+msgid "Kyrgyzstan"
+msgstr "קירגיזסטן"
+
+#: includes/country-functions.php:207
+msgid "Latvia"
+msgstr "לטביה"
+
+#: includes/country-functions.php:208
+msgid "Lebanon"
+msgstr "לבנון"
+
+#: includes/country-functions.php:209
+msgid "Lesotho"
+msgstr "לסוטו"
+
+#: includes/country-functions.php:210
+msgid "Liberia"
+msgstr "ליבריה"
+
+#: includes/country-functions.php:212
+msgid "Liechtenstein"
+msgstr "ליכטנשטיין"
+
+#: includes/country-functions.php:213
+msgid "Lithuania"
+msgstr "ליטא"
+
+#: includes/country-functions.php:214
+msgid "Luxembourg"
+msgstr "לוקסמבורג"
+
+#: includes/country-functions.php:215 includes/country-functions.php:2410
+msgid "Macau"
+msgstr "מקאו"
+
+#: includes/country-functions.php:216
+msgid "Macedonia"
+msgstr "מקדוניה"
+
+#: includes/country-functions.php:217
+msgid "Madagascar"
+msgstr "מדגסקר"
+
+#: includes/country-functions.php:218 includes/country-functions.php:2411
+msgid "Malawi"
+msgstr "מלאווי"
+
+#: includes/country-functions.php:219
+msgid "Malaysia"
+msgstr "מלזיה"
+
+#: includes/country-functions.php:220
+msgid "Maldives"
+msgstr "האיים המלדיביים"
+
+#: includes/country-functions.php:221 includes/country-functions.php:2412
+msgid "Mali"
+msgstr "מאלי"
+
+#: includes/formatting.php:559
+msgid "%s million"
+msgstr "%s מיליון"
+
+#: includes/formatting.php:557
+msgid "%s billion"
+msgstr "%s מיליארד"
+
+#: includes/formatting.php:555
+msgid "%s trillion"
+msgstr "%s טריליון"
+
+#: includes/admin/emails/class-new-offline-donation-email.php:116
+#: includes/emails/functions.php:89 includes/emails/functions.php:113
+#: includes/gateways/offline-donations.php:220
+msgid "Amount:"
+msgstr "סכום:"
+
+#: includes/admin/payments/view-payment-details.php:438
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:164
+#: includes/emails/functions.php:112
+msgid "Donation Date:"
+msgstr "תאריך תרומה:"
+
+#: includes/admin/emails/class-new-offline-donation-email.php:115
+#: includes/emails/functions.php:87 includes/emails/functions.php:110
+#: includes/gateways/offline-donations.php:219
+msgid "Donor:"
+msgstr "תורם:"
+
+#: includes/country-functions.php:244
+msgid "New Zealand"
+msgstr "ניו-זילנד"
+
+#: includes/country-functions.php:260
+msgid "Peru"
+msgstr "פרו"
+
+#: includes/country-functions.php:264
+msgid "Portugal"
+msgstr "פורטוגל"
+
+#: includes/country-functions.php:268
+msgid "Romania"
+msgstr "רומניה"
+
+#: includes/country-functions.php:269
+msgid "Russian Federation"
+msgstr "רוסיה"
+
+#: includes/country-functions.php:283
+msgid "Singapore"
+msgstr "סינגפור"
+
+#: includes/country-functions.php:284
+msgid "Slovak Republic"
+msgstr "סלובקיה"
+
+#: includes/country-functions.php:285
+msgid "Slovenia"
+msgstr "סלובניה"
+
+#: includes/country-functions.php:287 includes/country-functions.php:2429
+msgid "Somalia"
+msgstr "סומליה"
+
+#: includes/country-functions.php:288 includes/country-functions.php:2430
+msgid "South Africa"
+msgstr "דרום אפריקה"
+
+#: includes/country-functions.php:290
+msgid "South Korea"
+msgstr "דרום קוריאה"
+
+#: includes/country-functions.php:291
+msgid "Spain"
+msgstr "ספרד"
+
+#: includes/country-functions.php:293
+msgid "Sudan"
+msgstr "סודן"
+
+#: includes/country-functions.php:306
+msgid "Thailand"
+msgstr "תאילנד"
+
+#: includes/country-functions.php:318
+msgid "Uzbekistan"
+msgstr "אוזבקיסטן"
+
+#: includes/country-functions.php:316
+msgid "Uruguay"
+msgstr "אורוגוואי"
+
+#: includes/country-functions.php:320
+msgid "Venezuela"
+msgstr "ונצואלה"
+
+#: includes/country-functions.php:321
+msgid "Vietnam"
+msgstr "וייטנאם"
+
+#: includes/country-functions.php:327 includes/country-functions.php:2441
+msgid "Yemen"
+msgstr "תימן"
+
+#: includes/country-functions.php:329
+msgid "Zambia"
+msgstr "זמביה"
+
+#: includes/country-functions.php:328
+msgid "Yugoslavia"
+msgstr "יוגוסלביה"
+
+#: includes/country-functions.php:1865
+msgid "Yukon"
+msgstr "יוקון"
+
+#: includes/country-functions.php:325
+msgid "Western Sahara"
+msgstr "סהרה המערבית"
+
+#: includes/country-functions.php:300
+msgid "Taiwan"
+msgstr "טייוואן"
+
+#: includes/country-functions.php:301
+msgid "Tajikistan"
+msgstr "טג'יקיסטן"
+
+#: includes/country-functions.php:299 includes/country-functions.php:2432
+msgid "Syrian Arab Republic"
+msgstr "סוריה"
+
+#: includes/country-functions.php:298
+msgid "Switzerland"
+msgstr "שווייץ"
+
+#: includes/country-functions.php:297
+msgid "Sweden"
+msgstr "שבדיה"
+
+#: includes/country-functions.php:294 includes/country-functions.php:2431
+msgid "Suriname"
+msgstr "סורינאם"
+
+#: includes/country-functions.php:282 includes/country-functions.php:2427
+msgid "Sierra Leone"
+msgstr "סיירה לאונה"
+
+#: includes/country-functions.php:286 includes/country-functions.php:2428
+msgid "Solomon Islands"
+msgstr "איי שלמה"
+
+#: includes/country-functions.php:292
+msgid "Sri Lanka"
+msgstr "סרי לנקה"
+
+#: includes/country-functions.php:281 includes/country-functions.php:2426
+msgid "Seychelles"
+msgstr "סיישל"
+
+#: includes/country-functions.php:280
+msgid "Serbia"
+msgstr "סרביה"
+
+#: includes/country-functions.php:279
+msgid "Senegal"
+msgstr "סנגל"
+
+#: includes/country-functions.php:278
+msgid "Saudi Arabia"
+msgstr "ערב הסעודית"
+
+#: includes/country-functions.php:276
+msgid "San Marino"
+msgstr "סן מרינו"
+
+#: includes/country-functions.php:277 includes/country-functions.php:2425
+msgid "Sao Tome and Principe"
+msgstr "סאו טומה ופרינסיפה"
+
+#: includes/country-functions.php:1864
+msgid "Saskatchewan"
+msgstr "ססקצ'ואן"
+
+#: includes/country-functions.php:270 includes/country-functions.php:2422
+msgid "Rwanda"
+msgstr "רואנדה"
+
+#: includes/country-functions.php:271
+msgid "Saint Helena"
+msgstr "סנט הלנה"
+
+#: includes/country-functions.php:272 includes/country-functions.php:2423
+msgid "Saint Kitts and Nevis"
+msgstr "סנט קיטס ונוויס"
+
+#: includes/country-functions.php:273 includes/country-functions.php:2424
+msgid "Saint Lucia"
+msgstr "סנט לוסיה"
+
+#: includes/country-functions.php:274
+msgid "Saint Pierre and Miquelon"
+msgstr "סנט פייר ומיקלון"
+
+#: includes/country-functions.php:275
+msgid "Saint Vincent and the Grenadines"
+msgstr "סנט וינסנט והגרנדינים"
+
+#: includes/country-functions.php:267
+msgid "Reunion Island"
+msgstr "ראוניון"
+
+#: includes/country-functions.php:266 includes/country-functions.php:2421
+msgid "Qatar"
+msgstr "קטאר"
+
+#: includes/country-functions.php:1863
+msgid "Quebec"
+msgstr "קוויבק"
+
+#: includes/country-functions.php:265
+msgid "Puerto Rico"
+msgstr "פוארטו ריקו"
+
+#: includes/country-functions.php:1862
+msgid "Prince Edward Island"
+msgstr "אי הנסיך אדוארד"
+
+#: includes/country-functions.php:263
+msgid "Poland"
+msgstr "פולין"
+
+#: includes/country-functions.php:262
+msgid "Pitcairn Island"
+msgstr "האי פיטקרן"
+
+#: includes/emails/functions.php:115
+msgid "Payment ID:"
+msgstr "מזהה תשלום:"
+
+#: includes/country-functions.php:259
+msgid "Paraguay"
+msgstr "פרגוואי"
+
+#: includes/country-functions.php:257 includes/country-functions.php:2420
+msgid "Panama"
+msgstr "פנמה"
+
+#: includes/country-functions.php:258
+msgid "Papua New Guinea"
+msgstr "פפואה גינאה החדשה"
+
+#: includes/country-functions.php:256
+msgid "Palestinian Territories"
+msgstr "הרשות הפלסטינית"
+
+#: includes/country-functions.php:254
+msgid "Pakistan"
+msgstr "פקיסטן"
+
+#: includes/country-functions.php:255
+msgid "Palau"
+msgstr "פלאו"
+
+#: includes/country-functions.php:1861
+msgid "Ontario"
+msgstr "אונטריו"
+
+#: includes/country-functions.php:253
+msgid "Oman"
+msgstr "עומאן"
+
+#: includes/country-functions.php:1860
+msgid "Nunavut"
+msgstr "נונאווט"
+
+#: includes/country-functions.php:1858
+msgid "Nova Scotia"
+msgstr "נובה סקוטיה"
+
+#: includes/country-functions.php:252
+msgid "Norway"
+msgstr "נורווגיה"
+
+#: includes/country-functions.php:1859
+msgid "Northwest Territories"
+msgstr "הטריטוריות הצפון מערביות"
+
+#: includes/country-functions.php:251
+msgid "Northern Mariana Islands"
+msgstr "איי מריאנה הצפוניים"
+
+#: includes/country-functions.php:250 includes/country-functions.php:2419
+msgid "North Korea"
+msgstr "צפון קוריאה"
+
+#: includes/country-functions.php:245
+msgid "Nicaragua"
+msgstr "ניקרגואה"
+
+#: includes/country-functions.php:246 includes/country-functions.php:1216
+msgid "Niger"
+msgstr "ניז'ר"
+
+#: includes/country-functions.php:247
+msgid "Nigeria"
+msgstr "ניגריה"
+
+#: includes/country-functions.php:248 includes/country-functions.php:2418
+msgid "Niue"
+msgstr "ניואה"
+
+#: includes/country-functions.php:1857
+msgid "Newfoundland and Labrador"
+msgstr "ניו פאונדלנד ולברדור"
+
+#: includes/country-functions.php:240
+msgid "Nepal"
+msgstr "נפאל"
+
+#: includes/country-functions.php:241
+msgid "Netherlands"
+msgstr "הולנד"
+
+#: includes/country-functions.php:242 includes/country-functions.php:2417
+msgid "Netherlands Antilles"
+msgstr "האנטילים ההולנדיים"
+
+#: includes/country-functions.php:1856
+msgid "New Brunswick"
+msgstr "ניו ברונסוויק"
+
+#: includes/country-functions.php:243
+msgid "New Caledonia"
+msgstr "קלדוניה החדשה"
+
+#: includes/country-functions.php:238
+msgid "Namibia"
+msgstr "נמיביה"
+
+#: includes/country-functions.php:239 includes/country-functions.php:2416
+msgid "Nauru"
+msgstr "נאורו"
+
+#: includes/country-functions.php:237
+msgid "Myanmar"
+msgstr "מיאנמר"
+
+#: includes/country-functions.php:235
+msgid "Morocco"
+msgstr "מרוקו"
+
+#: includes/country-functions.php:236
+msgid "Mozambique"
+msgstr "מוזמביק"
+
+#: includes/country-functions.php:234 includes/country-functions.php:2415
+msgid "Montserrat"
+msgstr "מונטסראט"
+
+#: includes/country-functions.php:230
+msgid "Moldova, Republic of"
+msgstr "מולדובה"
+
+#: includes/country-functions.php:231
+msgid "Monaco"
+msgstr "מונקו"
+
+#: includes/country-functions.php:232
+msgid "Mongolia"
+msgstr "מונגוליה"
+
+#: includes/country-functions.php:233
+msgid "Montenegro"
+msgstr "מונטנגרו"
+
+#: includes/country-functions.php:228
+msgid "Mexico"
+msgstr "מקסיקו"
+
+#: includes/country-functions.php:229
+msgid "Micronesia"
+msgstr "מיקרונזיה"
+
+#: includes/country-functions.php:211
+msgid "Libyan Arab Jamahiriya"
+msgstr "לוב"
+
+#: includes/country-functions.php:222
+msgid "Malta"
+msgstr "מלטה"
+
+#: includes/country-functions.php:1855
+msgid "Manitoba"
+msgstr "מניטובה"
+
+#: includes/country-functions.php:223
+msgid "Marshall Islands"
+msgstr "איי מרשל"
+
+#: includes/country-functions.php:224
+msgid "Martinique"
+msgstr "מרטיניק"
+
+#: includes/country-functions.php:225 includes/country-functions.php:2413
+msgid "Mauritania"
+msgstr "מאוריטניה"
+
+#: includes/country-functions.php:226 includes/country-functions.php:2414
+msgid "Mauritius"
+msgstr "מאוריציוס"
+
+#: includes/country-functions.php:227
+msgid "Mayotte"
+msgstr "מיוט"
+
+#: includes/country-functions.php:203 includes/country-functions.php:2409
+msgid "Kiribati"
+msgstr "קיריבטי"
+
+#: includes/country-functions.php:164
+msgid "French Polynesia"
+msgstr "פולינזיה הצרפתית"
+
+#: includes/country-functions.php:302 includes/country-functions.php:2433
+msgid "Tanzania"
+msgstr "טנזניה"
+
+#: includes/country-functions.php:303
+msgid "Togo"
+msgstr "טוגו"
+
+#: includes/country-functions.php:304 includes/country-functions.php:2434
+msgid "Tokelau"
+msgstr "טוקלאו"
+
+#: includes/country-functions.php:305 includes/country-functions.php:2435
+msgid "Tonga"
+msgstr "טונגה"
+
+#: includes/country-functions.php:308
+msgid "Tunisia"
+msgstr "תוניסיה"
+
+#: includes/country-functions.php:309
+msgid "Turkey"
+msgstr "טורקיה"
+
+#: includes/country-functions.php:310
+msgid "Turkmenistan"
+msgstr "טורקמניסטן"
+
+#: includes/country-functions.php:311
+msgid "Turks and Caicos Islands"
+msgstr "איי טורקס וקאיקוס"
+
+#: includes/country-functions.php:312 includes/country-functions.php:2437
+msgid "Tuvalu"
+msgstr "טובאלו"
+
+#: includes/country-functions.php:313 includes/country-functions.php:2438
+msgid "Uganda"
+msgstr "אוגנדה"
+
+#: includes/country-functions.php:314
+msgid "Ukraine"
+msgstr "אוקראינה"
+
+#: includes/country-functions.php:315 includes/country-functions.php:2439
+msgid "United Arab Emirates"
+msgstr "איחוד האמירויות הערביות"
+
+#: includes/country-functions.php:319 includes/country-functions.php:2440
+msgid "Vanuatu"
+msgstr "ונואטו"
+
+#: includes/country-functions.php:322
+msgid "Virgin Islands (British)"
+msgstr "איי הבתולה הבריטים"
+
+#: includes/country-functions.php:323
+msgid "Virgin Islands (USA)"
+msgstr "איי הבתולה האמריקאים"
+
+#: includes/country-functions.php:324
+msgid "Wallis and Futuna Islands"
+msgstr "איי ווליס ופוטונה"
+
+#: includes/country-functions.php:326
+msgid "Western Samoa"
+msgstr "סמואה המערבית"
+
+#: includes/country-functions.php:330 includes/country-functions.php:2442
+msgid "Zimbabwe"
+msgstr "זימבבואה"
+
+#: includes/country-functions.php:1853
+msgid "Alberta"
+msgstr "אלברטה"
+
+#: includes/country-functions.php:1854
+msgid "British Columbia"
+msgstr "קולומביה הבריטית"
+
+#: includes/country-functions.php:182
+msgid "Haiti"
+msgstr "האיטי"
+
+#: includes/country-functions.php:307 includes/country-functions.php:2436
+msgid "Trinidad and Tobago"
+msgstr "טרינידד וטובגו"
+
+#: includes/country-functions.php:295
+msgid "Svalbard and Jan Mayen Islands"
+msgstr "איי סבאלברד ויאן מאיין"
+
+#: includes/country-functions.php:289
+msgid "South Georgia"
+msgstr "איי ג'ורג'יה הדרומית"
+
+#: includes/country-functions.php:249
+msgid "Norfolk Island"
+msgstr "האי נורפוק"
+
+#: includes/country-functions.php:165 includes/country-functions.php:2399
+msgid "French Southern Territories"
+msgstr "הארצות הדרומיות והאנטארקטיות של צרפת"
+
+#: includes/country-functions.php:184
+msgid "Holy See (City Vatican State)"
+msgstr "קריית הוותיקן"
+
+#: includes/country-functions.php:183
+msgid "Heard and McDonald Islands"
+msgstr "האי הרד ואיי מקדונלד"
+
+#: includes/country-functions.php:206
+msgid "Lao People's Democratic Republic"
+msgstr "לאוס"
+
+#: includes/gateways/offline-donations.php:403
+msgid "Please enter offline donation instructions in <a href=\"%s\">this form's settings</a>."
+msgstr "נא להזין הוראות תרומה לא מקוונת ב<a href=\"%s\">טופס הגדרות זה</a>."
+
+#: includes/misc-functions.php:2205 includes/misc-functions.php:2245
+msgid "View the receipt in your browser &raquo;"
+msgstr "הצג קבלה בדפדפן"
+
+#: includes/emails/template.php:216
+msgid "Preview email with a donation:"
+msgstr "הצג אימייל עם עסקה:"
+
+#: includes/country-functions.php:317
+msgid "US Minor Outlying Islands"
+msgstr "האיים המרוחקים הקטנים של ארצות הברית"
+
+#: includes/admin/emails/abstract-email-notification.php:906
+#: includes/emails/template.php:85
+msgid "Sample Donation Form Title"
+msgstr "כותרת דוגמא לטופס תרומה"
+
+#: includes/country-functions.php:90
+msgid "Afghanistan"
+msgstr "אפגניסטן"
+
+#: includes/country-functions.php:110
+msgid "Belgium"
+msgstr "בלגיה"
+
+#: includes/country-functions.php:111 includes/country-functions.php:2382
+msgid "Belize"
+msgstr "בליז"
+
+#: includes/country-functions.php:112 includes/country-functions.php:2383
+msgid "Benin"
+msgstr "בנין"
+
+#: includes/country-functions.php:152
+msgid "Egypt"
+msgstr "מצרים"
+
+#: includes/country-functions.php:161
+msgid "Finland"
+msgstr "פינלנד"
+
+#: includes/country-functions.php:160 includes/country-functions.php:2398
+msgid "Fiji"
+msgstr "פיג'י"
+
+#: includes/country-functions.php:162
+msgid "France"
+msgstr "צרפת"
+
+#: includes/country-functions.php:163
+msgid "French Guiana"
+msgstr "גיאנה הצרפתית"
+
+#: includes/country-functions.php:158
+msgid "Falkland Islands"
+msgstr "איי פוקלנד"
+
+#: includes/country-functions.php:159
+msgid "Faroe Islands"
+msgstr "איי פרו"
+
+#: includes/country-functions.php:156
+msgid "Estonia"
+msgstr "אסטוניה"
+
+#: includes/country-functions.php:157
+msgid "Ethiopia"
+msgstr "אתיופיה"
+
+#: includes/country-functions.php:155 includes/country-functions.php:2397
+msgid "Eritrea"
+msgstr "אריתריאה"
+
+#: includes/country-functions.php:153 includes/country-functions.php:2396
+msgid "Equatorial Guinea"
+msgstr "גיניאה המשוונית"
+
+#: includes/country-functions.php:154
+msgid "El Salvador"
+msgstr "אל סלבדור"
+
+#: includes/country-functions.php:150
+msgid "East Timor"
+msgstr "מזרח טימור"
+
+#: includes/country-functions.php:151
+msgid "Ecuador"
+msgstr "אקוודור"
+
+#: includes/country-functions.php:148 includes/country-functions.php:2395
+msgid "Dominica"
+msgstr "דומיניקה"
+
+#: includes/country-functions.php:149
+msgid "Dominican Republic"
+msgstr "הרפובליקה הדומיניקנית"
+
+#: includes/country-functions.php:146
+msgid "Denmark"
+msgstr "דנמרק"
+
+#: includes/country-functions.php:145
+msgid "Czech Republic"
+msgstr "צ'כיה"
+
+#: includes/country-functions.php:144
+msgid "Cyprus Island"
+msgstr "קפריסין"
+
+#: includes/country-functions.php:142
+msgid "Croatia/Hrvatska"
+msgstr "קרואטיה"
+
+#: includes/country-functions.php:143
+msgid "Cuba"
+msgstr "קובה"
+
+#: includes/country-functions.php:141 includes/country-functions.php:2393
+msgid "Cote d'Ivoire"
+msgstr "חוף השנהב"
+
+#: includes/country-functions.php:140
+msgid "Costa Rica"
+msgstr "קוסטה ריקה"
+
+#: includes/country-functions.php:139 includes/country-functions.php:2392
+msgid "Cook Islands"
+msgstr "איי קוק"
+
+#: includes/country-functions.php:135
+msgid "Colombia"
+msgstr "קולומביה"
+
+#: includes/country-functions.php:136 includes/country-functions.php:2389
+msgid "Comoros"
+msgstr "קומורו"
+
+#: includes/country-functions.php:134
+msgid "Cocos Islands"
+msgstr "איי קוקוס"
+
+#: includes/country-functions.php:131
+msgid "Chile"
+msgstr "צ'ילה"
+
+#: includes/country-functions.php:132
+msgid "China"
+msgstr "סין"
+
+#: includes/country-functions.php:130
+msgid "Chad"
+msgstr "צ'אד"
+
+#: includes/country-functions.php:128
+msgid "Cayman Islands"
+msgstr "איי קיימן"
+
+#: includes/country-functions.php:129 includes/country-functions.php:2388
+msgid "Central African Republic"
+msgstr "הרפובליקה המרכז אפריקאית"
+
+#: includes/country-functions.php:127
+msgid "Cape Verde"
+msgstr "קייפ ורדה"
+
+#: includes/country-functions.php:88
+msgid "Canada"
+msgstr "קנדה"
+
+#: includes/country-functions.php:125
+msgid "Cambodia"
+msgstr "קמבודיה"
+
+#: includes/country-functions.php:126 includes/country-functions.php:2387
+msgid "Cameroon"
+msgstr "קמרון"
+
+#: includes/country-functions.php:87
+msgid "United States"
+msgstr "ארצות הברית"
+
+#: includes/country-functions.php:91
+msgid "Albania"
+msgstr "אלבניה"
+
+#: includes/country-functions.php:92
+msgid "Algeria"
+msgstr "אלג'יריה"
+
+#: includes/country-functions.php:93
+msgid "American Samoa"
+msgstr "סמואה האמריקנית"
+
+#: includes/country-functions.php:94
+msgid "Andorra"
+msgstr "אנדורה"
+
+#: includes/country-functions.php:95 includes/country-functions.php:2378
+msgid "Angola"
+msgstr "אנגולה"
+
+#: includes/country-functions.php:96
+msgid "Anguilla"
+msgstr "אנגווילה"
+
+#: includes/country-functions.php:97
+msgid "Antarctica"
+msgstr "אנטארקטיקה"
+
+#: includes/country-functions.php:98 includes/country-functions.php:2379
+msgid "Antigua and Barbuda"
+msgstr "אנטיגואה וברבודה"
+
+#: includes/country-functions.php:99
+msgid "Argentina"
+msgstr "ארגנטינה"
+
+#: includes/country-functions.php:100
+msgid "Armenia"
+msgstr "ארמניה"
+
+#: includes/country-functions.php:101 includes/country-functions.php:2380
+msgid "Aruba"
+msgstr "ארובה"
+
+#: includes/country-functions.php:102
+msgid "Australia"
+msgstr "אוסטרליה"
+
+#: includes/country-functions.php:103
+msgid "Austria"
+msgstr "אוסטריה"
+
+#: includes/country-functions.php:104
+msgid "Azerbaijan"
+msgstr "אזרבייג'ן"
+
+#: includes/country-functions.php:105 includes/country-functions.php:2381
+msgid "Bahamas"
+msgstr "איי בהאמה"
+
+#: includes/country-functions.php:106
+msgid "Bahrain"
+msgstr "בחריין"
+
+#: includes/country-functions.php:107
+msgid "Bangladesh"
+msgstr "בנגלדש"
+
+#: includes/country-functions.php:108
+msgid "Barbados"
+msgstr "ברבדוס"
+
+#: includes/country-functions.php:109
+msgid "Belarus"
+msgstr "בלארוס"
+
+#: includes/country-functions.php:113
+msgid "Bermuda"
+msgstr "ברמודה"
+
+#: includes/country-functions.php:114
+msgid "Bhutan"
+msgstr "בהוטן"
+
+#: includes/country-functions.php:115
+msgid "Bolivia"
+msgstr "בוליביה"
+
+#: includes/country-functions.php:116
+msgid "Bosnia and Herzegovina"
+msgstr "בוסניה והרצגובינה"
+
+#: includes/country-functions.php:117 includes/country-functions.php:2384
+msgid "Botswana"
+msgstr "בוטסואנה"
+
+#: includes/country-functions.php:119
+msgid "Brazil"
+msgstr "ברזיל"
+
+#: includes/country-functions.php:122
+msgid "Bulgaria"
+msgstr "בולגריה"
+
+#: includes/country-functions.php:123 includes/country-functions.php:2385
+msgid "Burkina Faso"
+msgstr "בורקינה פאסו"
+
+#: includes/country-functions.php:124 includes/country-functions.php:2386
+msgid "Burundi"
+msgstr "בורונדי"
+
+#: includes/country-functions.php:89
+msgid "United Kingdom"
+msgstr "הממלכה המאוחדת"
+
+#: includes/country-functions.php:118
+msgid "Bouvet Island"
+msgstr "איי בובה"
+
+#: includes/country-functions.php:120
+msgid "British Indian Ocean Territory"
+msgstr "הטריטוריה הבריטית באוקיינוס ההודי"
+
+#: includes/country-functions.php:121
+msgid "Brunei Darrussalam"
+msgstr "ברוניי"
+
+#: includes/country-functions.php:133
+msgid "Christmas Island"
+msgstr "אי חג המולד"
+
+#: includes/country-functions.php:147 includes/country-functions.php:2394
+msgid "Djibouti"
+msgstr "ג'יבוטי"
+
+#: includes/country-functions.php:138 includes/country-functions.php:2391
+msgid "Congo, Republic of"
+msgstr "הרפובליקה של קונגו"
+
+#: includes/country-functions.php:137 includes/country-functions.php:2390
+msgid "Congo, Democratic People's Republic"
+msgstr "הרפובליקה הדמוקרטית של קונגו"
+
+#. translators: 1: start date 2: end date
+#. translators: 1: start date dropdown 2: end date dropdown
+#: includes/admin/tools/export/pdf-reports.php:47
+#: includes/admin/tools/views/html-admin-page-exports.php:83
+msgid "%1$s to %2$s"
+msgstr "%1$s עד %2$s"
+
+#: includes/admin/shortcodes/abstract-shortcode-generator.php:304
+#: includes/forms/widget.php:212
+msgid "- Select -"
+msgstr "- בחירה -"
+
+#: includes/admin/donors/donors.php:670
+#: includes/admin/payments/view-payment-details.php:789
+msgid "City:"
+msgstr "עיר:"
+
+#: includes/admin/donors/class-donor-table.php:338
+msgid "View Donor"
+msgstr "הצג תורם"
+
+#: includes/admin/payments/view-payment-details.php:357
+msgid "View all donations for this donor &raquo;"
+msgstr "כל התרומות של התורם הזה"
+
+#: includes/admin/donors/donors.php:631
+#: includes/admin/payments/view-payment-details.php:754
+msgid "Country:"
+msgstr "מדינה:"
+
+#. translators: %s: create new form URL
+#. translators: %s: create new form URL
+#: includes/admin/shortcodes/shortcode-give-form.php:42
+#: includes/admin/shortcodes/shortcode-give-goal.php:41
+msgid "<a href=\"%s\">Create</a> a new Donation Form."
+msgstr "<a href=\"%s\">יצירת</a> טופס תרומה חדש."
+
+#: includes/admin/payments/class-payments-table.php:492
+msgid "by"
+msgstr "מאת"
+
+#: includes/admin/payments/class-payments-table.php:577
+msgid "Email donor"
+msgstr "מייל לתורם"
+
+#: includes/admin/shortcodes/shortcode-give-login.php:40
+msgid "Login Redirect URL (optional):"
+msgstr "כתובת הפנייה לאחר התחברות (אופציונאלי):"
+
+#: includes/admin/shortcodes/shortcode-give-login.php:50
+msgid "Logout Redirect URL (optional):"
+msgstr "כתובת הפנייה לאחר התנתקות (אופציונאלי):"
+
+#: includes/admin/shortcodes/shortcode-give-login.php:56
+msgid "Enter an URL here to redirect to after logout."
+msgstr "הזן כתובת אליה יופנה המשתמש לאחר ההתנתקות."
+
+#: includes/admin/settings/class-settings-general.php:199
+msgid "Number of Decimals"
+msgstr "מספר ערכים עשרוניים"
+
+#: includes/admin/settings/class-settings-general.php:155
+msgid "The donation currency. Note that some payment gateways have currency restrictions."
+msgstr "בחירת מטבע, שימו לב שלחברות סליקה מסויימות יש הגבלות על מטבעות מסויימים."
+
+#. translators: %s: [donation_history]
+#: includes/admin/settings/class-settings-general.php:303
+msgid "The page showing a complete donation history for the current user. The %s shortcode should be on this page."
+msgstr "דף זה מציג את היסטוריית התרומות המלאה של המשתמש הנוכחי. בדף זה צריך להימצא השורטקוד %s."
+
+#: includes/class-give-scripts.php:307
+msgid "You must choose a method."
+msgstr "יש לבחור שיטה."
+
+#: includes/class-give-scripts.php:308
+msgid "Required fields not completed."
+msgstr "חסרים שדות חובה."
+
+#: includes/process-donation.php:344
+msgid "Honeypot field detected. Go away bad bot!"
+msgstr "אותר שדה מלכודת דבש. לא מפה בוט רע!"
+
+#: includes/class-give-scripts.php:309
+msgid "Are you sure you want to reset Give? This process is <strong><em>not reversible</em></strong> and will delete all data regardless of test or live mode. Please be sure you have a recent backup before proceeding."
+msgstr "האם אתה בטוח שברצונך לאפס את הגדרות התוסף? תהליך זה הוא <strong><em>בלתי הפיך</em></strong> והוא ימחק את כל הנתונים. יש לוודא שקיים גיבוי לפני ביצוע הפעולה."
+
+#: includes/admin/import-functions.php:478
+#: includes/admin/tools/export/give-export-donations-exporter.php:215
+#: includes/admin/tools/export/give-export-donations-functions.php:302
+#: templates/shortcode-receipt.php:88
+msgid "Donation Status"
+msgstr "סטטוס תרומה"
+
+#: includes/admin/import-functions.php:467
+#: includes/admin/tools/export/class-batch-export-donors.php:191
+#: includes/admin/tools/export/give-export-donations-exporter.php:199
+#: assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/tabs/edit-profile/address-fields/index.js:88
+msgid "Zip"
+msgstr "מיקוד"
+
+#: src/Views/Form/Templates/Sequoia/optionConfig.php:41
+#: src/Views/Form/Templates/Sequoia/optionConfig.php:146
+#: src/Views/Form/Templates/Sequoia/optionConfig.php:179
+#: src/Log/Admin/Logs/index.js:232 src/Log/Admin/Logs/index.js:342
+msgid "Description"
+msgstr "תיאור"
+
+#: includes/admin/admin-pages.php:72
+#: includes/admin/tools/class-settings-data.php:82
+msgid "Tools"
+msgstr "כלים"
+
+#: includes/admin/tools/views/html-admin-page-data.php:73
+msgid "Start date"
+msgstr "תאריך התחלה"
+
+#: includes/admin/tools/views/html-admin-page-data.php:82
+msgid "End date"
+msgstr "תאריך סיום"
+
+#: includes/admin/tools/views/html-admin-page-data.php:24
+msgid "Recount Stats"
+msgstr "ספירת סטטיסטיקות מחדש"
+
+#: includes/admin/tools/import/class-give-import-core-settings.php:398
+#: includes/admin/tools/import/class-give-import-donations.php:208
+#: includes/admin/tools/views/html-admin-page-data.php:98
+msgid "Submit"
+msgstr "שלח"
+
+#: includes/admin/tools/views/html-admin-page-data.php:42
+msgid "Delete All Data"
+msgstr "מחיקת כל המידע"
+
+#: includes/class-give-donate-form.php:427
+msgid "New Donation Form"
+msgstr "טופס תרומה חדש"
+
+#: includes/admin/payments/view-payment-details.php:447
+#: includes/ajax-functions.php:630
+msgid "n/a"
+msgstr "ללא"
+
+#: includes/admin/payments/class-payments-table.php:668
+msgid "Test"
+msgstr "ניסיון"
+
+#: includes/admin/tools/data/class-give-tools-recount-all-stats.php:250
+#: includes/admin/tools/data/class-give-tools-recount-donor-stats.php:205
+#: includes/admin/tools/data/class-give-tools-recount-form-stats.php:219
+#: includes/admin/tools/data/class-give-tools-recount-income.php:187
+#: includes/admin/tools/data/class-give-tools-recount-single-donor-stats.php:161
+msgid "You do not have permission to recount stats."
+msgstr "אין לך הרשאות לספור מחדש סטטיסטיקות."
+
+#: includes/admin/tools/data/class-give-tools-delete-test-donors.php:260
+#: includes/admin/tools/data/class-give-tools-delete-test-transactions.php:132
+msgid "You do not have permission to delete test transactions."
+msgstr "אין לך הרשאות למחוק עסקאות ניסוי."
+
+#: includes/admin/shortcodes/shortcode-give-receipt.php:57
+msgid "Show Donor Name:"
+msgstr "הצג שם תורם:"
+
+#: includes/admin/shortcodes/shortcode-give-receipt.php:48
+msgid "Show Donation Amount:"
+msgstr "הצג סכום תרומה:"
+
+#: includes/admin/reports/class-form-reports-table.php:203
+msgid "Donation Forms Report"
+msgstr "דוח טפסי תרומות"
+
+#: includes/admin/tools/export/export-functions.php:97
+msgid "Batch Processing Complete"
+msgstr "עיבוד קבוצה הושלם"
+
+#: includes/admin/tools/data/class-give-tools-delete-test-transactions.php:148
+msgid "Test transactions successfully deleted."
+msgstr "עסקת ניסוי נמחקה בהצלחה."
+
+#: includes/admin/tools/export/export-functions.php:63
+msgid "Export location or file not writable."
+msgstr "המיקום או קובץ היצוא אינו ניתן לכתיבה."
+
+#: includes/admin/tools/export/export-functions.php:90
+msgid "No data found for export parameters."
+msgstr "לא נמצאו נתונים עבור פרמטרי יצוא."
+
+#: includes/ajax-functions.php:586
+msgid "All Levels"
+msgstr "כל הרמות"
+
+#: includes/admin/tools/views/html-admin-page-data.php:27
+msgid "Use these tools to recount stats, delete test transactions, or reset stats."
+msgstr "השתמשו בכלים אלה כדי לספר מחדש סטטיסטיקות, למחוק נתוני בדיקה, או לאפס את הנתונים הסטטיסטיים."
+
+#: includes/admin/tools/data/class-give-tools-recount-all-stats.php:267
+msgid "Donation form income amounts and donation counts stats successfully recounted."
+msgstr "ההכנסות והסטטיסטיקות נספרו מחדש בהצלחה."
+
+#: includes/admin/tools/views/html-admin-page-data.php:37
+msgid "Recalculate Donor Statistics"
+msgstr "חישוב מחדש סטטיסטיקות תורם"
+
+#: includes/admin/tools/views/html-admin-page-data.php:106
+msgid "Recalculates the lifetime value and donation counts for all donors."
+msgstr "חישוב מחדש של ערך חיי הלקוח ומספר התרומות עבור כל התורמים."
+
+#: includes/admin/tools/views/html-admin-page-exports.php:138
+msgid "Export Columns:"
+msgstr "יצוא עמודות:"
+
+#: includes/admin/payments/view-payment-details.php:422
+msgid "Donation Form Title:"
+msgstr "כותרת טופס תרומה:"
+
+#: includes/misc-functions.php:525 includes/post-types.php:56
+msgid "Donation Forms"
+msgstr "טופסי תרומה"
+
+#: includes/admin/tools/views/html-admin-page-data.php:105
+msgid "Recalculates the earnings and sales stats for all forms."
+msgstr "חישוב מחדש של סך כל ההכנסות מתרומות ומספר התרומות עבור כל הטפסים."
+
+#: includes/admin/forms/class-metabox-form-data.php:469
+msgid "Goal Amount"
+msgstr "סכום היעד"
+
+#: includes/admin/forms/class-metabox-form-data.php:522
+msgid "Goal Achieved Message"
+msgstr "הודעת הגעה ליעד"
+
+#: includes/admin/forms/class-metabox-form-data.php:511
+msgid "Do you want to close the donation forms and stop accepting donations once this goal has been met?"
+msgstr "האם לסגור טופס תרומות ולהפסיק לקבל תרומות חדשות כאשר יעד זה מושג?"
+
+#: includes/admin/forms/class-metabox-form-data.php:526
+#: src/Onboarding/DefaultFormFactory.php:65
+msgid "Thank you to all our donors, we have met our fundraising goal."
+msgstr "תודה לכל התורמים, הגענו ליעד התרומות."
+
+#: includes/install.php:474 src/Form/Template.php:203
+msgid "We're sorry, your donation failed to process. Please try again or contact site support."
+msgstr "עיבוד התרומה נכשל. יש לנסות שוב או ליצור קשר עם הנהלת האתר."
+
+#: includes/admin/payments/actions.php:117
+msgid "Error creating new donor."
+msgstr "שגיאה ביצירת תורם חדש."
+
+#: includes/forms/template.php:2221
+msgid "Please log in in order to complete your donation."
+msgstr "נא להתחבר כדי להשלים את התרומה."
+
+#: includes/post-types.php:381
+msgid "Cancelled <span class=\"count\">(%s)</span>"
+msgid_plural "Cancelled <span class=\"count\">(%s)</span>"
+msgstr[0] "בוטלו <span class=\"count\">(%s)</span>"
+msgstr[1] "בוטלו <span class=\"count\">(%s)</span>"
+
+#: includes/emails/functions.php:109
+msgid "Thank you for your donation. Your generosity is appreciated! Here are the details of your donation:"
+msgstr "תודה על תרומתך. הנדיבות שלך מוערכת! להלן פרטי התרומה שלך:"
+
+#: includes/admin/import-functions.php:424
+#: includes/admin/tools/export/give-export-donations-exporter.php:236
+#: includes/admin/tools/export/give-export-donations-functions.php:310
+msgid "Donation Date"
+msgstr "תאריך תרומה"
+
+#: templates/shortcode-login.php:71
+msgid "Login successful. Welcome!"
+msgstr "ההתחברות הושלמה, ברוכים הבאים!"
+
+#: templates/shortcode-register.php:49
+msgid "Confirm PW"
+msgstr "אישור סיסמה"
+
+#: templates/email-login-form.php:106
+msgid "Donation Email:"
+msgstr "אימייל תרומה:"
+
+#: includes/login-register.php:360
+msgid "reCAPTCHA test failed."
+msgstr "ניסוי reCAPTCHA נכשל"
+
+#: includes/login-register.php:365
+msgid "Unable to connect to reCAPTCHA server."
+msgstr "לא ניתן להתחבר לשרתי reCAPTCHA."
+
+#: includes/login-register.php:370
+msgid "It looks like the reCAPTCHA test has failed."
+msgstr "נראה כי ניסוי ה-reCAPTCHA נכשל."
+
+#: includes/admin/settings/class-settings-general.php:87
+msgid "Email Access"
+msgstr "אימייל גישה"
+
+#: includes/admin/settings/class-settings-general.php:118
+msgid "reCAPTCHA Secret Key"
+msgstr "מפתח סודי reCAPTCHA"
+
+#: includes/admin/settings/class-settings-general.php:110
+msgid "reCAPTCHA Site Key"
+msgstr "מפתח אתר reCAPTCHA"
+
+#: includes/admin/settings/class-settings-display.php:199
+msgid "Featured Image Size"
+msgstr "גודל תמונה ראשית"
+
+#: includes/admin/settings/class-settings-general.php:127
+#: includes/admin/settings/class-settings-general.php:471
+msgid "Access Control"
+msgstr "בקרת גישה"
+
+#: includes/admin/settings/class-settings-display.php:200
+msgid "The Featured Image is an image that is chosen as the representative image for a donation form. Some themes may have custom featured image sizes. Please select the size you would like to display for your single donation form's featured image."
+msgstr "התמונה הראשית היא תמונה אשר נבחרה בתור התמונה המייצגת עבור טופס התרומה. תבניות שונות עשויות להכיל גדלים שונים של תמונות. יש לבחור את גודל התמונה הראשית שתופיע לייצוג הטופס בעמוד טופס בודד."
+
+#: includes/admin/settings/class-settings-display.php:189
+msgid "If you do not wish to use the featured image functionality you can disable it using this option and it will not be displayed for single donation forms."
+msgstr "אם אינך מעוניין להציג תמונה ראשית בטפסי תרומה, ניתן להשבית אותה באמצעות אפשרות."
+
+#: includes/admin/payments/class-payments-table.php:776
+msgid "Set To Cancelled"
+msgstr "להגדיר כבוטל"
+
+#: includes/admin/forms/class-metabox-form-data.php:470
+msgid "This is the monetary goal amount you want to reach for this form."
+msgstr "זהו סכום המטרה הכספי עבור טופס תרומה זה."
+
+#: includes/admin/forms/class-metabox-form-data.php:455
+msgid "Goal Format"
+msgstr "תצוגת יעד"
+
+#: includes/admin/plugins.php:69
+msgid "Documentation"
+msgstr "תיעוד"
+
+#. translators: %s: site name
+#: includes/admin/emails/class-donor-register-email.php:45
+msgid "[%s] Your username and password"
+msgstr "[%s] הסיסמה ושם המשתמש שלך"
+
+#. translators: %s: site name
+#: includes/admin/emails/class-new-donor-register-email.php:46
+msgid "[%s] New User Registration"
+msgstr "[%s] רישום משתמש חדש"
+
+#: includes/api/class-give-api.php:1971
+msgid "User ID Required."
+msgstr "נדרש מספר משתמש"
+
+#: includes/admin/emails/class-new-offline-donation-email.php:121
+msgid "Click Here to View and/or Update Donation Details"
+msgstr "ליחצו כאן כדי להציג/לעדכן את פרטי התרומה"
+
+#. translators: %s: minimum donation amount
+#: includes/process-donation.php:465
+msgid "This form has a minimum donation amount of %s."
+msgstr "לטופס תרומה זה יש מגבלת מינימום של %s."
+
+#: includes/class-give-scripts.php:496
+msgid "The minimum custom donation amount for this form is"
+msgstr "התרומה המינימאלית לטופס זה היא "
+
+#: includes/admin/forms/class-metabox-form-data.php:153
+msgid "This is the set donation amount for this form. If you have a \"Custom Amount Minimum\" set, make sure it is less than this amount."
+msgstr "גובה התרומה עבור טופס זה. אם הוגדר \"סכום מינימאלי\", יש לוודא שהוא נמוך מגובה התרומה."
+
+#: includes/admin/forms/class-metabox-form-data.php:406
+msgid "Display the registration and login forms in the payment section for non-logged-in users."
+msgstr "הצג את טופסי הרשמה והתחברות באזור התשלום עבור משתמשים שאינם מחוברים."
+
+#: includes/gateways/offline-donations.php:216
+msgid "A new offline donation has been made on your website for %s."
+msgstr "בוצעה תרומה לא מקוונת חדשה באתר עבור %s:"
+
+#: includes/class-give-cron.php:86
+msgid "Once Weekly"
+msgstr "פעם בשבוע"
+
+#: includes/forms/template.php:1057 src/Helpers/Gateways/Stripe.php:139
+msgid "Expiration"
+msgstr "פקיעה"
+
+#: includes/forms/template.php:425 includes/forms/template.php:452
+msgid "Donation Amount:"
+msgstr "סכום התרומה:"
+
+#: includes/forms/template.php:616
+msgid "Choose Your Donation Amount"
+msgstr "בחירת סכום תרומה"
+
+#: includes/misc-functions.php:2343
+msgid "You must be logged in to view this donation receipt."
+msgstr "יש להתחבר כדי לראות קבלה לתרומה זו."
+
+#: templates/shortcode-register.php:20
+msgid "Register a New Account"
+msgstr "רישום חשבון חדש"
+
+#. translators: %s: donation number
+#: includes/admin/payments/view-payment-details.php:70
+msgid "Donation %s"
+msgstr "תרומה %s"
+
+#. translators: %s: admin title
+#: includes/admin/payments/payments-history.php:112
+msgid "Edit Donation - %s"
+msgstr "עריכת תרומה %s"
+
+#: includes/post-types.php:59
+msgid "Add New Donation Form"
+msgstr "הוספת טופס תרומה"
+
+#: templates/single-give-form/featured-image.php:42
+msgid "Placeholder"
+msgstr "ממלא מקום"
+
+#. Plugin URI of the plugin
+msgid "https://givewp.com"
+msgstr "https://givewp.com"
+
+#. Plugin Name of the plugin
+msgid "Give - Donation Plugin"
+msgstr "לתת - תוסף תרומות"
+
+#. Description of the plugin
+msgid "The most robust, flexible, and intuitive way to accept donations on WordPress."
+msgstr "הדרך הכי פשוטה, גמישה ואינטואיטיבי לקבל תרומות בוורדפרס."
+
+#: src/Receipt/DonationReceipt.php:190
+msgid "Payment Status"
+msgstr "סטטוס תשלום"
+
+#: templates/shortcode-receipt.php:15
+msgid "The specified receipt ID appears to be invalid."
+msgstr "מספר הקבלה אינו תקין."
+
+#: templates/shortcode-profile-editor.php:157
+msgid "Re-enter Password"
+msgstr "להזין סיסמה שוב"
+
+#: templates/shortcode-profile-editor.php:193
+msgid "Save Changes"
+msgstr "שמור שינויים"
+
+#: templates/shortcode-profile-editor.php:173
+msgid "Please note after changing your password, you must log back in."
+msgstr "אחרי שינוי סיסמה יש להתחבר שנית."
+
+#: templates/shortcode-profile-editor.php:147
+msgid "Change your Password"
+msgstr "שינוי סיסמה"
+
+#: templates/shortcode-profile-editor.php:151
+msgid "New Password"
+msgstr "סיסמה חדשה"
+
+#: templates/shortcode-profile-editor.php:48
+msgid "Change your Name"
+msgstr "שינוי שם"
+
+#: templates/shortcode-profile-editor.php:74
+msgid "Display Name"
+msgstr "הצג שם"
+
+#: templates/shortcode-profile-editor.php:26
+#: templates/shortcode-profile-editor.php:221
+#: templates/shortcode-profile-editor.php:227
+msgid "Success:"
+msgstr "הצלחה:"
+
+#: templates/shortcode-login.php:22
+msgid "Log into Your Account"
+msgstr "התחברות לחשבון שלך"
+
+#: templates/shortcode-login.php:47
+msgid "Log In"
+msgstr "התחבר"
+
+#: templates/history-donations.php:276
+msgid "It looks like you haven't made any donations."
+msgstr "נראה כאילו אתה לא ביצעת שום תרומה."
+
+#. translators: %s: success page URL
+#: templates/payment-processing.php:11
+msgid "Your donation is processing. This page will reload automatically in 8 seconds. If it does not, click <a href=\"%s\">here</a>."
+msgstr "מתבצעת תרומה. דף זה ייטען מחדש באופן אוטומטי תוך 8 שניות. אם הוא לא טען, <a href=\"%s\">ליחצו כאן</a>."
+
+#: includes/user-functions.php:438
+msgid "Passwords you entered do not match. Please try again."
+msgstr "הסיסמאות אינן תואמות. נא לנסות שנית."
+
+#: includes/shortcodes.php:466
+msgid "The email you entered belongs to another user. Please use another."
+msgstr "האימייל שהוזן שייך למשתמש אחר. יש להשתמש באימייל אחר."
+
+#: includes/shortcodes.php:110
+msgid "You must be logged in to view your donation history. Please login using your account or create an account using the same email you used to donate with."
+msgstr "יש להתחבר כדי לראות את היסטוריית התרומות שלך. נא התחבר באמצעות חשבונך או ליצור חשבון חדש באמצעות אותה כתובת האימייל בה השתמשת כדי לבצע את התרומה."
+
+#: includes/class-give-scripts.php:284
+msgid "Choose one or more forms"
+msgstr "בחר טופס אחד או יותר"
+
+#: includes/class-give-scripts.php:499
+msgid "Please Wait..."
+msgstr "נא להמתין..."
+
+#: includes/admin/tools/views/html-admin-page-data.php:33
+#: includes/class-give-scripts.php:533
+msgid "Please select an option"
+msgstr "נא לבחור אפשרות"
+
+#: includes/class-give-scripts.php:276
+msgid "Not available for variable priced forms."
+msgstr "לא זמין עבור מחירים משתנים."
+
+#: includes/class-give-scripts.php:395 includes/class-give-scripts.php:498
+#: assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/tabs/annual-receipts/content.js:38
+#: src/DonorDashboards/resources/js/app/tabs/donation-history/content.js:49
+#: src/DonorDashboards/resources/js/app/tabs/donation-history/content.js:80
+#: src/DonorDashboards/resources/js/app/tabs/donation-history/dashboard-content.js:20
+#: src/DonorDashboards/resources/js/app/tabs/donation-history/dashboard-content.js:46
+#: src/DonorDashboards/resources/js/app/tabs/recurring-donations/content.js:54
+#: src/DonorDashboards/resources/js/app/tabs/recurring-donations/content.js:80
+#: src/DonorDashboards/resources/js/app/tabs/recurring-donations/content.js:110
+msgid "Loading..."
+msgstr "טוען..."
+
+#: includes/class-give-scripts.php:495
+msgid "Please select a payment method."
+msgstr "נא לבחור שיטת תשלום."
+
+#: includes/process-donation.php:1250
+msgid "The zip / postal code you entered for your billing address is invalid."
+msgstr "המיקוד / תא הדואר בכתובת החיוב אינו תקין."
+
+#: includes/login-register.php:279
+msgid "Passwords don't match."
+msgstr "הסיסמאות אינן תואמות."
+
+#: includes/class-give-scripts.php:520 includes/process-donation.php:991
+#: includes/user-functions.php:419
+msgid "Enter a password."
+msgstr "הזנת סיסמה."
+
+#: includes/class-give-scripts.php:521 includes/user-functions.php:423
+msgid "Enter the password confirmation."
+msgstr "הזנת סיסמת אימות."
+
+#: includes/process-donation.php:841
+msgid "The user information is invalid."
+msgstr "המידע של המשתמש אינו תקני."
+
+#: includes/process-donation.php:1062 includes/user-functions.php:363
+msgid "Enter an email."
+msgstr "הזנת אימייל."
+
+#: includes/user-functions.php:328
+msgid "You must register or login to complete your donation."
+msgstr "יש להתחבר או להירשם כדי להשלים את התרומה."
+
+#: includes/user-functions.php:314
+msgid "Invalid username. Only lowercase letters (a-z) and numbers are allowed."
+msgstr "שם משתמש לא תקין. יש להשתמש רק באותיות קטנות (a-z) ומספרים."
+
+#: includes/process-donation.php:685
+msgid "Please select your billing country."
+msgstr "נא להזין מדינה."
+
+#: includes/process-donation.php:453
+msgid "The selected payment gateway is not enabled."
+msgstr "שיטת התשלום שנבחרה אינה פעילה."
+
+#: includes/process-donation.php:681
+msgid "Please enter your billing city."
+msgstr "נא להזין עיר."
+
+#: includes/admin/admin-actions.php:926 includes/class-give-scripts.php:516
+#: includes/process-donation.php:596 includes/shortcodes.php:449
+msgid "Please enter your first name."
+msgstr "נא להזין שם פרטי."
+
+#: includes/process-donation.php:673
+msgid "Please enter your primary billing address."
+msgstr "נא להזין כתובת חיוב ראשית."
+
+#: includes/process-donation.php:677
+msgid "Please enter your zip / postal code."
+msgstr "נא להזין מיקוד / תא דואר."
+
+#: includes/process-donation.php:457
+msgid "Please insert a valid donation amount."
+msgstr "נא להזין סכום תרומה תקין."
+
+#: includes/post-types.php:392
+msgid "Abandoned <span class=\"count\">(%s)</span>"
+msgid_plural "Abandoned <span class=\"count\">(%s)</span>"
+msgstr[0] "ננטשו <span class=\"count\">(%s)</span>"
+msgstr[1] "ננטשו <span class=\"count\">(%s)</span>"
+
+#: includes/post-types.php:348
+msgid "Refunded <span class=\"count\">(%s)</span>"
+msgid_plural "Refunded <span class=\"count\">(%s)</span>"
+msgstr[0] "הוחזר <span class=\"count\">(%s)</span>"
+msgstr[1] "הוחזר <span class=\"count\">(%s)</span>"
+
+#: includes/post-types.php:359
+msgid "Failed <span class=\"count\">(%s)</span>"
+msgid_plural "Failed <span class=\"count\">(%s)</span>"
+msgstr[0] "נכשל <span class=\"count\">(%s)</span>"
+msgstr[1] "נכשל <span class=\"count\">(%s)</span>"
+
+#: includes/post-types.php:370
+msgid "Revoked <span class=\"count\">(%s)</span>"
+msgid_plural "Revoked <span class=\"count\">(%s)</span>"
+msgstr[0] "בוטל <span class=\"count\">(%s)</span>"
+msgstr[1] "בוטל <span class=\"count\">(%s)</span>"
+
+#: includes/post-types.php:316 includes/post-types.php:324
+msgid "Enter form title here"
+msgstr "כותרת טופס"
+
+#: includes/admin/donors/class-donor-table.php:128
+#: includes/admin/donors/donors.php:945
+#: includes/admin/payments/class-payments-table.php:194
+#: includes/admin/reports/class-form-reports-table.php:122
+#: includes/post-types.php:57 includes/post-types.php:272
+#: assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/components/donation-row/index.js:18
+msgid "Form"
+msgstr "טופס"
+
+#: includes/admin/reports/class-forms-report.php:37
+#: includes/admin/reports/class-forms-report.php:75
+#: includes/admin/reports/reports.php:123
+#: includes/admin/tools/import/class-give-import-donations.php:596
+#: includes/post-types.php:273
+msgid "Forms"
+msgstr "טפסים"
+
+#: includes/post-types.php:204
+msgid "New Tag Name"
+msgstr "שם לתגית החדשה"
+
+#: includes/post-types.php:206
+msgid "Choose from most used tags."
+msgstr "לבחור מבין התגיות הנפוצות ביותר."
+
+#: includes/post-types.php:203
+msgid "Add New Tag"
+msgstr "הוספת תגית"
+
+#: includes/post-types.php:202
+msgid "Update Tag"
+msgstr "עדכון תגית"
+
+#: includes/post-types.php:199
+msgid "Parent Tag"
+msgstr "תגית אב"
+
+#: includes/post-types.php:200
+msgid "Parent Tag:"
+msgstr "תגית אב:"
+
+#: includes/post-types.php:201
+msgid "Edit Tag"
+msgstr "עריכת תגית"
+
+#: includes/admin/class-give-html-elements.php:379 includes/post-types.php:198
+msgid "All Tags"
+msgstr "כל התגיות"
+
+#: includes/post-types.php:197
+msgid "Search Tags"
+msgstr "חפש תגיות"
+
+#: includes/post-types.php:196
+msgctxt "taxonomy singular name"
+msgid "Tag"
+msgstr "תגית"
+
+#: includes/post-types.php:195
+msgctxt "taxonomy general name"
+msgid "Form Tags"
+msgstr "תגיות טפסים"
+
+#: includes/post-types.php:167
+msgid "New Category Name"
+msgstr "שם לקטגוריה החדשה"
+
+#: includes/post-types.php:166
+msgid "Add New Category"
+msgstr "הוספת קטגוריה"
+
+#: includes/post-types.php:165
+msgid "Update Category"
+msgstr "עדכון קטגוריה"
+
+#: includes/post-types.php:164
+msgid "Edit Category"
+msgstr "עריכת קטגוריה"
+
+#: includes/post-types.php:163
+msgid "Parent Category:"
+msgstr "קטגורית אם:"
+
+#: includes/post-types.php:162
+msgid "Parent Category"
+msgstr "קטגורית אם"
+
+#: includes/post-types.php:160
+msgid "Search Categories"
+msgstr "חיפוש קטגוריות"
+
+#: includes/post-types.php:159
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr "קטגוריות"
+
+#: includes/post-types.php:116
+msgid "Edit Donation"
+msgstr "עריכת תרומה"
+
+#: includes/admin/emails/class-new-donation-email.php:44
+#: includes/post-types.php:117 src/Onboarding/DefaultFormFactory.php:77
+msgid "New Donation"
+msgstr "תרומה חדשה"
+
+#: includes/post-types.php:120
+msgid "Search Donations"
+msgstr "חיפוש תרומות"
+
+#: includes/admin/donors/donors.php:908 includes/post-types.php:119
+msgid "View Donation"
+msgstr "הצג תרומה"
+
+#: includes/post-types.php:118
+msgid "All Donations"
+msgstr "כל התרומות"
+
+#: includes/post-types.php:115
+msgid "Add New Donation"
+msgstr "הוספת תרומה"
+
+#: includes/post-types.php:158
+msgctxt "taxonomy general name"
+msgid "Form Categories"
+msgstr "קטגוריות טפסים"
+
+#: includes/admin/class-blank-slate.php:275
+#: includes/admin/class-blank-slate.php:279
+#: includes/admin/class-give-html-elements.php:106
+#: includes/admin/donors/donors.php:930
+#: includes/class-give-cli-commands.php:621 includes/emails/template.php:178
+#: includes/post-types.php:121
+msgid "No donations found."
+msgstr "לא נמצאו תרומות."
+
+#: includes/post-types.php:122
+msgid "No donations found in Trash."
+msgstr "לא נמצאו תרומות בפח."
+
+#: includes/post-types.php:114
+msgid "Add New"
+msgstr "הוספת חדש"
+
+#: includes/post-types.php:113
+msgctxt "post type singular name"
+msgid "Donation"
+msgstr "תרומה"
+
+#: includes/post-types.php:112
+msgctxt "post type general name"
+msgid "Donations"
+msgstr "תרומות"
+
+#: includes/admin/donors/donor-actions.php:452
+#: includes/admin/donors/donor-actions.php:510
+#: includes/admin/donors/donor-actions.php:562
+#: includes/payments/functions.php:1432
+msgid "System"
+msgstr "מערכת"
+
+#: includes/payments/functions.php:545
+msgid "Pre-Approved"
+msgstr "לפני אישור"
+
+#: includes/payments/functions.php:540
+msgid "Complete"
+msgstr "הושלם"
+
+#: includes/admin/payments/class-payments-table.php:337
+#: includes/payments/functions.php:543 includes/post-types.php:376
+#: src/API/Endpoints/Reports/PaymentStatuses.php:100
+msgid "Cancelled"
+msgstr "בוטלו"
+
+#. translators: 1: old status 2: new status.
+#: includes/payments/actions.php:139
+msgid "Status changed from %1$s to %2$s."
+msgstr "הסטטוס שונה מ-%1$s ל-%2$s."
+
+#: includes/login-register.php:275
+msgid "Please enter a password."
+msgstr "יש להזין סיסמה."
+
+#: includes/login-register.php:271
+msgid "Invalid payment email."
+msgstr "אימייל התרומה אינו תקין."
+
+#: includes/login-register.php:125 includes/process-donation.php:995
+msgid "The username you entered does not exist."
+msgstr "שם המשתמש אינו קיים."
+
+#: includes/login-register.php:251 includes/login-register.php:259
+#: includes/user-functions.php:317
+msgid "Invalid username."
+msgstr "שם משתמש אינו תקין."
+
+#: includes/login-register.php:263
+msgid "Email address already taken."
+msgstr "אימייל זה כבר בשימוש."
+
+#: includes/login-register.php:255 includes/user-functions.php:307
+msgid "Username already taken."
+msgstr "שם המשתמש כבר בשימוש."
+
+#: includes/login-register.php:122 includes/process-donation.php:971
+msgid "The password you entered is incorrect."
+msgstr "הסיסמה שגויה."
+
+#: includes/admin/donors/donors.php:742
+msgid "Save"
+msgstr "שמירה"
+
+#: includes/admin/give-metabox-functions.php:1568 src/FormAPI/Form/Group.php:35
+msgid "Add Row"
+msgstr "הוספת שורה"
+
+#: includes/class-give-license-handler.php:920
+msgid "Download"
+msgstr "הורדה"
+
+#: includes/admin/donors/donors.php:75 includes/admin/donors/donors.php:826
+#: src/PaymentGateways/Stripe/Admin/AccountManagerSettingField.php:318
+msgid "Remove"
+msgstr "הסרה"
+
+#: includes/admin/import-functions.php:429
+msgid "Time"
+msgstr "שעה"
+
+#: includes/class-give-scripts.php:367
+msgid "Choose File"
+msgstr "בחר קובץ"
+
+#: includes/admin/give-metabox-functions.php:1454
+#: includes/admin/give-metabox-functions.php:1489
+#: includes/admin/give-metabox-functions.php:1528
+msgid "Remove Group"
+msgstr "הסר קבוצה"
+
+#: includes/install.php:454
+msgid "Donation Confirmation"
+msgstr "אישור התרומה"
+
+#. translators: %s: Paypal transaction ID
+#: includes/gateways/paypal/paypal-standard.php:349
+msgid "PayPal Transaction ID: %s"
+msgstr "מזהה עסקה בפייפאל: %s"
+
+#. translators: %s: Paypal parent transaction ID
+#: includes/gateways/paypal/paypal-standard.php:398
+msgid "Partial PayPal refund processed: %s"
+msgstr "עובד החזר פייפאל חלקי: %s"
+
+#. translators: %s: Paypal transaction ID
+#: includes/gateways/paypal/paypal-standard.php:418
+msgid "PayPal Refund Transaction ID: %s"
+msgstr "מזהה עסקת פייפאל שהוחזרה: %s"
+
+#: includes/gateways/paypal/paypal-standard.php:542
+msgid "Payment made via eCheck and will clear automatically in 5-8 days."
+msgstr "התרומה בוצעה באמצעות המחאה-אלקטרונית ותאושר תוך 5-8 ימים."
+
+#: includes/gateways/paypal/paypal-standard.php:567
+msgid "PayPal account must be upgraded before this payment can be accepted."
+msgstr "יש לשדרג חשבון פייפאל לפני שתרומה זו תוכל להתקבל."
+
+#: includes/gateways/paypal/paypal-standard.php:571
+msgid "PayPal account is not verified. Verify account in order to accept this donation."
+msgstr "חשבון הפייפאל לא מאומת. יש אמת חשבון כדי לקבל תרומה זו."
+
+#: includes/gateways/paypal/paypal-standard.php:563
+msgid "Payment was sent to non-confirmed or non-registered email address."
+msgstr "תרומה נשלחה לאימייל שטרם אושר או אימייל לא רשום."
+
+#: includes/gateways/paypal/paypal-standard.php:546
+msgid "Payment requires a confirmed donor address and must be accepted manually through PayPal."
+msgstr "לביצוע התרומה נדרשת כתובת תורם, שחייבת להתקבל באופן ידני באמצעות פייפאל."
+
+#: includes/gateways/paypal/paypal-standard.php:554
+msgid "Payment received in non-shop currency and must be accepted manually through PayPal."
+msgstr "התרומה התקבלה במטבע שאינו המטבע של האתר, יש לקבל את התרומה באופן ידני באמצעות פייפאל."
+
+#: includes/gateways/paypal/paypal-standard.php:550
+msgid "Payment must be accepted manually through PayPal due to international account regulations."
+msgstr "התרומה חייבת להתקבל באופן ידני באמצעות פייפאל בעקבות תקנות בינלאומיות."
+
+#: includes/gateways/paypal/paypal-standard.php:575
+msgid "Payment is pending for unknown reasons. Contact PayPal support for assistance."
+msgstr "התרומה ממתינה לאישור ממסיבה לא ידועה. יש לפנות לתמיכת פייפאל לקבלת סיוע."
+
+#: includes/gateways/paypal/paypal-standard.php:559
+msgid "Payment is being reviewed by PayPal staff as high-risk or in possible violation of government regulations."
+msgstr "התרומה נבדקת על ידי צוות פייפאל בגלל סיכון-גבוה או הפרה אפשרית של תקנות ממשלתיות."
+
+#. translators: 1: Paypal parent transaction ID 2. Paypal reason code
+#: includes/gateways/paypal/paypal-standard.php:410
+msgid "PayPal Payment #%1$s Refunded for reason: %2$s"
+msgstr "תשלום פייפאל #%1$s הוחזר בגלל: %2$s"
+
+#: includes/gateways/paypal/paypal-standard.php:207
+#: includes/gateways/paypal/paypal-standard.php:219
+msgid "IPN Error"
+msgstr "שגיאת IPN"
+
+#: includes/admin/emails/class-email-access-email.php:181
+#: includes/emails/functions.php:118
+msgid "Sincerely,"
+msgstr "בברכה,"
+
+#: includes/admin/emails/class-new-offline-donation-email.php:111
+#: includes/gateways/offline-donations.php:215
+msgid "Dear Admin,"
+msgstr "מנהל יקר,"
+
+#: includes/admin/payments/view-payment-details.php:77
+#: includes/admin/tools/views/html-admin-page-system-info.php:664
+#: includes/class-give-cache-setting.php:240
+#: includes/class-give-cache-setting.php:241
+#: includes/gateways/functions.php:133 assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/components/donation-row/index.js:36
+msgid "Test Donation"
+msgstr "תרומת ניסיון"
+
+#: includes/class-give-cache-setting.php:244
+#: includes/class-give-cache-setting.php:245
+msgid "Offline Donation"
+msgstr "תרומה לא מקוונת"
+
+#. translators: %s: Paypal IPN response
+#. translators: %s: Paypal IPN response
+#: includes/gateways/paypal/paypal-standard.php:209
+#: includes/gateways/paypal/paypal-standard.php:221
+msgid "Invalid IPN verification response. IPN data: %s"
+msgstr "אימות לא תקין בתגובת IPN. פרטים: %s"
+
+#. translators: %s: admin title
+#: includes/admin/payments/payments-history.php:105
+msgid "View Donation Details - %s"
+msgstr "הצג פרטי תרומה - %s"
+
+#: includes/gateways/offline-donations.php:292
+msgid "This option will enable the billing details section for this form's offline donation payment gateway. The fieldset will appear above the offline donation instructions."
+msgstr "אפשרות זו תאפשר להוסיף פרטי חיוב לשיטת תשלום לא מקוונת. השדות יופיעו מעל ההוראות לביצוע תרומה."
+
+#: includes/admin/emails/class-new-offline-donation-email.php:86
+#: includes/gateways/offline-donations.php:213
+msgid "New Pending Donation"
+msgstr "תרומה חדשה בהמתנה"
+
+#. translators: %s: payment data
+#: includes/gateways/manual.php:107
+msgid "The payment creation failed while processing a manual (free or test) donation. Payment data: %s"
+msgstr "התשלום נכשל במהלך עיבוד התרומה הידנית (חינם או מבחן). נתוני תשלום: %s"
+
+#. translators: %s: payment data
+#: includes/gateways/paypal/paypal-standard.php:85
+msgid "Payment creation failed before sending donor to PayPal. Payment data: %s"
+msgstr "יצירת תרוצה נכשלה לפני לפני שליחת התורם לפייפאל. פרטי תשלום: %s"
+
+#: includes/gateways/offline-donations.php:305
+msgid "Enter the instructions you want to display to the donor during the donation process. Most likely this would include important information like mailing address and who to make the check out to."
+msgstr "יש להזין את ההוראות שיוצגו לתורמים במהלך תהליך התרומה. סביר להניח שזה יכלול מידע חשוב כמו כתובת דואר ועל שם מי לכתוב את ההמחאה או פרטי חשבון בנק אליו יש להעביר את התרומה."
+
+#: includes/gateways/offline-donations.php:217
+msgid "The donation is in a pending status and is awaiting payment. Donation instructions have been emailed to the donor. Once you receive payment, be sure to mark the donation as complete using the link below."
+msgstr "התרומה ממתינה להשלמת התשלום. הוראות לאופן ביצוע התרומה נשלחו לאימייל של התורם. לאחר שהתרומה תתקבל, יש לסמן את התרומה כהושלמה באמצעות הקישור שלהלן."
+
+#: includes/admin/emails/abstract-email-notification.php:901
+#: src/Onboarding/Setup/templates/index.html.php:70
+#: src/PaymentGateways/PaypalSettingPage.php:64
+#: src/PaymentGateways/PayPalStandard/PayPalStandard.php:26
+msgid "PayPal"
+msgstr "פייפאל ואשראי"
+
+#: includes/gateways/actions.php:146
+msgid "You must enable a payment gateway to use Give."
+msgstr "יש לאפשר שיטת תשלום כדי להשתמש בתוסף."
+
+#: includes/forms/widget.php:193
+msgid "Leave blank to hide the widget title."
+msgstr "השאר ריק כדי להסתיר כותרת וידג'ט."
+
+#: includes/forms/widget.php:244
+msgid "Floating Labels (optional):"
+msgstr "תוויות צפות (אופציונאלי):"
+
+#: includes/forms/template.php:1798
+msgid "Hide Terms"
+msgstr "הסתרת תנאי שימוש"
+
+#: includes/forms/widget.php:191
+msgid "Title:"
+msgstr "כותרת:"
+
+#: includes/forms/template.php:2192
+msgid "Test mode is enabled. While in test mode no live donations are processed."
+msgstr "מופעל מצב ניסיון. במצב זה לא יתבצעו עסקאות אמיתיות."
+
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:154
+#: includes/forms/template.php:1842
+msgid "Donation Total:"
+msgstr "סה\"כ תרומה:"
+
+#: includes/forms/template.php:2192
+#: includes/gateways/stripe/includes/class-give-stripe-gateway.php:121
+#: includes/gateways/stripe/includes/class-give-stripe-gateway.php:132
+#: includes/gateways/stripe/includes/class-give-stripe-gateway.php:143
+msgid "Notice:"
+msgstr "שימו לב:"
+
+#: includes/forms/template.php:1546
+msgid "Your password"
+msgstr "הסיסמה שלך"
+
+#: includes/forms/template.php:1627
+msgid "Select Payment Method"
+msgstr "בחירת שיטת תשלום"
+
+#: includes/forms/template.php:1796
+msgid "Show Terms"
+msgstr "הצגת תנאי שימוש"
+
+#: includes/forms/template.php:1398
+msgid "Create an account"
+msgstr "יצירת חשבון"
+
+#: includes/forms/template.php:1489
+msgid "(optional)"
+msgstr "(אופציונלי)"
+
+#: includes/forms/template.php:1539 templates/shortcode-login.php:39
+#: templates/shortcode-register.php:44
+msgid "Password"
+msgstr "סיסמה"
+
+#: includes/forms/template.php:1416 assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/components/auth-modal/index.js:118
+msgid "Already have an account?"
+msgstr "כבר יש לך חשבון?"
+
+#: includes/class-give-scripts.php:531
+msgid "Loading"
+msgstr "טוען"
+
+#: includes/forms/template.php:1212
+msgid "Address line 2"
+msgstr "שורת כתובת 2"
+
+#: includes/forms/template.php:1297 includes/forms/template.php:1309
+msgid "Zip / Postal Code"
+msgstr "מיקוד / תא דואר"
+
+#: includes/forms/template.php:1224
+msgid "The city for your billing address."
+msgstr "העיר של כתובת החיוב."
+
+#: includes/forms/template.php:1156
+msgid "The country for your billing address."
+msgstr "המדינה של כתובת החיוב."
+
+#: includes/admin/donors/donors.php:730
+#: includes/admin/payments/view-payment-details.php:828
+msgid "Zip / Postal Code:"
+msgstr "מיקוד / תא דואר:"
+
+#: includes/forms/template.php:1068
+msgid "MM / YY"
+msgstr "MM / YY"
+
+#: includes/forms/template.php:1191
+msgid "Address line 1"
+msgstr "שורת כתובת 1"
+
+#: includes/forms/template.php:1112
+#: src/PaymentGateways/PayPalCommerce/AdvancedCardFields.php:72
+#: src/PaymentGateways/PayPalStandard/PayPalStandard.php:63
+msgid "Billing Details"
+msgstr "פרטי חיוב"
+
+#: includes/forms/template.php:1182
+msgid "The primary billing address for your credit card."
+msgstr "כתובת החיוב הראשית עבור כרטיס האשראי שלך."
+
+#: includes/forms/template.php:1059 src/Helpers/Gateways/Stripe.php:142
+msgid "The date your credit card expires, typically on the front of the card."
+msgstr "התאריך בו יפוג כרטיס האשראי, בדרך כלל מופיע בחלק הקדמי של הכרטיס."
+
+#: includes/forms/template.php:1011 includes/forms/template.php:1018
+#: includes/gateways/stripe/includes/give-stripe-scripts.php:52
+#: src/Helpers/Gateways/Stripe.php:95
+#: src/PaymentGateways/PayPalCommerce/ScriptLoader.php:162
+msgid "Card Number"
+msgstr "מספר כרטיס"
+
+#: includes/forms/template.php:1024 includes/forms/template.php:1030
+#: includes/gateways/stripe/includes/give-stripe-scripts.php:53
+#: src/Helpers/Gateways/Stripe.php:108
+#: src/PaymentGateways/PayPalCommerce/ScriptLoader.php:163
+msgid "CVC"
+msgstr "קוד אבטחה"
+
+#: includes/forms/template.php:1006
+#: includes/gateways/stripe/includes/payment-methods/class-give-stripe-becs.php:85
+#: includes/gateways/stripe/includes/payment-methods/class-give-stripe-card.php:86
+#: includes/gateways/stripe/includes/payment-methods/class-give-stripe-sepa.php:86
+msgid "This is a secure SSL encrypted payment."
+msgstr "זהו תשלום SSL מוצפן ומאובטח."
+
+#: includes/forms/template.php:1013
+#: includes/gateways/stripe/includes/payment-methods/class-give-stripe-sepa.php:97
+#: src/Helpers/Gateways/Stripe.php:98
+msgid "The (typically) 16 digits on the front of your credit card."
+msgstr "16 ספרות בצד הקדמי של כרטיס האשראי."
+
+#: includes/forms/template.php:1026 src/Helpers/Gateways/Stripe.php:111
+msgid "The 3 digit (back) or 4 digit (front) value on your card."
+msgstr "3 ספרות בחלק האחורי או 4 ספרות בחלק הקדמי של כרטיס האשראי."
+
+#: includes/forms/template.php:1002
+#: includes/gateways/stripe/includes/payment-methods/class-give-stripe-card.php:77
+msgid "Credit Card Info"
+msgstr "מידע כרטיס אשראי"
+
+#: includes/forms/template.php:880
+msgid "We will send the donation receipt to this address."
+msgstr "אנו נשלח את הקבלה לכתובת זו."
+
+#: includes/admin/donors/donors.php:838 includes/admin/import-functions.php:475
+#: includes/admin/tools/export/give-export-donations-exporter.php:189
+#: includes/admin/tools/import/class-give-import-donations.php:481
+#: includes/forms/template.php:876 includes/forms/template.php:887
+#: src/Receipt/DonationReceipt.php:122 templates/email-login-form.php:108
+#: templates/shortcode-profile-editor.php:118
+msgid "Email Address"
+msgstr "כתובת אימייל"
+
+#: includes/admin/give-metabox-functions.php:1188
+#: includes/emails/template.php:143
+msgid "Send Test Email"
+msgstr "שליחת אימייל ניסיון"
+
+#: includes/forms/template.php:776
+msgid "Personal Info"
+msgstr "פרטים אישיים"
+
+#: includes/emails/functions.php:91
+msgid "Thank you,"
+msgstr "תודה,"
+
+#: includes/admin/emails/class-email-setting-field.php:375
+msgid "Preview Email"
+msgstr "תצוגת אימיילים"
+
+#: includes/emails/class-give-emails.php:190
+msgid "No template, plain text only"
+msgstr "ללא תבנית, רק טקסט"
+
+#: includes/emails/functions.php:90 includes/emails/functions.php:114
+msgid "Payment Method:"
+msgstr "שיטת תשלום:"
+
+#: includes/emails/functions.php:88 includes/emails/functions.php:111
+msgid "Donation:"
+msgstr "תרומה:"
+
+#: includes/emails/functions.php:85
+msgid "Hi there,"
+msgstr "שלום לך,"
+
+#: includes/admin/emails/class-new-donation-email.php:51
+#: src/Onboarding/DefaultFormFactory.php:78
+msgid "New Donation!"
+msgstr "תרומה חדשה!"
+
+#: includes/emails/functions.php:86
+msgid "This email is to inform you that a new donation has been made on your website:"
+msgstr "הודעה זו נשלחה כדי להודיע ​​לך כי התקבלה תרומה חדשה:"
+
+#: includes/emails/class-give-emails.php:340
+msgid "You cannot send email with Give_Emails until init/admin_init has been reached."
+msgstr "לא ניתן לשלוח אימיילים באמצעות Give_Emails עד של init/admin_init לא יטענו."
+
+#: includes/country-functions.php:2364
+msgid "Zaragoza"
+msgstr "סראגוסה"
+
+#: includes/emails/class-give-emails.php:189
+msgid "Default Template"
+msgstr "תבנית ברירת מחדל"
+
+#: includes/emails/class-give-email-tags.php:363
+msgid "The donor's billing address."
+msgstr "כתובת חיוב של התורם."
+
+#: includes/emails/class-give-email-tags.php:440
+msgid "The donor's full name, first and last."
+msgstr "השם המלא של התורם, שם פרטי ושם משפחה."
+
+#: includes/emails/class-give-email-tags.php:458
+#: includes/emails/class-give-email-tags.php:464
+msgid "The donor's email address."
+msgstr "כתובת האימייל של התורם."
+
+#: includes/emails/class-give-email-tags.php:446
+msgid "The donor's user name on the site, if they registered an account."
+msgstr "שם המשתמש של התורם, אם הוא משתמש רשום באתר."
+
+#: includes/emails/class-give-email-tags.php:369
+msgid "The date of the donation."
+msgstr "תאריך התרומה."
+
+#: includes/emails/class-give-email-tags.php:375
+msgid "The unique ID number for this donation."
+msgstr "המספר היחודי של התרומה."
+
+#: includes/emails/class-give-email-tags.php:394
+msgid "The unique ID number for this donation receipt."
+msgstr "המספר היחודי של הקבלה."
+
+#: includes/emails/class-give-email-tags.php:381
+msgid "The method of payment used for this donation."
+msgstr "שיטת התשלום ששימשה לתרומה זו."
+
+#: includes/country-functions.php:2357
+msgid "Tarragona"
+msgstr "טרגונה"
+
+#: includes/country-functions.php:2358
+msgid "Teruel"
+msgstr "טרואל"
+
+#: includes/country-functions.php:2359
+msgid "Toledo"
+msgstr "טולדו"
+
+#: includes/country-functions.php:2360
+msgid "Valencia"
+msgstr "ולנסיה"
+
+#: includes/country-functions.php:2361
+msgid "Valladolid"
+msgstr "ויאדוליד"
+
+#: includes/country-functions.php:2362
+msgid "Bizkaia"
+msgstr "ויזקאיה"
+
+#: includes/country-functions.php:2363
+msgid "Zamora"
+msgstr "זאמורה"
+
+#: includes/country-functions.php:2351
+msgid "Pontevedra"
+msgstr "פונטוודרה"
+
+#: includes/country-functions.php:2352
+msgid "Salamanca"
+msgstr "סלמנקה"
+
+#: includes/country-functions.php:2353
+msgid "Santa Cruz de Tenerife"
+msgstr "סנטה קרוז דה טנריף"
+
+#: includes/country-functions.php:2354
+msgid "Segovia"
+msgstr "סגוביה"
+
+#: includes/country-functions.php:2355
+msgid "Sevilla"
+msgstr "סביליה"
+
+#: includes/country-functions.php:2356
+msgid "Soria"
+msgstr "סוריה"
+
+#: includes/country-functions.php:2345
+msgid "M&aacute;laga"
+msgstr "מאלגה"
+
+#: includes/country-functions.php:2346
+msgid "Melilla"
+msgstr "מלייה"
+
+#: includes/country-functions.php:2347
+msgid "Murcia"
+msgstr "מורסיה"
+
+#: includes/country-functions.php:2348
+msgid "Navarra"
+msgstr "נווארה"
+
+#: includes/country-functions.php:2349
+msgid "Ourense"
+msgstr "אורנסה"
+
+#: includes/country-functions.php:2350
+msgid "Palencia"
+msgstr "פלנסיה"
+
+#: includes/country-functions.php:2344
+msgid "Madrid"
+msgstr "מדריד"
+
+#: includes/country-functions.php:2340
+msgid "Las Palmas"
+msgstr "לאס פאלמאס"
+
+#: includes/country-functions.php:2341
+msgid "Le&oacute;n"
+msgstr "לאון"
+
+#: includes/country-functions.php:2342
+msgid "Lleida"
+msgstr "ליידה"
+
+#: includes/country-functions.php:2343
+msgid "Lugo"
+msgstr "לוגו"
+
+#: includes/country-functions.php:2337
+msgid "Huesca"
+msgstr "הואסקה"
+
+#: includes/country-functions.php:2338
+msgid "Ja&eacute;n"
+msgstr "חאאן"
+
+#: includes/country-functions.php:1744 includes/country-functions.php:2339
+msgid "La Rioja"
+msgstr "לה ריוחה"
+
+#: includes/country-functions.php:2333
+msgid "Granada"
+msgstr "גרנדה"
+
+#: includes/country-functions.php:2334
+msgid "Guadalajara"
+msgstr "גואדלחרה"
+
+#: includes/country-functions.php:2335
+msgid "Gipuzkoa"
+msgstr "גיפוזקואה"
+
+#: includes/country-functions.php:2336
+msgid "Huelva"
+msgstr "הואלבה"
+
+#: includes/country-functions.php:2329
+msgid "Ciudad Real"
+msgstr "סיודאד ריאל"
+
+#: includes/country-functions.php:2331
+msgid "Cuenca"
+msgstr "קואנקה"
+
+#: includes/country-functions.php:2332
+msgid "Girona"
+msgstr "גירונה"
+
+#: includes/country-functions.php:1738 includes/country-functions.php:2330
+msgid "C&oacute;rdoba"
+msgstr "קורדובה"
+
+#: includes/country-functions.php:2326
+msgid "Cantabria"
+msgstr "קנטבריה"
+
+#: includes/country-functions.php:2327
+msgid "Castell&oacute;n"
+msgstr "קאסטיון"
+
+#: includes/country-functions.php:2328
+msgid "Ceuta"
+msgstr "סאוטה"
+
+#: includes/country-functions.php:2319
+msgid "&Aacute;vila"
+msgstr "אווילה"
+
+#: includes/country-functions.php:2320
+msgid "Badajoz"
+msgstr "בדחוס"
+
+#: includes/country-functions.php:2321
+msgid "Baleares"
+msgstr "האיים הבלאריים"
+
+#: includes/country-functions.php:2322
+msgid "Barcelona"
+msgstr "ברצלונה"
+
+#: includes/country-functions.php:2323
+msgid "Burgos"
+msgstr "בורגוס"
+
+#: includes/country-functions.php:2324
+msgid "C&aacute;ceres"
+msgstr "קסרס"
+
+#: includes/country-functions.php:2325
+msgid "C&aacute;diz"
+msgstr "קדיס"
+
+#: includes/country-functions.php:2315
+msgid "Albacete"
+msgstr "אלבסטה"
+
+#: includes/country-functions.php:2316
+msgid "Alicante"
+msgstr "אליקנטה"
+
+#: includes/country-functions.php:2317
+msgid "Almer&iacute;a"
+msgstr "אלמריה"
+
+#: includes/country-functions.php:2318
+msgid "Asturias"
+msgstr "אסטוריאס"
+
+#: includes/country-functions.php:2313
+msgid "A Coru&ntilde;a"
+msgstr "א קורוניה"
+
+#: includes/class-give-stats.php:436
+msgid "Improper date provided."
+msgstr "סופק תאריך לא מתאים."
+
+#: includes/api/class-give-api.php:1924
+msgid "Public key:"
+msgstr "מפתח ציבורי:"
+
+#: includes/api/class-give-api.php:1928
+msgid "Secret key:"
+msgstr "מפתח סודי:"
+
+#: includes/api/class-give-api.php:1937
+msgid "Revoke API Keys"
+msgstr "לבטל מפתחות API"
+
+#: includes/api/class-give-api.php:1922
+msgid "Generate API Key"
+msgstr "צור מפתח API"
+
+#: includes/api/class-give-api.php:1932
+msgid "Token:"
+msgstr "טוקן:"
+
+#: includes/admin/class-give-html-elements.php:250
+msgid "Select a Donor"
+msgstr "בחר תורם"
+
+#: includes/admin/class-give-html-elements.php:268
+msgid "No donor attached"
+msgstr "לא משוייכים תורמים"
+
+#. translators: %s: property key
+#. translators: %s: property key
+#: includes/class-give-donate-form.php:404 includes/class-give-donor.php:379
+msgid "Can't get property %s."
+msgstr "לא ניתן לקבל %s."
+
+#: includes/admin/class-give-html-elements.php:340 includes/post-types.php:161
+msgid "All Categories"
+msgstr "כל הקטגוריות"
+
+#. translators: %s: process
+#. translators: %s: process
+#: includes/api/class-give-api.php:1990 includes/api/class-give-api.php:2001
+msgid "You do not have permission to %s API keys for this user."
+msgstr "אין לך הרשאות לבצע %s מפתחות API עבור משתמש זה."
+
+#: includes/api/class-give-api.php:509
+msgid "Invalid API key."
+msgstr "מפתח API לא תקין."
+
+#: includes/api/class-give-api.php:525
+msgid "Invalid API version."
+msgstr "גרסה API לא תקינה."
+
+#: includes/api/class-give-api.php:678
+msgid "Invalid query."
+msgstr "שאילתה לא תקינה."
+
+#. translators: %s: donor
+#: includes/api/class-give-api.php:994
+msgid "Donor %s not found."
+msgstr "תורם %s לא נמצא."
+
+#: blocks/donor-wall/class-give-donor-wall.php:227
+#: includes/admin/class-blank-slate.php:295
+#: includes/admin/class-give-html-elements.php:274
+#: includes/api/class-give-api.php:1002
+#: includes/class-give-cli-commands.php:470
+msgid "No donors found."
+msgstr "לא נמצאו תורמים."
+
+#. translators: %s: form
+#. translators: %s: form
+#. translators: %s: form
+#: includes/api/class-give-api.php:1053 includes/api/class-give-api.php:1328
+#: includes/api/class-give-api.php:1491
+msgid "Form %s not found."
+msgstr "טופס %s לא נמצא."
+
+#: includes/api/class-give-api.php:492
+msgid "Your request could not be authenticated."
+msgstr "לא ניתן לאמת את הבקשה."
+
+#: includes/api/class-give-api.php:1213 includes/api/class-give-api.php:1348
+msgid "The end date must be later than the start date."
+msgstr "תאריך הסיום צריך להיות מאוחר יותר מתאריך ההתחלה."
+
+#: includes/api/class-give-api.php:1218 includes/api/class-give-api.php:1353
+msgid "Invalid or no date range specified."
+msgstr "טווח התאריכים לא תקין או לא סופק."
+
+#: includes/admin/class-give-html-elements.php:796
+msgid "No users found."
+msgstr "לא נמצאו משתמשים."
+
+#: includes/api/class-give-api.php:475
+msgid "You must specify both a token and API key."
+msgstr "יש לספק גם את הטוקן וגם את מפתח ה-API."
+
+#: includes/admin/shortcodes/shortcode-give-register.php:46
+msgid "Enter an URL here to redirect to after registering."
+msgstr "הזן כתובת אליה יופנה המשתמש לאחר ההרשמה."
+
+#: includes/admin/shortcodes/shortcode-give-register.php:24
+#: includes/admin/shortcodes/shortcode-give-register.php:25
+#: templates/shortcode-register.php:71
+msgid "Register"
+msgstr "הרשמה"
+
+#: includes/admin/shortcodes/shortcode-give-receipt.php:85
+msgid "Show Payment ID:"
+msgstr "הצג מספר תשלום:"
+
+#: includes/admin/forms/class-metabox-form-data.php:412
+#: includes/admin/shortcodes/shortcode-give-login.php:24
+#: includes/admin/shortcodes/shortcode-give-login.php:25
+#: includes/forms/template.php:1418 includes/forms/template.php:1555
+msgid "Login"
+msgstr "התחבר"
+
+#: includes/admin/shortcodes/shortcode-give-goal.php:78
+#: includes/admin/shortcodes/shortcode-give-totals.php:126
+msgid "Show Progress Bar:"
+msgstr "הצג סרגל התקדמות:"
+
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:100
+#: includes/admin/shortcodes/shortcode-give-goal.php:79
+msgid "Do you want to display the goal's progress bar?"
+msgstr "האם להציג סרגל התקדמות?"
+
+#: includes/admin/shortcodes/shortcode-give-goal.php:68
+msgid "Show Text:"
+msgstr "הצג טקסט:"
+
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:42
+#: includes/admin/shortcodes/shortcode-give-form.php:62
+#: includes/admin/shortcodes/shortcode-give-goal.php:63
+#: includes/admin/shortcodes/shortcode-give-receipt.php:43
+msgid "Optional settings"
+msgstr "הגדרות אופציונליות"
+
+#: includes/admin/shortcodes/shortcode-give-goal.php:26
+#: includes/admin/shortcodes/shortcode-give-goal.php:27
+msgid "Donation Form Goal"
+msgstr "יעד תרומות"
+
+#: includes/admin/shortcodes/shortcode-give-form.php:91
+msgid "No Content"
+msgstr "ללא תוכן"
+
+#: includes/admin/shortcodes/shortcode-give-receipt.php:67
+msgid "Show Date:"
+msgstr "הצג תאריך:"
+
+#: includes/admin/shortcodes/shortcode-give-profile-editor.php:24
+msgid "Profile Editor"
+msgstr "עריכת פרופיל"
+
+#: includes/admin/shortcodes/shortcode-give-receipt.php:76
+msgid "Show Payment Method:"
+msgstr "הצג שיטת תשלום:"
+
+#: includes/admin/shortcodes/shortcode-give-register.php:40
+msgid "Redirect URL (optional):"
+msgstr "הפניית כתובת (אופציונאלי):"
+
+#: includes/admin/shortcodes/shortcode-give-login.php:46
+msgid "Enter an URL here to redirect to after login."
+msgstr "הזן כתובת אליה יופנה המשתמש לאחר ההתחברות."
+
+#: includes/admin/shortcodes/shortcode-give-form.php:101
+msgid "How would you like to display donation information?"
+msgstr "איך להציג את פרטי התרומה?"
+
+#: includes/admin/shortcodes/shortcode-give-form.php:78
+msgid "Do you want to display the donation goal?"
+msgstr "האם להציג את יעד התרומות?"
+
+#: includes/admin/shortcodes/shortcode-give-form.php:89
+msgid "Do you want to display the form content?"
+msgstr "האם להציג את תוכן הטופס?"
+
+#: includes/admin/shortcodes/shortcode-give-form.php:77
+#: blocks/donation-form-grid/edit/inspector.js:83
+msgid "Show Goal"
+msgstr "הצג יעד"
+
+#: includes/admin/shortcodes/class-shortcode-button.php:222
+msgid "Okay"
+msgstr "אוקיי"
+
+#: includes/admin/shortcodes/shortcode-give-donation-history.php:24
+#: assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/tabs/donation-history/index.js:12
+msgid "Donation History"
+msgstr "היסטוריית תרומות"
+
+#: includes/admin/import-functions.php:539
+#: includes/admin/payments/class-payments-table.php:413
+#: includes/admin/shortcodes/shortcode-give-form.php:27
+#: includes/admin/shortcodes/shortcode-give-form.php:28
+#: includes/post-types.php:69 blocks/components/select-form/index.js:31
+#: blocks/donation-form/index.js:21
+msgid "Donation Form"
+msgstr "טופס תרומה"
+
+#: includes/admin/shortcodes/shortcode-give-form.php:56
+#: includes/admin/shortcodes/shortcode-give-goal.php:57
+msgid "You must first select a Form!"
+msgstr "תחילה יש לבחור טופס!"
+
+#: includes/admin/shortcodes/shortcode-give-form.php:53
+#: includes/admin/shortcodes/shortcode-give-form.php:54
+#: includes/admin/shortcodes/shortcode-give-goal.php:54
+#: includes/admin/shortcodes/shortcode-give-goal.php:55
+msgid "Select a Donation Form"
+msgstr "בחר טופס תרומה"
+
+#: includes/admin/shortcodes/shortcode-give-form.php:68
+msgid "Do you want to display the form title?"
+msgstr "האם להציג את כותרת הטופס?"
+
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:102
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:112
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:122
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:127
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:137
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:147
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:157
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:167
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:177
+#: includes/admin/shortcodes/shortcode-give-form.php:71
+#: includes/admin/shortcodes/shortcode-give-form.php:81
+#: includes/admin/shortcodes/shortcode-give-goal.php:72
+#: includes/admin/shortcodes/shortcode-give-goal.php:82
+#: includes/admin/shortcodes/shortcode-give-receipt.php:50
+#: includes/admin/shortcodes/shortcode-give-receipt.php:60
+#: includes/admin/shortcodes/shortcode-give-receipt.php:69
+#: includes/admin/shortcodes/shortcode-give-receipt.php:78
+#: includes/admin/shortcodes/shortcode-give-receipt.php:87
+#: includes/admin/shortcodes/shortcode-give-receipt.php:98
+#: includes/admin/shortcodes/shortcode-give-totals.php:130
+msgid "Hide"
+msgstr "הסתר"
+
+#: includes/admin/shortcodes/shortcode-give-form.php:67
+#: blocks/donation-form-grid/edit/inspector.js:73
+msgid "Show Title"
+msgstr "הצג כותרת"
+
+#: includes/admin/shortcodes/class-shortcode-button.php:182
+msgid "Insert"
+msgstr "הוספה"
+
+#. translators: %s: option label
+#: includes/admin/shortcodes/abstract-shortcode-generator.php:464
+msgid "The \"%s\" option is required."
+msgstr "השדה \"%s\" הוא שדה חובה."
+
+#: includes/admin/shortcodes/abstract-shortcode-generator.php:454
+msgid "Some of the shortcode options are required."
+msgstr "חלק מהאפשרויות בשורטקוד הן בגדר חובה."
+
+#: src/DonorDashboards/Helpers/LocationList.php:22
+#: src/Onboarding/Helpers/LocationList.php:19
+#: src/MultiFormGoals/resources/js/components/multi-select-control/index.js:77
+msgid "Select"
+msgstr "בחרו"
+
+#: includes/admin/shortcodes/abstract-shortcode-generator.php:92
+#: includes/admin/shortcodes/abstract-shortcode-generator.php:97
+msgid "Insert Shortcode"
+msgstr "הוספת שורטקוד"
+
+#: includes/admin/shortcodes/abstract-shortcode-generator.php:91
+#: includes/class-give-scripts.php:291 src/Views/IframeView.php:235
+msgid "Close"
+msgstr "סגור"
+
+#: includes/admin/tools/views/html-admin-page-exports.php:28
+msgid "Export Options"
+msgstr "אפשרויות יצוא"
+
+#: includes/admin/tools/export/class-give-export-donations.php:269
+msgid "All Statuses"
+msgstr "כל הסטטוסים"
+
+#: includes/admin/tools/views/html-admin-page-exports.php:47
+msgid "Export Donation History"
+msgstr "יצוא היסטוריית תרומות"
+
+#: includes/admin/tools/export/class-give-export-donations.php:297
+#: includes/admin/tools/views/html-admin-page-exports.php:53
+#: includes/admin/tools/views/html-admin-page-exports.php:89
+#: includes/admin/tools/views/html-admin-page-exports.php:135
+msgid "Generate CSV"
+msgstr "צור CSV"
+
+#: includes/admin/tools/views/html-admin-page-exports.php:67
+msgid "Generate PDF"
+msgstr "צור PDF"
+
+#: includes/admin/tools/views/html-admin-page-exports.php:49
+msgid "Download a CSV of all donations recorded."
+msgstr "הורדת קובץ CSV של כל התרומות שנקלטו."
+
+#: includes/admin/reports/reports.php:271
+msgid "Go Back"
+msgstr "חזרה"
+
+#: includes/admin/tools/views/html-admin-page-exports.php:27
+msgid "Export Type"
+msgstr "סוג יצוא"
+
+#: includes/admin/tools/class-settings-logs.php:37
+msgid "Logs"
+msgstr "יומנים"
+
+#: includes/admin/reports/reports.php:200
+msgid "Report Type"
+msgstr "סוג דוח"
+
+#: includes/admin/reports/reports.php:219
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:104
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:114
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:124
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:129
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:139
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:149
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:159
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:169
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:179
+#: includes/admin/shortcodes/shortcode-give-form.php:70
+#: includes/admin/shortcodes/shortcode-give-form.php:80
+#: includes/admin/shortcodes/shortcode-give-goal.php:71
+#: includes/admin/shortcodes/shortcode-give-goal.php:81
+#: includes/admin/shortcodes/shortcode-give-receipt.php:52
+#: includes/admin/shortcodes/shortcode-give-receipt.php:59
+#: includes/admin/shortcodes/shortcode-give-receipt.php:62
+#: includes/admin/shortcodes/shortcode-give-receipt.php:71
+#: includes/admin/shortcodes/shortcode-give-receipt.php:80
+#: includes/admin/shortcodes/shortcode-give-receipt.php:89
+#: includes/admin/shortcodes/shortcode-give-receipt.php:96
+#: includes/admin/shortcodes/shortcode-give-totals.php:129
+msgid "Show"
+msgstr "הצג"
+
+#: includes/admin/tools/export/pdf-reports.php:338
+msgid "Dec"
+msgstr "דצמ"
+
+#: includes/admin/reports/reports.php:69
+#: includes/admin/tools/class-settings-export.php:37
+#: includes/admin/tools/class-settings-export.php:75
+msgid "Export"
+msgstr "יצוא"
+
+#: includes/admin/tools/export/pdf-reports.php:333
+msgid "July"
+msgstr "יולי"
+
+#: includes/admin/tools/export/pdf-reports.php:337
+msgid "Nov"
+msgstr "נוב"
+
+#: includes/admin/tools/export/pdf-reports.php:336
+msgid "Oct"
+msgstr "אוק"
+
+#: includes/admin/tools/export/pdf-reports.php:335
+msgid "Sept"
+msgstr "ספט"
+
+#: includes/admin/tools/export/pdf-reports.php:334
+msgid "Aug"
+msgstr "אוג"
+
+#: includes/admin/tools/export/pdf-reports.php:332
+msgid "June"
+msgstr "יוני"
+
+#: includes/admin/tools/export/pdf-reports.php:331
+msgid "May"
+msgstr "מאי"
+
+#: includes/admin/tools/export/pdf-reports.php:327
+msgid "Jan"
+msgstr "ינו"
+
+#: includes/admin/tools/export/pdf-reports.php:328
+msgid "Feb"
+msgstr "פבר"
+
+#: includes/admin/tools/export/pdf-reports.php:329
+msgid "Mar"
+msgstr "מרץ"
+
+#: includes/admin/tools/export/pdf-reports.php:330
+msgid "Apr"
+msgstr "אפר"
+
+#: includes/admin/import-functions.php:540
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:64
+#: includes/admin/tools/export/pdf-reports.php:100
+#: blocks/donation-form-grid/data/options.js:14
+msgid "Form Name"
+msgstr "שם הטופס"
+
+#: includes/admin/forms/class-metabox-form-data.php:463
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:66
+#: includes/admin/tools/export/pdf-reports.php:113
+#: blocks/donation-form-grid/data/options.js:16
+msgid "Number of Donations"
+msgstr "כמות התרומות"
+
+#: includes/admin/tools/export/pdf-reports.php:201
+msgid "Graph View"
+msgstr "תצוגת תרשים"
+
+#: includes/admin/tools/export/pdf-reports.php:91
+msgid "Date Range: "
+msgstr "טווח תאריך"
+
+#: includes/admin/tools/export/pdf-reports.php:95
+msgid "Table View"
+msgstr "תצוגת טבלה"
+
+#: includes/admin/tools/export/pdf-reports.php:31
+msgid "You do not have permission to generate PDF sales reports."
+msgstr "אין לך הרשאות ליצור דוחות מכירה."
+
+#: includes/admin/tools/export/pdf-reports.php:74
+#: includes/admin/tools/export/pdf-reports.php:86
+msgid "Donation report for the current year for all forms"
+msgstr "דוח תרומות עבור השנה הנוכחית לכל הטפסים"
+
+#: includes/admin/reports/graphing.php:571
+msgid "To"
+msgstr "עד"
+
+#: includes/deprecated/deprecated-functions.php:69
+msgid "Payment Errors"
+msgstr "שגיאות תשלום"
+
+#: includes/deprecated/deprecated-functions.php:70
+msgid "API Requests"
+msgstr "בקשות API"
+
+#: includes/admin/reports/graphing.php:840
+msgid "Clicking this will clear the reports cache."
+msgstr "לחיצה כאן את המטמון של הדוח."
+
+#: includes/admin/reports/graphing.php:555
+msgid "From"
+msgstr "מ"
+
+#: includes/admin/reports/graphing.php:590
+msgid "Filter"
+msgstr "סנן"
+
+#: includes/admin/reports/graphing.php:516
+msgid "Custom"
+msgstr "מותאם"
+
+#: includes/admin/reports/graphing.php:512 includes/class-give-stats.php:102
+msgid "This Quarter"
+msgstr "הרבעון"
+
+#: includes/admin/reports/graphing.php:514 includes/class-give-stats.php:104
+msgid "This Year"
+msgstr "השנה"
+
+#: includes/admin/reports/graphing.php:511 includes/class-give-stats.php:101
+msgid "Last Month"
+msgstr "חודש שעבר"
+
+#: includes/admin/reports/graphing.php:509 includes/class-give-stats.php:99
+msgid "Last Week"
+msgstr "שבוע שעבר"
+
+#: includes/admin/reports/graphing.php:515 includes/class-give-stats.php:105
+msgid "Last Year"
+msgstr "שנה שעברה"
+
+#: includes/admin/reports/graphing.php:513 includes/class-give-stats.php:103
+msgid "Last Quarter"
+msgstr "רבעון שעבר"
+
+#: includes/admin/reports/graphing.php:506 includes/class-give-stats.php:96
+msgid "Today"
+msgstr "היום"
+
+#: includes/admin/reports/graphing.php:507 includes/class-give-stats.php:97
+msgid "Yesterday"
+msgstr "אתמול"
+
+#: includes/admin/reports/graphing.php:220
+msgid "Estimated monthly donations:"
+msgstr "תרומות חודשיות משוערות:"
+
+#: includes/admin/reports/graphing.php:471
+msgid "Average monthly donations:"
+msgstr "תרומות חודשיות ממוצעות:"
+
+#: includes/admin/reports/graphing.php:211
+#: includes/admin/reports/graphing.php:463
+msgid "Total donations for period:"
+msgstr "סך תרומות חודשיות לתקופה:"
+
+#: includes/admin/import-functions.php:485
+#: includes/admin/reports/class-gateways-reports-table.php:137
+#: includes/admin/settings/class-settings-gateways.php:319
+msgid "Gateway"
+msgstr "שיטת תשלום"
+
+#: includes/admin/reports/class-form-reports-table.php:127
+msgid "Detailed Report"
+msgstr "דוח מפורט"
+
+#: includes/gateways/functions.php:282 includes/gateways/manual.php:104
+#: includes/gateways/paypal/paypal-standard.php:83
+#: src/PaymentGateways/PayPalCommerce/DonationProcessor.php:73
+msgid "Payment Error"
+msgstr "שגיאת תשלום"
+
+#: includes/admin/reports/class-form-reports-table.php:125
+msgid "Monthly Average Donations"
+msgstr "תרומה חודשית ממוצעת"
+
+#: includes/admin/tools/export/class-batch-export.php:157
+#: includes/admin/tools/export/class-core-settings-export.php:80
+#: includes/admin/tools/export/class-export.php:186
+msgid "You do not have permission to export data."
+msgstr "אין לך הרשאות לייצא נתונים."
+
+#: includes/admin/reports/class-form-reports-table.php:106
+msgid "View Detailed Report"
+msgstr "הצג דוח מפורט"
+
+#: includes/admin/import-functions.php:464
+#: includes/admin/tools/export/class-batch-export-donors.php:192
+#: includes/admin/tools/export/give-export-donations-exporter.php:200
+#: includes/forms/template.php:1151 assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/tabs/edit-profile/address-fields/index.js:59
+msgid "Country"
+msgstr "מדינה"
+
+#: includes/admin/import-functions.php:466
+msgid "Zip Code"
+msgstr "מיקוד"
+
+#: includes/admin/import-functions.php:482 src/Receipt/DonationReceipt.php:176
+#: templates/history-donations.php:73 templates/shortcode-receipt.php:100
+#: assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/components/subscription-manager/index.js:96
+msgid "Payment Method"
+msgstr "שיטת תשלום"
+
+#: includes/admin/import-functions.php:411
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:56
+#: includes/admin/tools/import/class-give-import-donations.php:501
+#: src/Receipt/DonationReceipt.php:213 blocks/donor-wall/data/options.js:28
+msgid "Donation Amount"
+msgstr "סכום התרומה"
+
+#: includes/admin/donors/donors.php:384 includes/admin/import-functions.php:443
+#: includes/admin/tools/export/give-export-donations-exporter.php:186
+#: includes/forms/template.php:825 includes/forms/template.php:838
+#: templates/shortcode-profile-editor.php:60
+#: assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/tabs/edit-profile/content.js:159
+msgid "Last Name"
+msgstr "שם משפחה"
+
+#: includes/admin/import-functions.php:459
+#: includes/admin/settings/class-settings-general.php:247
+#: includes/admin/tools/export/class-batch-export-donors.php:190
+#: includes/admin/tools/export/give-export-donations-exporter.php:198
+#: includes/ajax-functions.php:207 includes/country-functions.php:502
+#: includes/country-functions.php:552 includes/country-functions.php:810
+#: includes/forms/template.php:1242 assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/tabs/edit-profile/address-fields/index.js:82
+msgid "State"
+msgstr "מצב"
+
+#: templates/shortcode-receipt.php:69
+msgid "Total Donation"
+msgstr "סך תרומה"
+
+#: includes/admin/donors/donors.php:375 includes/admin/import-functions.php:437
+#: includes/admin/tools/export/give-export-donations-exporter.php:183
+#: includes/admin/tools/import/class-give-import-donations.php:491
+#: includes/forms/template.php:805 includes/forms/template.php:816
+#: templates/shortcode-profile-editor.php:52
+#: assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/tabs/edit-profile/content.js:153
+msgid "First Name"
+msgstr "שם"
+
+#: includes/admin/reports/class-donor-reports-table.php:139
+msgid "Donors Report"
+msgstr "דוח תורמים"
+
+#: includes/admin/settings/class-settings-general.php:68
+msgid "24 Hours"
+msgstr "24 שעות"
+
+#: includes/admin/settings/class-settings-general.php:69
+msgid "48 Hours"
+msgstr "48 שעות"
+
+#: includes/admin/settings/class-settings-general.php:70
+msgid "72 Hours"
+msgstr "72 שעות"
+
+#: includes/admin/settings/class-settings-general.php:71
+msgid "1 Week"
+msgstr "שבוע אחד"
+
+#: includes/admin/settings/class-settings-general.php:64
+msgid "Session Lifetime"
+msgstr "אורך חיים של סשן"
+
+#: includes/admin/give-metabox-functions.php:1104
+msgid "Global Default"
+msgstr "ברירת מחדל גלובלית"
+
+#: includes/admin/emails/class-email-notifications.php:157
+#: includes/admin/settings/class-settings-email.php:82
+msgid "From Email"
+msgstr "מאת אימייל"
+
+#: includes/emails/functions.php:108
+msgid "Dear"
+msgstr "יקר"
+
+#: includes/admin/settings/class-settings-advanced.php:301
+msgid "Advanced Options"
+msgstr "אפשרויות מתקדמות"
+
+#: includes/admin/emails/class-donation-receipt-email.php:42
+#: includes/admin/emails/class-donation-receipt-email.php:47
+#: includes/admin/emails/class-donation-receipt-email.php:49
+#: includes/admin/shortcodes/shortcode-give-receipt.php:27
+#: includes/admin/shortcodes/shortcode-give-receipt.php:28
+#: src/Onboarding/DefaultFormFactory.php:85
+#: src/Onboarding/DefaultFormFactory.php:86
+#: src/Views/Form/defaultFormReceiptTemplate.php:11
+#: src/Views/Form/Templates/Sequoia/views/receipt.php:107
+#: templates/shortcode-receipt.php:251 assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/tabs/donation-history/content.js:60
+msgid "Donation Receipt"
+msgstr "קבלה"
+
+#: includes/admin/emails/class-new-donation-email.php:49
+msgid "New Donation - #{payment_id}"
+msgstr "תרומה חדשה - #{payment_id}"
+
+#: includes/admin/emails/class-email-notifications.php:150
+#: includes/admin/settings/class-settings-email.php:75
+msgid "From Name"
+msgstr "מאת שם"
+
+#: includes/admin/emails/class-email-notifications.php:145
+#: includes/admin/settings/class-settings-email.php:70
+msgid "Upload or choose a logo to be displayed at the top of the donation receipt emails. Displayed on HTML emails only."
+msgstr "העלה או לבחור לוגו שיוצג בחלק העליון של האימייל עם הקבלה. מוצג רק באימייל מסוג HTML."
+
+#: includes/admin/settings/class-settings-email.php:203
+msgid "Email Settings"
+msgstr "הגדרות אימייל"
+
+#: includes/admin/emails/class-email-notifications.php:136
+#: includes/admin/settings/class-settings-email.php:62
+msgid "Email Template"
+msgstr "תבנית אימייל"
+
+#: includes/admin/emails/class-email-notifications.php:144
+#: includes/admin/settings/class-settings-email.php:69
+msgid "Logo"
+msgstr "לוגו"
+
+#: includes/admin/settings/class-settings-display.php:349
+msgid "Post Types"
+msgstr "סוגי תוכן"
+
+#: includes/admin/settings/class-settings-display.php:350
+msgid "Taxonomies"
+msgstr "טקסונומיות"
+
+#: includes/admin/settings/class-settings-display.php:178
+msgid "The excerpt is an optional summary or description of a donation form; in short, a summary as to why the user should give."
+msgstr "התיאור הוא שדה אופציונאלי המסכם את מטרת טופס התרומה; בקיצור, סיכום מתאר בקצרה למה המשתמש צריך לתרום."
+
+#: src/PaymentGateways/PayPalStandard/PayPalStandard.php:40
+msgid "PayPal Email"
+msgstr "אימייל פייפל"
+
+#: includes/admin/payments/class-payments-table.php:412
+#: src/API/Endpoints/Reports/TopDonors.php:43
+#: src/PaymentGateways/PayPalStandard/PayPalStandard.php:57
+#: templates/shortcode-receipt.php:82 assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/components/donation-table/index.js:52
+msgid "Donation"
+msgid_plural "Donations"
+msgstr[0] "תרומה"
+msgstr[1] ""
+
+#: src/PaymentGateways/PayPalStandard/PayPalStandard.php:46
+msgid "PayPal Page Style"
+msgstr "סגנון עמוד פייפאל"
+
+#: src/PaymentGateways/PayPalStandard/PayPalStandard.php:19
+msgid "PayPal Standard"
+msgstr "פייפאל רגיל"
+
+#: src/PaymentGateways/PayPalStandard/PayPalStandard.php:58
+msgid "Standard Transaction"
+msgstr "עסקה רגילה"
+
+#: includes/admin/settings/class-settings-gateways.php:122
+msgid "Enabled Gateways"
+msgstr "שיטות תשלום פעילות"
+
+#: includes/admin/forms/class-metabox-form-data.php:1351
+#: includes/admin/settings/class-settings-gateways.php:204
+#: includes/gateways/offline-donations.php:276
+#: includes/gateways/offline-donations.php:317
+msgid "Offline Donations"
+msgstr "תרומות לא מקוונות"
+
+#: src/PaymentGateways/PayPalStandard/PayPalStandard.php:52
+msgid "PayPal Transaction Type"
+msgstr "סוג עסקת פייפאל"
+
+#: includes/admin/settings/class-settings-gateways.php:65
+#: includes/gateways/stripe/includes/admin/class-give-stripe-admin-settings.php:209
+#: src/PaymentGateways/PayPalCommerce/PayPalCommerce.php:93
+msgid "Collect Billing Details"
+msgstr "איסוף פרטי חיוב"
+
+#: includes/admin/emails/class-offline-donation-instruction-email.php:44
+#: includes/admin/emails/class-offline-donation-instruction-email.php:54
+#: includes/admin/settings/class-settings-gateways.php:76
+#: includes/gateways/offline-donations.php:160
+#: includes/gateways/offline-donations.php:175
+msgid "Offline Donation Instructions"
+msgstr "הוראות תרומה לא מקוונת"
+
+#: includes/admin/emails/class-offline-donation-instruction-email.php:52
+msgid "{donation} - Offline Donation Instructions"
+msgstr "{donation} - הוראות תרומה לא מקוונת"
+
+#: includes/admin/settings/class-settings-gateways.php:149
+msgid "The gateway that will be selected by default."
+msgstr "שיטת התשלום שתשמש כברירת מחדל."
+
+#: includes/admin/settings/class-settings-general.php:166
+#: includes/admin/tools/views/html-admin-page-system-info.php:619
+msgid "Currency Position"
+msgstr "מיקום מטבע"
+
+#: includes/admin/settings/class-settings-general.php:191
+#: includes/admin/tools/views/html-admin-page-system-info.php:624
+msgid "Decimal Separator"
+msgstr "מפריד עשרוני"
+
+#: includes/admin/import-functions.php:491
+#: includes/admin/settings/class-settings-gateways.php:111
+#: includes/admin/tools/views/html-admin-page-system-info.php:609
+msgid "Test Mode"
+msgstr "מצב ניסיון"
+
+#: includes/admin/settings/class-settings-general.php:183
+#: includes/admin/tools/views/html-admin-page-system-info.php:629
+msgid "Thousands Separator"
+msgstr "מפריד אלפים"
+
+#: includes/admin/settings/class-settings-general.php:192
+msgid "The symbol (usually , or .) to separate decimal points."
+msgstr "סימון מפריד עשרוני (בדרך כלל , או . )."
+
+#: includes/admin/settings/class-settings-general.php:266
+#: includes/admin/tools/views/html-admin-page-system-info.php:634
+msgid "Success Page"
+msgstr "עמוד תודה רבה"
+
+#: includes/admin/settings/class-settings-general.php:319
+msgid "Base Country"
+msgstr "מדינת בסיס"
+
+#: includes/admin/settings/class-settings-general.php:148
+#: includes/admin/settings/class-settings-general.php:224
+msgid "Currency Settings"
+msgstr "הגדרות מטבע"
+
+#: includes/admin/settings/class-settings-general.php:154
+#: includes/admin/settings/class-settings-general.php:470
+msgid "Currency"
+msgstr "מטבע"
+
+#: includes/admin/settings/class-settings-general.php:285
+msgid "The page donors are sent to if their donation is cancelled or fails."
+msgstr "הדף אליו התורמים נשלחים אם התרומה נכשלת או מתבטלת."
+
+#. translators: %s: [give_receipt]
+#: includes/admin/settings/class-settings-general.php:268
+msgid "The page donors are sent to after completing their donations. The %s shortcode should be on this page."
+msgstr "הדף אליו התורמים נשלחים לאחר סיום התרומה, ובו נמצא השורטקוד %s."
+
+#: includes/admin/admin-pages.php:406
+#: includes/admin/settings/class-settings-general.php:301
+#: includes/admin/tools/views/html-admin-page-system-info.php:644
+msgid "Donation History Page"
+msgstr "עמוד היסטוריית תרומות"
+
+#: includes/admin/settings/class-settings-general.php:260
+#: includes/gateways/stripe/includes/admin/class-give-stripe-admin-settings.php:111
+msgid "General Settings"
+msgstr "הגדות כלליות"
+
+#: includes/admin/tools/class-settings-api.php:37
+#: includes/admin/tools/class-settings-api.php:60
+msgid "API"
+msgstr "API"
+
+#: includes/admin/tools/class-settings-system-info.php:37
+msgid "System Info"
+msgstr "פרטי מערכת"
+
+#: includes/admin/settings/class-settings-license.php:31
+msgid "Licenses"
+msgstr "רשיונות"
+
+#: includes/admin/settings/class-settings-email.php:30
+msgid "Emails"
+msgstr "אימיילים"
+
+#: includes/admin/settings/class-settings-advanced.php:32
+msgid "Advanced"
+msgstr "מתקדם"
+
+#: includes/admin/settings/class-settings-gateways.php:33
+msgid "Payment Gateways"
+msgstr "שיטת תשלום"
+
+#: includes/admin/shortcodes/shortcode-give-form.php:100
+#: src/Form/Template/Options.php:99
+msgid "Display Options"
+msgstr "תצוגה"
+
+#: includes/admin/payments/view-payment-details.php:897
+msgid "Add Note"
+msgstr "הוספת הערה"
+
+#: includes/admin/settings/class-settings-general.php:30
+#: includes/admin/settings/class-settings-general.php:469
+msgid "General"
+msgstr "כללי"
+
+#: includes/admin/donors/donors.php:643
+#: includes/admin/payments/view-payment-details.php:764
+msgid "Select a country"
+msgstr "בחר מדינה"
+
+#: includes/admin/donors/donors.php:716
+#: includes/admin/payments/view-payment-details.php:812
+msgid "Select a state"
+msgstr "בחר מחוז"
+
+#: includes/admin/admin-actions.php:1163
+#: includes/admin/payments/view-payment-details.php:734
+#: src/Receipt/DonationReceipt.php:149
+msgid "Billing Address"
+msgstr "כתובת חיוב"
+
+#: includes/admin/payments/view-payment-details.php:690
+msgid "Click \"Save Donation\" to create new donor."
+msgstr "ליחצו על \"שמור תרומה\" כדי ליצור תורם חדש."
+
+#: includes/admin/payments/view-payment-details.php:574
+msgid "Donor Details"
+msgstr "פרטי תורם"
+
+#: includes/admin/payments/view-payment-details.php:318
+msgid "Key:"
+msgstr "מפתח:"
+
+#: includes/admin/payments/view-payment-details.php:325
+msgid "IP:"
+msgstr "IP:"
+
+#: includes/admin/payments/view-payment-details.php:338
+msgid "Transaction ID:"
+msgstr "מזהה עסקה:"
+
+#: includes/admin/payments/view-payment-details.php:403
+msgid "Donation Information"
+msgstr "פרטי תרומה"
+
+#: includes/admin/payments/view-payment-details.php:310
+msgid "Gateway:"
+msgstr "שיטת תשלום:"
+
+#: includes/admin/payments/class-payments-table.php:620
+#: includes/admin/payments/view-payment-details.php:264
+msgid "Resend Receipt"
+msgstr "שלוח שוב קבלה"
+
+#: includes/admin/import-functions.php:550
+#: includes/admin/tools/export/give-export-donations-exporter.php:224
+#: blocks/donor-wall/edit/inspector.js:40
+msgid "Form ID"
+msgstr "מספר טופס"
+
+#: includes/admin/payments/view-payment-details.php:185
+msgid "Date:"
+msgstr "תאריך:"
+
+#: includes/admin/payments/view-payment-details.php:192
+msgid "Time:"
+msgstr "שעה:"
+
+#: includes/admin/payments/view-payment-details.php:213
+#: includes/admin/payments/view-payment-details.php:474
+msgid "Total Donation:"
+msgstr "סך התרומה:"
+
+#: includes/admin/payments/class-payments-table.php:774
+msgid "Set To Revoked"
+msgstr "להגדיר כבוטל"
+
+#: includes/admin/payments/class-payments-table.php:775
+msgid "Set To Failed"
+msgstr "להגדיר כנכשל"
+
+#: includes/admin/payments/class-payments-table.php:777
+msgid "Set To Abandoned"
+msgstr "להגדיר כנטוש"
+
+#: includes/admin/payments/view-payment-details.php:172
+msgid "Status:"
+msgstr "סטטוס:"
+
+#: includes/admin/payments/class-payments-table.php:779
+msgid "Resend Email Receipts"
+msgstr "שלח שוב אימייל קבלה"
+
+#: includes/admin/payments/view-payment-details.php:34
+msgid "Donation ID not supplied. Please try again."
+msgstr "חסר מספר תרומה. נא לנסות שנית."
+
+#: includes/admin/payments/view-payment-details.php:44
+msgid "The specified ID does not belong to a donation. Please try again."
+msgstr "המספר אינו משוייך לתרומה. נא לנסות שנית."
+
+#: includes/admin/payments/class-payments-table.php:571
+msgid "(unknown)"
+msgstr "(לא ידוע)"
+
+#: includes/admin/payments/class-payments-table.php:770
+msgid "Set To Completed"
+msgstr "להגדיר כהושלם"
+
+#: includes/admin/payments/class-payments-table.php:771
+msgid "Set To Pending"
+msgstr "להגדיר כהמתנה"
+
+#: includes/admin/payments/class-payments-table.php:773
+msgid "Set To Refunded"
+msgstr "להגדיר כהוחזר"
+
+#: includes/admin/donors/class-donor-table.php:339
+#: includes/admin/donors/class-donor-table.php:387
+#: includes/admin/donors/class-donor-table.php:608
+#: includes/admin/payments/class-payments-table.php:639
+#: includes/admin/payments/class-payments-table.php:769
+#: includes/payments/functions.php:1452
+#: assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/tabs/edit-profile/address-controls/index.js:51
+#: src/DonorDashboards/resources/js/app/tabs/edit-profile/email-controls/index.js:50
+msgid "Delete"
+msgstr "מחק"
+
+#: includes/admin/payments/class-payments-table.php:420
+#: templates/history-donations.php:74 src/Log/Admin/Logs/index.js:346
+#: src/MigrationLog/Admin/Migrations/index.js:265
+msgid "Details"
+msgstr "פרטים"
+
+#: includes/admin/payments/class-payments-table.php:341
+#: includes/payments/functions.php:544 includes/post-types.php:387
+#: src/API/Endpoints/Reports/PaymentStatuses.php:95
+msgid "Abandoned"
+msgstr "ננטשו"
+
+#: includes/admin/payments/class-payments-table.php:317
+#: includes/payments/functions.php:539
+#: src/API/Endpoints/Reports/PaymentStatuses.php:85
+#: src/MigrationLog/MigrationLogStatus.php:34
+msgid "Pending"
+msgstr "ממתין"
+
+#: includes/admin/payments/class-payments-table.php:329
+#: includes/payments/functions.php:547 includes/post-types.php:365
+msgid "Revoked"
+msgstr "בוטל"
+
+#: includes/admin/payments/class-payments-table.php:333
+#: includes/class-give-cli-commands.php:1258
+#: includes/payments/functions.php:542 includes/post-types.php:354
+#: src/API/Endpoints/Reports/PaymentStatuses.php:105
+#: src/MigrationLog/MigrationLogStatus.php:33
+msgid "Failed"
+msgstr "נכשל"
+
+#: includes/admin/payments/class-payments-table.php:325
+#: includes/payments/functions.php:541 includes/post-types.php:343
+#: src/API/Endpoints/Reports/PaymentStatuses.php:90
+msgid "Refunded"
+msgstr "הוחזר"
+
+#: includes/admin/payments/class-payments-table.php:313
+#: src/API/Endpoints/Reports/PaymentStatuses.php:80
+msgid "Completed"
+msgstr "הושלם"
+
+#: includes/admin/class-give-html-elements.php:488
+#: includes/admin/payments/class-payments-table.php:309
+msgid "All"
+msgstr "הכל"
+
+#: includes/admin/donors/class-donor-table.php:91
+#: includes/admin/forms/dashboard-columns.php:497
+#: includes/admin/payments/class-payments-table.php:164
+msgid "Search"
+msgstr "חיפוש"
+
+#: includes/admin/donors/class-donor-table.php:168
+#: includes/admin/forms/dashboard-columns.php:575
+#: includes/admin/payments/class-payments-table.php:234
+msgid "Clear Filters"
+msgstr "נקה מסננים"
+
+#: includes/admin/donors/class-donor-table.php:162
+#: includes/admin/forms/dashboard-columns.php:569
+#: includes/admin/payments/class-payments-table.php:228
+msgid "Apply"
+msgstr "ליישם"
+
+#: includes/admin/payments/actions.php:31
+#: includes/admin/payments/actions.php:382
+#: includes/admin/payments/actions.php:402
+#: includes/admin/payments/actions.php:460
+#: includes/admin/payments/actions.php:482
+msgid "You do not have permission to edit payments."
+msgstr "אין לך הרשאות לערוך תרומות."
+
+#: includes/admin/donors/class-donor-table.php:115
+#: includes/admin/donors/class-donor-table.php:123
+#: includes/admin/forms/dashboard-columns.php:522
+#: includes/admin/forms/dashboard-columns.php:530
+#: includes/admin/payments/class-payments-table.php:180
+#: includes/admin/payments/class-payments-table.php:188
+#: includes/admin/tools/export/class-give-export-donations.php:252
+#: includes/admin/tools/views/html-admin-page-exports.php:119
+msgid "End Date"
+msgstr "תאריך סיום"
+
+#: includes/admin/donors/class-donor-table.php:103
+#: includes/admin/donors/class-donor-table.php:111
+#: includes/admin/forms/dashboard-columns.php:510
+#: includes/admin/forms/dashboard-columns.php:518
+#: includes/admin/payments/class-payments-table.php:168
+#: includes/admin/payments/class-payments-table.php:176
+#: includes/admin/tools/export/class-give-export-donations.php:243
+#: includes/admin/tools/views/html-admin-page-exports.php:109
+msgid "Start Date"
+msgstr "תאריך התחלה"
+
+#: includes/admin/forms/class-metabox-form-data.php:555
+#: includes/admin/forms/class-metabox-form-data.php:592
+#: includes/admin/settings/class-settings-display.php:280
+#: includes/admin/settings/class-settings-display.php:351
+msgid "Terms and Conditions"
+msgstr "תנאי השימוש"
+
+#: includes/admin/forms/class-metabox-form-data.php:575
+#: includes/admin/settings/class-settings-display.php:295
+#: includes/forms/template.php:1744 includes/forms/template.php:1749
+#: includes/install.php:369
+msgid "Agree to Terms?"
+msgstr "מסכים לתנאי השימוש?"
+
+#: includes/admin/forms/class-metabox-form-data.php:582
+#: includes/admin/settings/class-settings-display.php:301
+msgid "Agreement Text"
+msgstr "טקסט תנאי שימוש"
+
+#: includes/admin/settings/class-settings-display.php:291
+msgid "Agree to Terms Label"
+msgstr "תווית תנאי שימוש"
+
+#: includes/admin/forms/class-metabox-form-data.php:583
+msgid "This is the actual text which the user will have to agree to in order to make a donation."
+msgstr "זה הטקסט אשר המשתמש יצטרך לאשר כדי לבצע תרומה."
+
+#: includes/admin/forms/class-metabox-form-data.php:572
+msgid "The label shown next to the agree to terms check box. Add your own to customize or leave blank to use the default text placeholder."
+msgstr "התווית שמוצגת ליד תיבת הסימון של תנאי השימוש. ניתן להתאים או להשאיר ריק כדי להשתמש בברירת המחדל."
+
+#: includes/admin/emails/class-email-setting-field.php:166
+#: includes/admin/forms/class-metabox-form-data.php:172
+#: includes/admin/forms/class-metabox-form-data.php:377
+#: includes/admin/forms/class-metabox-form-data.php:389
+#: includes/admin/forms/class-metabox-form-data.php:400
+#: includes/admin/forms/class-metabox-form-data.php:449
+#: includes/admin/forms/class-metabox-form-data.php:516
+#: includes/admin/settings/class-settings-advanced.php:77
+#: includes/admin/settings/class-settings-advanced.php:109
+#: includes/admin/settings/class-settings-advanced.php:131
+#: includes/admin/settings/class-settings-advanced.php:158
+#: includes/admin/settings/class-settings-advanced.php:180
+#: includes/admin/settings/class-settings-advanced.php:218
+#: includes/admin/settings/class-settings-advanced.php:266
+#: includes/admin/settings/class-settings-display.php:108
+#: includes/admin/settings/class-settings-display.php:119
+#: includes/admin/settings/class-settings-display.php:150
+#: includes/admin/settings/class-settings-display.php:172
+#: includes/admin/settings/class-settings-display.php:183
+#: includes/admin/settings/class-settings-display.php:194
+#: includes/admin/settings/class-settings-display.php:213
+#: includes/admin/settings/class-settings-display.php:244
+#: includes/admin/settings/class-settings-display.php:255
+#: includes/admin/settings/class-settings-display.php:286
+#: includes/admin/settings/class-settings-gateways.php:71
+#: includes/admin/settings/class-settings-gateways.php:117
+#: includes/admin/settings/class-settings-gateways.php:322
+#: includes/admin/settings/class-settings-general.php:93
+#: includes/admin/settings/class-settings-general.php:104
+#: includes/admin/settings/class-settings-general.php:379
+#: includes/admin/tools/import/class-give-import-donations.php:946
+#: includes/admin/tools/import/class-give-import-donations.php:957
+#: includes/admin/tools/import/class-give-import-donations.php:968
+#: includes/admin/tools/views/html-admin-page-system-info.php:486
+#: includes/admin/tools/views/html-admin-page-system-info.php:574
+#: includes/admin/tools/views/html-admin-page-system-info.php:611
+#: includes/admin/tools/views/html-admin-page-system-info.php:721
+#: includes/forms/widget.php:246 includes/gateways/offline-donations.php:298
+#: includes/gateways/stripe/includes/admin/class-give-stripe-admin-settings.php:390
+#: includes/gateways/stripe/includes/admin/class-give-stripe-admin-settings.php:418
+#: includes/gateways/stripe/includes/admin/class-give-stripe-admin-settings.php:461
+#: includes/gateways/stripe/includes/admin/class-give-stripe-admin-settings.php:489
+#: src/DonorDashboards/Admin/Settings.php:97 src/Form/Template/Options.php:155
+#: src/Form/Template/Options.php:178
+#: src/PaymentGateways/PayPalCommerce/PayPalCommerce.php:102
+#: src/PaymentGateways/PayPalStandard/PayPalStandard.php:69
+#: src/Tracking/AdminSettings.php:41
+#: src/Views/Form/Templates/Sequoia/optionConfig.php:24
+#: src/Views/Form/Templates/Sequoia/optionConfig.php:115
+#: src/Views/Form/Templates/Sequoia/optionConfig.php:193
+msgid "Enabled"
+msgstr "פעיל"
+
+#: includes/admin/emails/class-email-setting-field.php:167
+#: includes/admin/emails/class-email-setting-field.php:177
+#: includes/admin/forms/class-metabox-form-data.php:173
+#: includes/admin/forms/class-metabox-form-data.php:328
+#: includes/admin/forms/class-metabox-form-data.php:353
+#: includes/admin/forms/class-metabox-form-data.php:378
+#: includes/admin/forms/class-metabox-form-data.php:390
+#: includes/admin/forms/class-metabox-form-data.php:401
+#: includes/admin/forms/class-metabox-form-data.php:450
+#: includes/admin/forms/class-metabox-form-data.php:517
+#: includes/admin/settings/class-settings-advanced.php:78
+#: includes/admin/settings/class-settings-advanced.php:110
+#: includes/admin/settings/class-settings-advanced.php:132
+#: includes/admin/settings/class-settings-advanced.php:159
+#: includes/admin/settings/class-settings-advanced.php:181
+#: includes/admin/settings/class-settings-advanced.php:219
+#: includes/admin/settings/class-settings-advanced.php:267
+#: includes/admin/settings/class-settings-display.php:62
+#: includes/admin/settings/class-settings-display.php:85
+#: includes/admin/settings/class-settings-display.php:109
+#: includes/admin/settings/class-settings-display.php:120
+#: includes/admin/settings/class-settings-display.php:151
+#: includes/admin/settings/class-settings-display.php:173
+#: includes/admin/settings/class-settings-display.php:184
+#: includes/admin/settings/class-settings-display.php:195
+#: includes/admin/settings/class-settings-display.php:214
+#: includes/admin/settings/class-settings-display.php:245
+#: includes/admin/settings/class-settings-display.php:256
+#: includes/admin/settings/class-settings-display.php:287
+#: includes/admin/settings/class-settings-gateways.php:72
+#: includes/admin/settings/class-settings-gateways.php:118
+#: includes/admin/settings/class-settings-general.php:94
+#: includes/admin/settings/class-settings-general.php:105
+#: includes/admin/settings/class-settings-general.php:380
+#: includes/admin/tools/import/class-give-import-donations.php:947
+#: includes/admin/tools/import/class-give-import-donations.php:958
+#: includes/admin/tools/import/class-give-import-donations.php:969
+#: includes/admin/tools/views/html-admin-page-system-info.php:486
+#: includes/admin/tools/views/html-admin-page-system-info.php:574
+#: includes/admin/tools/views/html-admin-page-system-info.php:611
+#: includes/admin/tools/views/html-admin-page-system-info.php:721
+#: includes/forms/widget.php:247 includes/gateways/offline-donations.php:299
+#: includes/gateways/stripe/includes/admin/class-give-stripe-admin-settings.php:391
+#: includes/gateways/stripe/includes/admin/class-give-stripe-admin-settings.php:419
+#: includes/gateways/stripe/includes/admin/class-give-stripe-admin-settings.php:462
+#: includes/gateways/stripe/includes/admin/class-give-stripe-admin-settings.php:490
+#: src/DonorDashboards/Admin/Settings.php:98 src/Form/Template/Options.php:156
+#: src/Form/Template/Options.php:179
+#: src/PaymentGateways/PayPalCommerce/PayPalCommerce.php:103
+#: src/PaymentGateways/PayPalStandard/PayPalStandard.php:70
+#: src/Tracking/AdminSettings.php:42
+#: src/Views/Form/Templates/Sequoia/optionConfig.php:25
+#: src/Views/Form/Templates/Sequoia/optionConfig.php:114
+#: src/Views/Form/Templates/Sequoia/optionConfig.php:194
+msgid "Disabled"
+msgstr "לא פעיל"
+
+#: src/Form/Template/Options.php:148
+msgid "Floating Labels"
+msgstr "תוויות צפות"
+
+#: includes/admin/class-give-html-elements.php:489
+#: includes/admin/forms/class-metabox-form-data.php:410
+#: includes/admin/payments/view-payment-details.php:461
+#: includes/forms/widget.php:262
+msgid "None"
+msgstr "ללא"
+
+#: includes/forms/template.php:690 includes/forms/template.php:720
+#: includes/forms/template.php:1923 includes/forms/widget.php:172
+#: includes/gateways/stripe/includes/give-stripe-scripts.php:54
+#: includes/gateways/stripe/includes/payment-methods/class-give-stripe-checkout.php:556
+#: includes/shortcodes.php:595 src/Form/Template.php:230
+#: src/Form/Template.php:240 src/Form/Template/Options.php:56
+#: src/Form/Template/Options.php:58 src/Form/Template/Options.php:131
+#: src/Onboarding/DefaultFormFactory.php:39
+#: src/Onboarding/DefaultFormFactory.php:43
+#: src/Onboarding/DefaultFormFactory.php:119
+#: src/Views/Form/Templates/Sequoia/Actions.php:221
+#: src/Views/Form/Templates/Sequoia/Actions.php:266
+#: src/Views/Form/Templates/Sequoia/optionConfig.php:68
+#: src/Views/Form/Templates/Sequoia/optionConfig.php:70
+#: src/Views/Form/Templates/Sequoia/Sequoia.php:67
+msgid "Donate Now"
+msgstr "תרום עכשיו"
+
+#: src/Form/Template/Options.php:53
+msgid "The button label for completing a donation."
+msgstr "תווית הכפתור להשלמת התרומה."
+
+#: includes/admin/forms/class-metabox-form-data.php:314
+#: includes/admin/settings/class-settings-gateways.php:148
+msgid "Default Gateway"
+msgstr "שיטת תשלום ברירת מחדל"
+
+#: src/Form/Template/Options.php:225
+msgid "This content will display on the single give form page."
+msgstr "תוכן זה יוצג בטופס איסוף תרומות."
+
+#: src/Form/Template/Options.php:224
+#: src/Views/Form/Templates/Sequoia/optionConfig.php:90
+#: blocks/donation-form/edit/inspector.js:95
+msgid "Content"
+msgstr "תוכן"
+
+#: includes/admin/shortcodes/shortcode-give-form.php:88
+#: src/Form/Template/Options.php:173
+msgid "Display Content"
+msgstr "הצג תוכן"
+
+#: includes/admin/forms/class-metabox-form-data.php:444
+msgid "Do you want to set a donation goal for this form?"
+msgstr "האם להציג בטופס זה יעד תרומות?"
+
+#: includes/admin/forms/class-metabox-form-data.php:194
+#: includes/admin/import-functions.php:557
+msgid "Custom Amount Text"
+msgstr "טקסט לסכום המותאם"
+
+#: includes/admin/payments/view-payment-details.php:499
+#: includes/admin/tools/views/html-admin-page-system-info.php:1000
+#: includes/class-give-cli-commands.php:138
+msgid "No"
+msgstr "לֹא"
+
+#: src/Form/Template/Options.php:73
+msgid "Display Style"
+msgstr "עיצוב תצוגה"
+
+#: src/Form/Template/Options.php:79
+msgid "Buttons"
+msgstr "כפתורים"
+
+#: src/Form/Template/Options.php:81
+msgid "Dropdown"
+msgstr "רשימה נפתחת"
+
+#: includes/admin/payments/view-payment-details.php:489
+#: includes/admin/tools/views/html-admin-page-system-info.php:1000
+#: includes/class-give-cli-commands.php:138
+msgid "Yes"
+msgstr "כן"
+
+#: src/Form/Template/Options.php:80
+msgid "Radios"
+msgstr "רדיוס"
+
+#: includes/admin/forms/class-metabox-form-data.php:166
+#: includes/admin/forms/class-metabox-form-data.php:198
+#: includes/admin/import-functions.php:182
+#: includes/admin/tools/export/give-export-donations-exporter.php:427
+#: includes/forms/template.php:527 includes/payments/functions.php:1542
+#: assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/components/subscription-manager/amount-control/index.js:123
+#: src/DonorDashboards/resources/js/app/components/subscription-manager/index.js:49
+msgid "Custom Amount"
+msgstr "סכום מותאם"
+
+#: includes/admin/forms/class-metabox-form-data.php:167
+msgid "Do you want the user to be able to input their own donation amount?"
+msgstr "האם לאפשר למשתמשים להקליד סכום התרומה משלהם?"
+
+#: src/Form/Template/Options.php:74
+msgid "Set how the donations levels will display on the form."
+msgstr "קבע כיצד הרמות יוצגו בטופס."
+
+#: includes/admin/forms/class-metabox-form-data.php:282
+#: includes/admin/give-metabox-functions.php:199
+#: includes/admin/settings/class-settings-gateways.php:321
+#: includes/admin/tools/views/html-admin-page-system-info.php:133
+#: includes/gateways/stripe/includes/admin/class-give-stripe-admin-settings.php:405
+#: includes/gateways/stripe/includes/admin/class-give-stripe-admin-settings.php:476
+msgid "Default"
+msgstr "ברירת מחדל"
+
+#: includes/admin/forms/class-metabox-form-data.php:210
+#: includes/admin/forms/class-metabox-form-data.php:277
+#: includes/admin/import-functions.php:553
+msgid "Donation Level"
+msgstr "רמת תרומה"
+
+#: includes/admin/forms/class-metabox-form-data.php:273
+msgid "Text"
+msgstr "טקסט"
+
+#: includes/admin/forms/dashboard-columns.php:93
+msgid "No Goal Set"
+msgstr "לא הוגדרו יעדים"
+
+#: includes/admin/forms/class-metabox-form-data.php:131
+#: includes/admin/forms/class-metabox-form-data.php:293
+msgid "Donation Options"
+msgstr "אפשרויות תרומה"
+
+#: includes/admin/forms/class-metabox-form-data.php:138
+msgid "Donation Option"
+msgstr "אפשרות תרומה"
+
+#: includes/admin/forms/dashboard-columns.php:273
+msgid "You do not have permission to view this data."
+msgstr "אין לך הרשאות לראות מידע זה."
+
+#: includes/admin/forms/class-metabox-form-data.php:146
+msgid "Multi-level Donation"
+msgstr "תרומה רב שכבתית"
+
+#: includes/admin/forms/class-metabox-form-data.php:147
+#: includes/admin/forms/class-metabox-form-data.php:152
+msgid "Set Donation"
+msgstr "הגדרת תרומה"
+
+#: includes/admin/forms/class-metabox-form-data.php:139
+msgid "Do you want this form to have one set donation price or multiple levels (for example, $10, $20, $50)?"
+msgstr "האם טופס זה מאפשר לתרום תרומה בודדת או מאפשר לבחור מתוך מספר רמות (למשל 10$, 20$, 50$)?"
+
+#: includes/admin/forms/class-metabox-form-data.php:209
+msgid "Add Level"
+msgstr "הוספת רמה"
+
+#: includes/admin/tools/export/pdf-reports.php:101
+msgid "Price"
+msgstr "מחיר"
+
+#: includes/admin/forms/dashboard-columns.php:39
+#: includes/admin/forms/dashboard-columns.php:536
+#: blocks/donation-form/edit/inspector.js:90
+#: src/MultiFormGoals/resources/js/blocks/progress-bar/edit/inspector.js:36
+msgid "Goal"
+msgstr "יעד"
+
+#: includes/admin/forms/dashboard-columns.php:42
+msgid "Shortcode"
+msgstr "שורטקוד"
+
+#: includes/admin/forms/dashboard-columns.php:37
+#: includes/admin/tools/export/pdf-reports.php:110 includes/post-types.php:205
+#: blocks/donation-form-grid/edit/inspector.js:62
+msgid "Tags"
+msgstr "תגיות"
+
+#: includes/admin/reports/graphing.php:510 includes/class-give-stats.php:100
+msgid "This Month"
+msgstr "החודש"
+
+#: includes/admin/reports/graphing.php:508 includes/class-give-stats.php:98
+msgid "This Week"
+msgstr "השבוע"
+
+#: includes/admin/forms/dashboard-columns.php:36
+#: includes/admin/tools/export/pdf-reports.php:105 includes/post-types.php:168
+#: blocks/donation-form-grid/edit/inspector.js:57
+msgid "Categories"
+msgstr "קטגוריות"
+
+#: includes/admin/donors/donors.php:1025
+#: includes/admin/import-functions.php:487
+msgid "Notes"
+msgstr "הערות"
+
+#: includes/admin/donors/donors.php:1121
+msgid "Are you sure you want to delete this donor?"
+msgstr "האם אתה בטוח שאתה רוצה למחוק תורם זה?"
+
+#: includes/admin/donors/class-donor-table.php:595
+#: includes/admin/donors/donors.php:1136
+msgid "Delete all associated donations and records?"
+msgstr "מחק את כל התרומות והרשומות הקשורות?"
+
+#: includes/admin/donors/donors.php:972
+msgid "No completed donations found."
+msgstr "לא נמצאו תרומות שהושלמו."
+
+#: includes/admin/donors/donors.php:784 includes/admin/donors/donors.php:876
+#: includes/admin/donors/donors.php:946
+#: src/MigrationLog/Admin/Migrations/index.js:257
+msgid "Actions"
+msgstr "פעולות"
+
+#: includes/admin/donors/donors.php:875 includes/admin/import-functions.php:479
+#: includes/admin/payments/class-payments-table.php:414
+#: templates/history-donations.php:72 assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/components/donation-row/index.js:27
+#: src/DonorDashboards/resources/js/app/components/donation-table/index.js:61
+#: src/DonorDashboards/resources/js/app/components/subscription-row/index.js:25
+#: src/DonorDashboards/resources/js/app/components/subscription-table/index.js:54
+#: src/Log/Admin/Logs/index.js:318
+#: src/MigrationLog/Admin/Migrations/index.js:210
+msgid "Status"
+msgstr "סטטוס"
+
+#: includes/admin/donors/donors.php:873
+#: includes/admin/forms/class-metabox-form-data.php:263
+#: includes/admin/forms/dashboard-columns.php:38
+#: includes/admin/import-functions.php:412
+#: includes/admin/payments/class-payments-table.php:416
+#: templates/history-donations.php:71 assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/components/annual-receipt-table/index.js:53
+#: src/DonorDashboards/resources/js/app/components/donation-row/index.js:14
+#: src/DonorDashboards/resources/js/app/components/subscription-row/index.js:20
+msgid "Amount"
+msgstr "סכום"
+
+#: includes/admin/donors/donors.php:874
+#: includes/admin/forms/dashboard-columns.php:43
+#: includes/admin/import-functions.php:425
+#: includes/admin/payments/class-payments-table.php:415
+#: includes/admin/payments/view-payment-details.php:186
+#: includes/admin/tools/export/class-export-earnings.php:61
+#: includes/admin/tools/export/class-export.php:82
+#: src/API/Endpoints/Reports/IncomeBreakdown.php:80
+#: templates/history-donations.php:69 templates/shortcode-receipt.php:63
+#: assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/components/donation-row/index.js:22
+#: src/DonorDashboards/resources/js/app/components/donation-table/index.js:58
+msgid "Date"
+msgstr "תאריך"
+
+#: includes/admin/donors/donors.php:859
+#: assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/tabs/donation-history/dashboard-content.js:46
+msgid "Recent Donations"
+msgstr "תרומות אחרונות"
+
+#: includes/admin/donors/donors.php:529
+msgid "%d Completed Donation"
+msgid_plural "%d Completed Donations"
+msgstr[0] "תרומה %d שהושלמה"
+msgstr[1] "%d תרומות שהושלמו"
+
+#: includes/admin/donors/donors.php:872
+#: includes/admin/forms/class-metabox-form-data.php:258
+#: includes/admin/tools/export/class-export.php:81
+#: templates/history-donations.php:68 assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/components/donation-row/index.js:41
+msgid "ID"
+msgstr "מזהה"
+
+#: includes/admin/donors/donors.php:536
+msgid "Lifetime Donations"
+msgstr "תרומות לכל החיים"
+
+#: includes/admin/import-functions.php:457
+#: includes/admin/tools/export/class-batch-export-donors.php:189
+#: includes/admin/tools/export/give-export-donations-exporter.php:197
+#: includes/forms/template.php:1220 includes/forms/template.php:1232
+#: assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/tabs/edit-profile/address-fields/index.js:76
+msgid "City"
+msgstr "עיר"
+
+#: includes/admin/donors/class-donor-table.php:605
+#: includes/admin/donors/donors.php:504 includes/admin/donors/donors.php:743
+#: includes/admin/donors/donors.php:1161
+#: includes/admin/payments/view-payment-details.php:688
+#: includes/class-give-scripts.php:239 includes/class-give-scripts.php:288
+#: includes/forms/template.php:1559 src/Log/Admin/Logs/index.js:278
+#: src/MigrationLog/Admin/Migrations/index.js:198
+msgid "Cancel"
+msgstr "ביטול"
+
+#: includes/admin/donors/donors.php:503
+msgid "Update Donor"
+msgstr "עדכון תורם"
+
+#: includes/admin/import-functions.php:470
+msgid "Postal"
+msgstr "תא דואר"
+
+#: includes/admin/import-functions.php:453
+#: includes/admin/tools/export/give-export-donations-exporter.php:195
+#: includes/forms/template.php:1176 assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/tabs/edit-profile/address-fields/index.js:66
+msgid "Address 1"
+msgstr "כתובת 1"
+
+#: includes/admin/import-functions.php:456
+#: includes/admin/tools/export/class-batch-export-donors.php:188
+#: includes/admin/tools/export/give-export-donations-exporter.php:196
+#: includes/forms/template.php:1199 assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/tabs/edit-profile/address-fields/index.js:71
+msgid "Address 2"
+msgstr "כתובת 2"
+
+#: includes/admin/import-functions.php:454
+#: includes/admin/tools/export/class-batch-export-donors.php:187
+#: includes/admin/tools/export/export-functions.php:147
+msgid "Address"
+msgstr "כתובת"
+
+#: includes/admin/donors/donors.php:463
+msgid "Disconnect User"
+msgstr "נתק משתמש"
+
+#: includes/admin/donors/donors.php:462
+msgid "Disconnects the current user ID from this donor record."
+msgstr "מנתק את מספר המשתמש הנוכחי מרשומת התורם הזה."
+
+#: includes/admin/import-functions.php:516
+#: includes/admin/tools/export/export-functions.php:148
+#: includes/admin/tools/export/give-export-donations-exporter.php:242
+#: includes/admin/tools/export/give-export-donations-functions.php:487
+msgid "User ID"
+msgstr "מספר משתמש"
+
+#: includes/admin/donors/donor-functions.php:53
+msgid "Donor Profile"
+msgstr "פרופיל תורם"
+
+#: includes/admin/donors/donor-functions.php:56
+msgid "Donor Notes"
+msgstr "הערות תורם"
+
+#: includes/admin/donors/donor-functions.php:77
+#: includes/admin/donors/donors.php:1158
+msgid "Delete Donor"
+msgstr "מחק תורם"
+
+#: includes/admin/reports/class-donor-reports-table.php:147
+msgid "Search Donors"
+msgstr "חיפוש תורמים"
+
+#: includes/admin/donors/donors.php:401
+msgid "Edit Donor"
+msgstr "עריכת תורם"
+
+#: includes/admin/donors/donors.php:396
+msgid "Donor since"
+msgstr "תורם מאז"
+
+#: includes/admin/donors/donor-actions.php:595
+msgid "You do not have permission to delete donors."
+msgstr "אין לך הרשאות למחוק תורמים."
+
+#: includes/admin/donors/donor-actions.php:225
+msgid "A note is required."
+msgstr "נדרשת הערה."
+
+#: includes/admin/admin-actions.php:417 includes/admin/donors/donors.php:219
+#: includes/admin/donors/donors.php:233
+msgid "Invalid Donor ID."
+msgstr "מספר תורם אינו תקין."
+
+#: includes/admin/donors/donors.php:214
+msgid "You are not permitted to view this data."
+msgstr "אינך מורשה לראות מידע זה."
+
+#: includes/admin/payments/view-payment-details.php:626
+msgid "Donor Email:"
+msgstr "אימייל של התורם:"
+
+#: includes/admin/donors/donor-actions.php:356
+msgid "Failed to disconnect user from donor."
+msgstr "שגיאה בניתוק המשתמש מהתורם."
+
+#. translators: %d User ID
+#: includes/admin/donors/donor-actions.php:110
+msgid "The User ID #%d does not exist. Please assign an existing user."
+msgstr "משתמש מספר #%d אינו קיים. יש לשייך למשתמש קיים."
+
+#. translators: %d User ID
+#: includes/admin/donors/donor-actions.php:97
+msgid "The User ID #%d is already associated with a different donor."
+msgstr "משתמש מספר #%d כבר משוייך לתורם אחר."
+
+#: includes/admin/donors/class-donor-table.php:296
+#: includes/admin/forms/dashboard-columns.php:40
+#: includes/admin/reports/class-donor-reports-table.php:220
+#: includes/admin/reports/class-form-reports-table.php:123
+#: includes/admin/reports/graphing.php:180
+#: includes/admin/reports/graphing.php:429
+#: includes/admin/tools/export/class-export-earnings.php:62
+#: includes/admin/tools/export/pdf-reports.php:311
+#: includes/admin/tools/import/class-give-import-donations.php:584
+#: includes/admin/upgrades/class-give-updates.php:225
+#: includes/deprecated/deprecated-functions.php:68 includes/post-types.php:68
+#: includes/post-types.php:124 src/API/Endpoints/Reports/FormPerformance.php:70
+#: src/API/Endpoints/Reports/FormPerformance.php:101
+#: src/API/Endpoints/Reports/IncomeBreakdown.php:82
+#: assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/components/donation-table/index.js:75
+msgid "Donations"
+msgstr "תרומות"
+
+#: includes/admin/donors/class-donor-table.php:298
+#: includes/admin/shortcodes/shortcode-give-donation-grid.php:71
+#: includes/admin/shortcodes/shortcode-give-donor-wall.php:58
+#: blocks/donation-form-grid/data/options.js:13
+#: blocks/donor-wall/data/options.js:29
+msgid "Date Created"
+msgstr "תאריך יצירה"
+
+#: includes/class-give-scripts.php:518 includes/process-donation.php:592
+msgid "Please enter a valid email address."
+msgstr "יש להזין כתובת אימייל תקינה."
+
+#: includes/admin/donors/donor-actions.php:32
+#: includes/admin/donors/donor-actions.php:198
+#: includes/admin/donors/donor-actions.php:289
+#: includes/admin/donors/donor-actions.php:398
+msgid "You do not have permission to edit this donor."
+msgstr "אין לך הרשאות לערוך תורם זה."
+
+#: includes/admin/donors/class-donor-table.php:297
+#: includes/admin/reports/class-donor-reports-table.php:221
+#: includes/admin/reports/class-gateways-reports-table.php:141
+#: includes/admin/tools/export/export-functions.php:151
+msgid "Total Donated"
+msgstr "סך התרומות"
+
+#: includes/admin/donors/class-donor-table.php:295
+#: includes/admin/donors/donors.php:783
+#: includes/admin/emails/class-email-notification-table.php:68
+#: includes/admin/emails/class-email-setting-field.php:326
+#: includes/admin/import-functions.php:474
+#: includes/admin/reports/class-donor-reports-table.php:219
+#: includes/admin/tools/export/export-functions.php:146
+#: templates/shortcode-register.php:39
+msgid "Email"
+msgstr "אימייל"
+
+#: includes/admin/class-api-keys-table.php:216
+msgid "Secret Key"
+msgstr "מפתח סודי"
+
+#: includes/admin/donors/class-donor-table.php:294
+#: includes/admin/forms/dashboard-columns.php:35
+#: includes/admin/import-functions.php:438
+#: includes/admin/reports/class-donor-reports-table.php:218
+#: includes/admin/tools/export/export-functions.php:145
+#: includes/admin/tools/views/html-admin-page-system-info.php:981
+msgid "Name"
+msgstr "שם"
+
+#: includes/admin/admin-actions.php:952
+#: includes/admin/donors/class-donor-table.php:65
+#: includes/admin/emails/abstract-email-notification.php:153
+#: includes/admin/emails/class-donation-receipt-email.php:46
+#: includes/admin/emails/class-donor-note-email.php:45
+#: includes/admin/emails/class-donor-register-email.php:41
+#: includes/admin/emails/class-email-access-email.php:42
+#: includes/admin/reports/class-donor-reports-table.php:67
+#: templates/history-donations.php:70 templates/shortcode-receipt.php:41
+msgid "Donor"
+msgstr "תורם"
+
+#: includes/admin/class-api-keys-table.php:283
+msgid "Generate New API Keys"
+msgstr "צור מפתחות API חדשים"
+
+#: includes/admin/class-api-keys-table.php:215
+msgid "Token"
+msgstr "טוקן"
+
+#: includes/admin/donors/class-donor-table.php:269
+#: includes/admin/reports/class-donor-reports-table.php:184
+msgid "Unnamed Donor"
+msgstr "תורם ללא שם"
+
+#: includes/admin/class-api-keys-table.php:214
+msgid "Public Key"
+msgstr "מפתח ציבורי"
+
+#: includes/admin/class-api-keys-table.php:59
+#: includes/gateways/stripe/includes/admin/admin-helpers.php:75
+msgid "API Keys"
+msgstr "מפתחות API"
+
+#: includes/admin/class-api-keys-table.php:184
+msgid "Revoke"
+msgstr "בטל"
+
+#: includes/admin/class-api-keys-table.php:213
+#: templates/shortcode-register.php:34
+msgid "Username"
+msgstr "שם משתמש"
+
+#: includes/admin/class-api-keys-table.php:150
+msgid "View API Log"
+msgstr "הצג יומן API"
+
+#: includes/admin/class-api-keys-table.php:168
+msgid "Reissue"
+msgstr "הנפק מחדש"
+
+#: includes/admin/admin-actions.php:255
+msgid "The donation note has been deleted."
+msgstr "הערת התשלום נמחקה."
+
+#: includes/admin/admin-actions.php:271
+msgid "The settings have been imported."
+msgstr "ההגדרות יובאו."
+
+#: includes/admin/class-api-keys-table.php:58
+msgid "API Key"
+msgstr "מפתח API"
+
+#: includes/admin/admin-actions.php:291
+msgid "The specified user already has API keys."
+msgstr "למשתמש שנבחר כבר יש מפתח API."
+
+#: includes/admin/class-addon-activation-banner.php:391
+msgid "Go to Settings"
+msgstr "הגדרות"
+
+#: includes/admin/admin-actions.php:245
+msgid "The reports cache has been cleared."
+msgstr "המטמון של הדוחות נוקה."
+
+#: includes/admin/admin-actions.php:235
+msgid "The donation receipt has been resent."
+msgstr "הקבלה נשלחה שוב."
+
+#: includes/admin/admin-pages.php:104 includes/admin/plugins.php:83
+#: includes/admin/settings/class-settings-addon.php:29
+#: src/Onboarding/Setup/templates/index.html.php:262
+msgid "Add-ons"
+msgstr "הרחבות"
+
+#. translators: %s: Add-on name
+#: includes/admin/class-addon-activation-banner.php:401
+msgid "Documentation: %s Add-on"
+msgstr "תיעוד: הרחבה %s"
+
+#: includes/admin/class-addon-activation-banner.php:412
+msgid "Get Support"
+msgstr "תמיכה"
+
+#: includes/admin/admin-pages.php:59 includes/admin/plugins.php:31
+#: blocks/donation-form/edit/inspector.js:83
+msgid "Settings"
+msgstr "הגדרות"
+
+#: includes/admin/admin-footer.php:33
+msgid "Thanks :)"
+msgstr "תודה :)"
+
+#: includes/admin/admin-pages.php:48 includes/admin/admin-pages.php:49
+#: includes/admin/donors/class-donor-table.php:66
+#: includes/admin/reports/class-donor-reports-table.php:68
+#: includes/admin/tools/import/class-give-import-donations.php:590
+#: src/API/Endpoints/Reports/Income.php:96
+#: src/API/Endpoints/Reports/IncomeBreakdown.php:81
+msgid "Donors"
+msgstr "תורמים"
+
+#: src/Views/Admin/Pages/Reports.php:90
+msgid "Donation Reports"
+msgstr "דוחות"
+
+#: src/Views/Admin/Pages/Reports.php:91
+msgid "Reports"
+msgstr "דוחות"
+
+#: includes/admin/donors/donor-actions.php:33
+#: includes/admin/donors/donor-actions.php:58
+#: includes/admin/donors/donor-actions.php:199
+#: includes/admin/donors/donor-actions.php:217
+#: includes/admin/donors/donor-actions.php:290
+#: includes/admin/donors/donor-actions.php:308
+#: includes/admin/donors/donor-actions.php:399
+#: includes/admin/donors/donor-actions.php:499
+#: includes/admin/donors/donor-actions.php:550
+#: includes/admin/donors/donor-actions.php:596
+#: includes/admin/emails/class-donation-receipt-email.php:275
+#: includes/admin/emails/class-donation-receipt-email.php:314
+#: includes/admin/emails/class-donor-note-email.php:79
+#: includes/admin/emails/class-donor-register-email.php:114
+#: includes/admin/emails/class-email-access-email.php:271
+#: includes/admin/emails/class-new-donation-email.php:248
+#: includes/admin/emails/class-new-donor-register-email.php:110
+#: includes/admin/emails/class-new-offline-donation-email.php:260
+#: includes/admin/emails/class-offline-donation-instruction-email.php:226
+#: includes/admin/forms/dashboard-columns.php:274
+#: includes/admin/payments/actions.php:31
+#: includes/admin/payments/actions.php:86
+#: includes/admin/payments/actions.php:99
+#: includes/admin/payments/actions.php:382
+#: includes/admin/payments/actions.php:402
+#: includes/admin/payments/actions.php:460
+#: includes/admin/payments/actions.php:482
+#: includes/admin/payments/view-payment-details.php:20
+#: includes/admin/payments/view-payment-details.php:34
+#: includes/admin/payments/view-payment-details.php:44
+#: includes/admin/reports/reports.php:162
+#: includes/admin/tools/data/class-give-tools-delete-donations.php:156
+#: includes/admin/tools/data/class-give-tools-delete-import-donors.php:312
+#: includes/admin/tools/data/class-give-tools-delete-test-donors.php:261
+#: includes/admin/tools/data/class-give-tools-delete-test-transactions.php:132
+#: includes/admin/tools/data/class-give-tools-recount-all-stats.php:250
+#: includes/admin/tools/data/class-give-tools-recount-donor-stats.php:206
+#: includes/admin/tools/data/class-give-tools-recount-form-stats.php:219
+#: includes/admin/tools/data/class-give-tools-recount-income.php:187
+#: includes/admin/tools/data/class-give-tools-recount-single-donor-stats.php:161
+#: includes/admin/tools/data/class-give-tools-reset-stats.php:237
+#: includes/admin/tools/export/class-batch-export.php:158
+#: includes/admin/tools/export/class-core-settings-export.php:81
+#: includes/admin/tools/export/class-export.php:186
+#: includes/admin/tools/export/export-actions.php:30
+#: includes/admin/tools/export/pdf-reports.php:31
+#: includes/admin/tools/export/pdf-reports.php:35
+#: includes/admin/tools/export/pdf-reports.php:39
+#: includes/admin/upgrades/upgrade-functions.php:503
+#: includes/api/class-give-api.php:1962 includes/api/class-give-api.php:1972
+#: includes/api/class-give-api.php:1993 includes/api/class-give-api.php:2004
+#: includes/class-give-scripts.php:290 includes/class-notices.php:627
+#: includes/formatting.php:767 includes/gateways/manual.php:80
+#: includes/gateways/stripe/includes/admin/admin-actions.php:183
+#: src/Log/ValueObjects/LogType.php:42 assets/dist/js/donor-dashboards-app.js:5
+#: src/DonorDashboards/resources/js/app/components/tab-content/index.js:22
+#: src/DonorDashboards/resources/js/app/tabs/annual-receipts/content.js:26
+#: src/DonorDashboards/resources/js/app/tabs/donation-history/content.js:36
+#: src/DonorDashboards/resources/js/app/tabs/donation-history/dashboard-content.js:30
+#: src/DonorDashboards/resources/js/app/tabs/recurring-donations/content.js:39
+msgid "Error"
+msgstr "שגיאה"
